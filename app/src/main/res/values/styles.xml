@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/deep_purple_700</item>
+        <item name="colorPrimaryDark">@color/deep_purple_700</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+    </style>
+
+    <!-- ======================= BUTTONS ======================== -->
+
+    <style name="BottomButton" parent="AppTheme">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:tint">@color/white</item>
+    </style>
+</resources>

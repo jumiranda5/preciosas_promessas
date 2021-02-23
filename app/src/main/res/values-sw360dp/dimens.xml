@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- MAIN -->
+    <dimen name="shake_font_size">20sp</dimen>
+    <dimen name="main_text_padding_top">64dp</dimen>
+    <dimen name="main_text_font_size">20sp</dimen>
+
+</resources>

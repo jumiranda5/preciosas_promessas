@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Biblijos Citatos</string>
+    <string name="desc_share">Share</string>
+    <string name="favorites">Mėgstamiausi</string>
+    <string name="text_copied">Tekstas nukopijuotas.</string>
+
+    <string-array name="verses">
+        <item>Palaiminti liūdintys: jie bus paguosti.\n(Matą 5,4)</item>
+        <item>Palaiminti romieji: jie paveldės žemę.\n(Matą 5,5)</item>
+        <item>Palaiminti alkstantys ir trokštantys teisumo:jie bus pasotinti.\n(Matą 5,6)</item>
+        <item>Palaiminti gailestingieji: jie susilauks gailestingumo.\n(Matą 5,7)</item>
+        <item>Palaiminti tyraširdžiai: jie regės Dievą.\n(Matą 5,8)</item>
+        <item>Palaiminti taikdariai: jie bus vadinami Dievo vaikais.\n(Matą 5,9)</item>
+        <item>Palaiminti persekiojami dėl teisumo: jų yra dangaus karalystė.\n(Matą 5,10)</item>
+        <item>Jūs pasaulio šviesa. Neįmanoma nuslėpti miesto, kuris pastatytas ant kalno.\n(Matą 5,14)</item>
+        <item>Taip tešviečia ir jūsų šviesa žmonių akivaizdoje, kad jie matytų gerus jūsų darbus ir šlovintų jūsų Tėvą danguje.\n(Matą 5,16)</item>
+        <item>O aš jums sakau: mylėkite savo priešus ir melskitės už savo persekiotojus, kad būtumėte savo dangiškojo Tėvo vaikai; jis juk leidžia savo saulei tekėti blogiesiems ir geriesiems, siunčia lietų ant teisiųjų ir neteisiųjų.\n(Matą 5,44–45)</item>
+        <item>Kai tu daliji išmaldą, tenežino tavo kairė, ką daro dešinė, kad tavo išmalda liktų slaptoje, o tavo Tėvas, regintis slaptoje, tau atlygins.\n(Matą 6,3–4)</item>
+        <item>Kai tu panorėsi melstis, eik į savo kambarėlį ir užsirakinęs melskis savo Tėvui, esančiam slaptoje, o tavo Tėvas, regintis slaptoje, tau atlygins.\n(Matą 6,6)</item>
+        <item>Jeigu jūs atleisite žmonėms jų nusižengimus, tai ir jūsų dangiškasis Tėvas atleis jums.\n(Matą 6,14)</item>
+        <item>Verčiau kraukitės lobį danguje, kur nei kandys, nei rūdys neėda, kur vagys neįsilaužia ir nevagia, nes kur tavo lobis, ten ir tavo širdis.\n(Matą 6,20)</item>
+        <item>Kūno žiburys yra akis. Todėl jei tavo akis sveika, visam tavo kūnui bus šviesu.\n(Matą 6,22)</item>
+        <item>Jūs pirmiausia ieškokite Dievo karalystės ir jo teisumo, o visa tai bus jums pridėta.\n(Matą 6,33)</item>
+        <item>Taigi nesirūpinkite rytdiena, nes rytojus pats pasirūpins savimi. Kiekvienai dienai gana savo vargo.\n(Matą 6,34)</item>
+        <item>Neteiskite, kad nebūtumėte teisiami. Kokiu teismu teisiate, tokiu ir patys būsite teisiami, ir kokiu saiku seikite, tokiu ir jums bus atseikėta.\n(Matą 7,1)</item>
+        <item>Kodėl gi matai krislą savo brolio akyje, o nepastebi rąsto savojoje?!\n(Matą 7,3)</item>
+        <item>Prašykite, ir jums bus duota, ieškokite, ir rasite, belskite, ir bus jums atidaryta. Kiekvienas, kas prašo, gauna, kas ieško, randa, ir beldžiančiam atidaroma. \n(Matą 7,7–8)</item>
+        <item>Prašykite, ir jums bus duota, ieškokite, ir rasite, belskite, ir bus jums atidaryta. Kiekvienas, kas prašo, gauna, kas ieško, randa, ir beldžiančiam atidaroma. \n(Matą 7,7–8)</item>
+        <item>Šimtininkui Jėzus tarė: „Eik, tebūnie tau, kaip įtikėjai!“ Ir tą pačią valandą tarnas pagijo.\n(Matą 8,13)</item>
+        <item>Jis jiems tarė: „Ko jūs tokie bailūs, mažatikiai?“ Paskui atsikėlė, sudraudė vėjus bei ežerą, ir pasidarė visiškai ramu\n(Matą 8,26)</item>
+        <item>Jėzus, atsigręžęs ir ją pamatęs, tarė: „Pasitikėk, dukra, tavo tikėjimas išgydė tave“. Ir tą pačią akimirką moteris pagijo.\n(Matą 9,22)</item>
+        <item>Tada jis palietė jų akis ir tarė: „Tebūnie jums, kaip tikite“.\n(Matą 9,29)</item>
+        <item>Taigi nebijokite jų. Juk nėra nieko uždengta, kas nebus atidengta, ir nieko paslėpta, kas nepasidarys žinoma.\n(Matą 10,26)</item>
+        <item>Ateikite pas mane visi, kurie vargstate ir esate prislėgti: aš jus atgaivinsiu!\n(Matą 11,28)</item>
+        <item>Kokia gi žmogui nauda, jeigu jis laimėtų visą pasaulį, o pakenktų savo gyvybei?! Arba kuo žmogus galėtų išsipirkti savo gyvybę?\n(Matą 16,26)</item>
+        <item>„Iš tiesų sakau jums: jei turėtumėte tikėjimą kaip garstyčios grūdelį, jūs tartumėte šitam kalnui: \'Persikelk iš čia į tenai\', ir jis persikeltų. Jums nebūtų nieko negalimo“.\n(Matą 17,20)</item>
+        <item> Pažvelgęs į juos, Jėzus tarė: „Žmonėms tai negalimas daiktas, o Dievui viskas galima“.\n(Matą 19,26)</item>
+        <item>Jėzus atsakė: „Iš tiesų sakau jums: jeigu turėtumėte tikėjimo ir nesvyruotumėte, ne tik galėtumėte taip padaryti su figmedžiu, bet pasakytumėte šitam kalnui: \'Pasikelk ir meskis į jūrą!\', ir taip atsitiktų. Visa, ko tikėdami melsite, – gausite“.\n(Matą 21,21)</item>
+        <item>Visa, ko tikėdami melsite, gausite.\n(Matą 21,22)</item>
+        <item>Dangus ir žemė praeis, o mano žodžiai nepraeis.\n(Matą 24,35)</item>
+        <item>O jis tarė jai: „Dukra, tavo tikėjimas išgelbėjo tave, eik rami ir būk išgijusi iš savo ligos“.\n(Morkų 5,34)</item>
+        <item>Nebijok, vien tik tikėk!\n(Morkų 5,36)</item>
+        <item>Jėzus jam atsakė: „Jei ką gali?! Tikinčiam viskas galima!“\n(Morkų 9,23)</item>
+        <item>Iš tiesų sakau jums: kas nepriima Dievo karalystės kaip kūdikis, – neįeis į ją“.\n(Morkų 10,15)</item>
+        <item>Jėzus pažvelgė į juos ir tarė: „Tai neįmanoma žmonėms, bet ne Dievui: Dievui viskas įmanoma“.\n(Morkų 10,27)</item>
+        <item>Tuomet Jėzus jam tarė: „Eik, tavo tikėjimas išgelbėjo tave“. Jis tuoj pat praregėjo ir nusekė paskui Jėzų keliu.\n(Morkų 10,52)</item>
+        <item>Jėzus jiems atsakė: „Turėkite tikėjimą Dievu!“\n(Morkų 11,22)</item>
+        <item>Iš tiesų sakau jums: kas pasakytų šitam kalnui: \"Pasikelk ir meskis į jūrą\" ir savo širdyje nesvyruotų, bet tikėtų įvyksiant, ką sako, – tai jam ir įvyktų.\n(Morkų 11,23)</item>
+        <item>Todėl sakau jums: ko tik melsdamiesi prašote, tikėkite gausią, ir tikrai taip bus.\n(Morkų 11,24)</item>
+        <item>Nes Dievui nėra negalimų dalykų.\n(Luką 1,37)</item>
+        <item>Tada Marija atsakė: „Štai aš Viešpaties tarnaitė, tebūna man, kaip tu pasakei“.\n(Luką 1,38)</item>
+        <item>Laiminga įtikėjusi, jog išsipildys, kas Viešpaties jai pasakyta.\n(Luką 1,45)</item>
+        <item>O Marija prabilo: „Mano siela šlovina Viešpatį, mano dvasia džiaugiasi Dievu, savo Gelbėtoju, nes jis pažvelgė į nuolankią savo tarnaitę“.\n(Luką 1,46–48)</item>
+        <item>O Marija prabilo: „Mano siela šlovina Viešpatį, mano dvasia džiaugiasi Dievu, savo Gelbėtoju, nes jis pažvelgė į nuolankią savo tarnaitę“.\n(Luką 1,46–48)</item>
+        <item>Nes didžių dalykų padarė man Viešpats, ir šventas yra jo vardas!\n(Luką 1,49)</item>
+        <item>Jis maloningas iš kartos į kartą tiems, kurie jo klauso.\n(Luką 1,50)</item>
+        <item>Būkite gailestingi, kaip ir jūsų Tėvas gailestingas.\n(Luką 6,36)</item>
+        <item>Neteiskite ir nebūsite teisiami; nesmerkite ir nebūsite pasmerkti; atleiskite, ir jums bus atleista.\n(Luką 6,37)</item>
+        <item>Geras žmogus iš gero savo širdies lobyno ima gera, o blogasis iš blogo lobyno ima bloga. Jo burna kalba tai, ko pertekusi širdis.\n(Luką 6,45)</item>
+        <item>Kokia būtų nauda, jei žmogus laimėtų visą pasaulį, o save pražudytų ar sau pakenktų?!\n(Luką 9,25)</item>
+        <item>Kiekvienas, kas prašo, gauna, kas ieško, randa, ir beldžiančiam atidaroma.\n(Luką 11,10)</item>
+        <item>Ir štai yra paskutinių, kurie bus pirmi, ir pirmų, kurie bus paskutiniai.\n(Luką 13,30)</item>
+        <item>Šviesa spindi tamsoje, ir tamsa jos neužgožė.\n(Joną 1,5)</item>
+        <item>Dievas gi nesiuntė savo Sūnaus į pasaulį, kad jis pasaulį pasmerktų, bet kad pasaulis per jį būtų išgelbėtas.\n(Joną 3,17)</item>
+        <item>O kas vykdo tiesą, tas eina į šviesą, kad išryškėtų, jog jo darbai atlikti Dieve.\n(Joną 3,21)</item>
+        <item>Kiekvienas nedorėlis neapkenčia šviesos ir neina į šviesą, kad jo darbai aikštėn neišeitų.\n(Joną 3,20)</item>
+        <item>Vagis ateina vien tik vogti, žudyti, naikinti. Aš atėjau, kad žmonės turėtų gyvenimą, – kad apsčiai jo turėtų.\n(Joną 10,10)</item>
+        <item>Kaip mane Tėvas mylėjo, taip ir aš jus mylėjau. Pasilikite mano meilėje!\n(Joną 15,9)</item>
+        <item>Jei laikysitės mano įsakymų, pasiliksite mano meilėje, kaip aš kad vykdau savo Tėvo įsakymus ir pasilieku jo meilėje.\n(Joną 15,10)</item>
+        <item>Aš jums tai įsakau: vienam kitą mylėti!\n(Joną 15,17)</item>
+        <item>Jei pasaulis jūsų nekenčia, tai žinokite – jis manęs nekentė pirmiau negu jūsų.\n(Joną 15,18)</item>
+        <item>Tai mano įsakymas, kad vienas kitą mylėtumėte, kaip aš jus mylėjau.\n(Joną 15,12)</item>
+        <item>Iš tiesų, iš tiesų sakau jums: jūs verksite ir vaitosite, o pasaulis džiūgaus. Jūs iūdėsite, bet jūsų liūdesys pavirs džiaugsmu.\n(Joną 16,20)</item>
+        <item>Iš tiesų, iš tiesų sakau jums: ko tik prašysite Tėvą, duos tai jums dėl manęs.\n(Joną 16,23)</item>
+        <item>Iki šiol jūs nieko neprašėte mano vardu. Prašykite ir gausite, kad jūsų džiaugsmui nieko netrūktų.\n(Joną 16,24)</item>
+        <item>Pasaulyje jūsų priespauda laukia, bet jūs būkite drąsūs: aš nugalėjau pasaulį!\n(Joną 16,33)</item>
+        <item> Jie atsakė: „Tikėk Viešpatį Jėzų, tai būsi išgelbėtas tu ir tavo namai“.\n(Apaštalų darbai 16,31)</item>
+        <item>O ir Dvasia ateina pagalbon mūsų silpnumui. Mes juk nežinome, ko turėtume deramai melsti, todėl pati Dvasia užtaria mus neišsakomais atodūsiais.\n(Romiečiams 8,26)</item>
+        <item>Be to, žinome, kad viskas išeina į gera mylintiems Dievą, būtent jo valia pašauktiesiems.\n(Romiečiams 8,28)</item>
+        <item>Tai ką dėl viso šito pasakysime? Jei Dievas už mus, tai kas gi prieš mus?!\n(Romiečiams 8,31)</item>
+        <item>Meilė tebūna be veidmainystės. Bodėkitės pikto, laikykitės gero.\n(Romiečiams 12,9)</item>
+        <item>Nuoširdžiai mylėkite vieni kitus broliška meile; lenktyniaukite tarpusavio pagarba.\n(Romiečiams 12,10)</item>
+        <item>Nebūkite apsileidę, bet uolūs, karštos dvasios, tarnaukite Viešpačiui.\n(Romiečiams 12,11)</item>
+        <item>Džiaukitės viltyje, būkite kantrūs varge, ištvermingi maldoje.\n(Romiečiams 12,12)</item>
+        <item>Laiminkite savo persekiotojus, laiminkite ir nekeikite.\n(Romiečiams 12,14)</item>
+        <item>Džiaukitės su besidžiaugiančiais, verkite su verkiančiais.\n(Romiečiams 12,15)</item>
+        <item>Niekam neatmokėkite piktu už pikta, rūpinkitės tuo, kas gera visų žmonių akyse.\n(Romiečiams 12,17)</item>
+        <item>Kiek galima ir kiek nuo jūsų priklauso, gyvenkite taikoje su visais žmonėmis.\n(Romiečiams 12,18)</item>
+        <item>Nesiduok pikto nugalimas, bet nugalėk pikta gerumu.\n(Romiečiams 12,21)</item>
+        <item>Todėl imkitės visų Dievo ginklų, kad galėtumėte piktąją dieną pasipriešinti ir, visa nugalėję, išsilaikyti.\n(Efeziečiams 6,13)</item>
+        <item>Nebūkite tad neprotingi, bet supraskite, kokia yra Viešpaties valia.\n(Efeziečiams 5,17)</item>
+        <item>Visuomet džiaukitės, be paliovos melskitės! Už viską dėkokite, nes to Dievas nori iš jūsų Kristuje Jėzuje.\n(1 Tesalonikiečiams 5,16–18)</item>
+        <item>Tikėjimu suvokiame, kad pasauliai buvo sukurti Dievo žodžiu, būtent iš neregimybės atsirado regima.\n(Žydams 11,3)</item>
+        <item>Tikėjimu buvo sugriauti Jericho mūrai po septynių dienų žygiavimo aplinkui.\n(Žydams 11,30)</item>
+        <item>Tikėjimas laiduoja mums tai, ko viliamės, įrodo tikrovę, kurios nematome.\n(Žydams 11,1)</item>
+        <item>Jei kuriam iš jūsų trūksta išminties, teprašo Dievą, kuris visiems dosniai duoda ir nepriekaištauja, ir jam bus suteikta.\n(Jokūbo 1,5)</item>
+        <item>Tegul prašo, tvirtai tikėdamas, nė kiek neabejodamas, nes abejojantis žmogus panašus į jūros bangas, varinėjamas ir blaškomas vėjo.\n(Jokūbo 1,6)</item>
+        <item> Palaimintas žmogus, kuris ištveria išmėginimą, nes kai bus ištirtas, jis gaus gyvenimo vainiką, kurį Dievas yra pažadėjęs jį mylintiems.\n(Jokūbo 1,12)</item>
+        <item> Ir nė vienas gundomas tenesako: „Aš esu Dievo gundomas“. Dievas negali būti gundomas į pikta ir pats nieko negundo. Kiekvienas yra gundomas, savo geismo pagrobtas ir suviliotas.\n(Jokūbo 1,13)</item>
+        <item>Kiekvienas geras davinys ir tobula dovana ateina iš aukštybių, nužengia nuo šviesybių Tėvo, kuriame nėra jokių atmainų ir jokių sambrėškų.\n(Jokūbo 1,17)</item>
+        <item>Žinokite, mano mylimi broliai: kiekvienas žmogus tebūna greitas klausytis, bet lėtas kalbėti, lėtas pykti.\n(Jokūbo 1,19)</item>
+        <item>Žmogaus rūstybė nedaro Dievo teisybės.\n(Jokūbo 1,20)</item>
+        <item>Todėl, atsižadėję visų nešvarybių bei piktybių gausos, su romumu priimkite įdiegtąjį žodį, kuris gali išgelbėti jūsų sielas.\n(Jokūbo 1,21)</item>
+        <item>Būkite žodžio vykdytojai, o ne vien klausytojai, apgaudinėjantys patys save.\n(Jokūbo 1,22)</item>
+        <item>Jei kas mano esąs maldingas ir nepažaboja savo liežuvio, bet apgaudinėja savo širdį, to maldingumas tuščias.\n(Jokūbo 1,26)</item>
+        <item>Jeigu tik vykdote karališkąjį įstatymą, kaip Raštas reikalauja: Mylėk savo artimą kaip save patį, jūs gerai darote.\n(Jokūbo 2,8)</item>
+        <item>Kas iš to, mano broliai, jei kas sakosi turįs tikėjimą, bet neturi tikėjimo darbų?! Ar gali jį išgelbėti tikėjimas?\n(Jokūbo 2,14)</item>
+        <item>Matai – tikėjimas veikė kartu su jo darbais, ir darbai tikėjimą padarė tobulą.\n(Jokūbo 2,22)</item>
+        <item>Jūs matote, kad žmogus nuteisinamas darbais, o ne vienu tikėjimu.\n(Jokūbo 2,24)</item>
+        <item>Kaip kūnas be dvasios miręs, taip ir tikėjimas be darbų negyvas.\n(Jokūbo 2,26)</item>
+        <item>Iš tų pačių lūpų plaukia ir laiminimas, ir prakeikimas. Bet taip, mano broliai, neturi būti!\n(Jokūbo 3,10)</item>
+        <item>O teisumo vaisius sėjamas taikoje tiems, kurie neša taiką.\n(Jokūbo 3,18)</item>
+        <item>Geidžiate ir neturite? Tuomet žudote. Pavydite ir negalite pasiekti? Tuomet kovojate ir kariaujate. Jūs neturite, nes neprašote.\n(Jokūbo 4,2)</item>
+        <item>Jūs prašote ir negaunate, nes negerai prašote – tik savo įnoriams patenkinti.\n(Jokūbo 4,3)</item>
+        <item>Bet jis duoda dar didesnę malonę, ir todėl sakoma: Dievas priešinasi išpuikėliams, o nuolankiesiems teikia malonę.\n(Jokūbo 4,6)</item>
+        <item>Nusižeminkite prieš Viešpatį, tai jis jus išaukštins.\n(Jokūbo 4,10)</item>
+        <item>Broliai, neapkalbinėkite vieni kitų! Kas apkalbinėja arba teisia savo brolį, tas apkalbinėja ir teisia įstatymą. O jeigu tu teisi įstatymą, vadinasi, nesi įstatymo vykdytojas, bet teisėjas.\n(Jokūbo 4,11)</item>
+        <item>Tačiau tėra vienintelis įstatymo leidėjas ir teisėjas, būtent tas, kuris gali išgelbėti ir pražudyti. O kas gi tu toksai, kuris drįsti teisti artimą?!\n(Jokūbo 4,12)</item>
+        <item>Kas moka daryti gera ir nedaro, tas nusideda.\n(Jokūbo 4,17)</item>
+        <item>Nemurmėkite, broliai, vieni prieš kitus, kad nebūtumėte teisiami. Štai teisėjas jau stovi prie slenksčio.\n(Jokūbo 5,9)</item>
+        <item>Imkite, broliai, vargų pakentimo ir kantrybės pavyzdžiu pranašus, kurie kalbėjo Viešpaties vardu.\n(Jokūbo 5,10)</item>
+        <item>Ištiko ką iš jūsų nelaimė? Tesimeldžia. Kas nors džiaugiasi? Tegul gieda.\n(Jokūbo 5,13)</item>
+        <item>Tad išpažinkite vieni kitiems nuodėmes ir melskitės vieni už kitus, kad atgautumėte sveikatą. Daug gali karšta teisiojo malda.\n(Jokūbo 5,16)</item>
+        <item>Taigi, atmetę visokią blogybę, visokią klastą, veidmainystes, pavyduliavimus ir visokias apkalbas, lyg naujãgimiai trokškite dvasinio, neatmiešto pieno, kad nuo jo augtumėte išganymui.\n(1 Petro 2,1)</item>
+        <item>Elkitės kaip laisvi; ne kaip tie, kurie laisve pridengia blogį, bet kaip Dievo tarnai.\n(1 Petro 2,16)</item>
+        <item>Elkitės kaip laisvi; ne kaip tie, kurie laisve pridengia blogį, bet kaip Dievo tarnai.\n(1 Petro 2,16)</item>
+        <item>Mat tokia yra Dievo valia, kad gerais darbais nutildytumėte neprotingų žmonių nesąmones.\n(1 Petro 2,15)</item>
+        <item>Galiausiai visi būkite vieningi, užjaučiantys kitus, mylintys brolius, gailestingi, nuolankūs.\n(1 Petro 3,8)</item>
+        <item>Neatsilyginkite piktu už pikta ar keiksmu už keiksmą, bet, priešingai, laiminkite, nes ir patys esate pašaukti paveldėti palaiminimo.\n(1 Petro 3,9)</item>
+        <item>Kas trokšta mylėti gyvenimą ir matyti gerų dienų, tepažaboja liežuvį nuo pikto ir lūpas nuo klastingų kalbų.\n(1 Petro 3,10)</item>
+        <item>Tegu jis bėga nuo pikto ir daro gera, teieško ramybės ir tesiveja ją!\n(1 Petro 3,11)</item>
+        <item>Kas gi jums pakenks, jei stropiai darysite gera? Bet jeigu jums ir tektų kentėti už tiesą, – jūs palaiminti! Jų gąsdinimo neišsigąskite ir nesutrikite.\n(1 Petro 3,13–14)</item>
+        <item>Kas gi jums pakenks, jei stropiai darysite gera? Bet jeigu jums ir tektų kentėti už tiesą, – jūs palaiminti! Jų gąsdinimo neišsigąskite ir nesutrikite.\n(1 Petro 3,13–14)</item>
+        <item>Tad nusižeminkite po galinga Dievo ranka, kad jis išaukštintų jus metui atėjus.\n(1 Petro 5,6)</item>
+        <item>Paveskite jam visus savo rūpesčius, nes jis jumis rūpinasi.\n(1 Petro 5,7)</item>
+        <item>Nebėra meilėje baimės, bet tobula meilė išveja baimę. Baimė bijo bausmės, ir kas bijo, tas dar netobulai myli.\n(1 Jono 4,18)</item>
+        <item>Kas sakosi esąs šviesoje, o savo brolio nekenčia, tas dar tebėra tamsoje.\n(1 Jono 2,9)</item>
+        <item>Mes tvirtai pasitikime juo, nes ko tik prašome pagal jo valią, jis mūsų išklauso.\n(1 Jono 5,14)</item>
+        <item>O jeigu žinome, kad jis mūsų išklauso, ko tik prašome, tai ir žinome turį, ko esame prašę.\n(1 Jono 5,15)</item>
+        <item>Jei kalbėčiau žmonių ir angelų kalbomis, bet neturėčiau meilės, aš tebūčiau žvangantis varis ir skambantys cimbolai.\n(1 Korintiečiams 13,1)</item>
+        <item>Ir jei turėčiau pranašystės dovaną ir pažinčiau visas paslaptis ir visą mokslą; jei turėčiau visą tikėjimą, kad galėčiau net kalnus kilnoti, tačiau neturėčiau meilės, aš būčiau niekas.\n(1 Korintiečiams 13,2)</item>
+        <item>Ir jei išdalyčiau vargšams visa, ką turiu, jeigu atiduočiau savo kūną sudeginti, bet neturėčiau meilės, – nieko nelaimėčiau.\n(1 Korintiečiams 13,3)</item>
+        <item>Meilė kantri, meilė maloninga, ji nepavydi; meilė nesididžiuoja ir neišpuiksta.\n(1 Korintiečiams 13,4)</item>
+        <item>Meilė niekada nesibaigia. Išnyks pranašystės, paliaus kalbos, baigsis pažinimas.\n(1 Korintiečiams 13,8)</item>
+        <item>Kaip mums gausiai tenka Kristaus kentėjimų, taip per Kristų mes kupini ir paguodos.\n(2 Korintiečiams 1,5)</item>
+        <item>Tuomet Dievas tarė: „Tebūna šviesa!“ Ir šviesa pasirodė.\n(Pradžios 1,3)</item>
+        <item>Dievas matė, kad šviesa buvo gera, ir Dievas atskyrė šviesą nuo tamsos.\n(Pradžios 1,4)</item>
+        <item>Būk tikras, aš esu su tavimi! Globosiu tave, kur tik eitum, ir sugrąžinsiu tave į šią žemę. Niekad tavęs nepaliksiu, kol neįvykdysiu, ką tau pažadėjau. \n(Pradžios 28,15)</item>
+        <item>Bet Mozė žmonėms sakė: „Nebijokite! Tvirtai laikykitės ir pamatysite išgelbėjimą, kurį VIEŠPATS jums šiandien suteiks“.\n(Išėjimo 14,13)</item>
+        <item>Pats VIEŠPATS kovos už jus, o jūs nutilkite.\n(Išėjimo 14,14)</item>
+        <item>Tikėk manimi, aš siunčiu angelą pirma tavęs saugoti tave kelyje ir nuvesti tave į vietą, kurią paruošiau.\n(Išėjimo 23,20)</item>
+        <item>Kaip buvau su Moze, lygiai taip būsiu su tavimi. Tavęs neapvilsiu ir nepaliksiu!\n(Jozuės 1,5)</item>
+        <item>Argi ne aš tau įsakiau: \"Būk stiprus ir ryžtingas\"? Taigi nesibaimink ir nenuogąstauk, nes VIEŠPATS, tavo Dievas, yra su tavimi, kur tik tu eitumei!\n(Jozuės 1,9)</item>
+        <item>Jozuė žmonėms sakė: „Pašventinkite save, nes rytoj VIEŠPATS darys tarp jūsų nuostabius darbus“.\n(Jozuės 3,5)</item>
+        <item>Jo darbai didingi ir nesuvokiami,nuostabūs ir be skaičiaus.\n(Jobo 5,9)</item>
+        <item>Tu jausiesi saugus, nes turėsi vilties; Dievas saugos tave, ir saugiai ilsėsies.\n(Jobo 11,18)</item>
+        <item>Tu jausiesi saugus, nes turėsi vilties; Dievas saugos tave, ir saugiai ilsėsies.\n(Jobo 11,18)</item>
+        <item>Jo rankoje yra gyvastis visų gyvūnų ir kiekvieno žmogaus gyvybės alsavimas.\n(Jobo 12,10)</item>
+        <item>Tačiau teisusis laikosi savojo kelio; žmogus švariomis rankomis vis stiprėja.\n(Jobo 17,9)</item>
+        <item>Betgi jis žino kiekvieną mano žingsnį! Teištiria mane ugnimi: išeisiu tarsi grynas auksas.\n(Jobo 23,10)</item>
+        <item>Betgi jis žino kiekvieną mano žingsnį! Teištiria mane ugnimi: išeisiu tarsi grynas auksas.\n(Jobo 23,10)</item>
+        <item>Bet Dievas išgelbsti kenčiantįjį per jo kančią ir ausis jam atveria nelaime.\n(Jobo 36,15)</item>
+        <item>Dievas nuostabiai griaudžia savo balsu, daro nuostabius darbus, kurių suvokti negalime.\n(Jobo 37,5)</item>
+        <item>Dievas nuostabiai griaudžia savo balsu, daro nuostabius darbus, kurių suvokti negalime.\n(Jobo 37,5)</item>
+        <item>Žinau, kad tu gali visa padaryti; ką tik užsimoji, tu gali įvykdyti.\n(Jobo 42,2)</item>
+        <item>VIEŠPATS yra mano Ganytojas, man nieko netrūksta.\n(Psalmynas 23,1)</item>
+        <item>Žaliose pievose mane paguldo, prie ramių tvenkinių gano. Jis atgaivina mano gyvastį, veda teisumo takais, kaip dera jo vardui.\n(Psalmynas 23,2)</item>
+        <item>Nors einu per tamsiausią slėnį, nebijau jokio pavojaus, nes tu su manimi. Tavo ganytojo lazda ir vėzdas – jie mane apgins.\n(Psalmynas 23,4)</item>
+        <item>Tau patikiu savo dvasią, tu mane atperki, VIEŠPATIE, ištikimasis Dieve.\n(Psalmynas 31,5)</item>
+        <item>Juk esi man ir uola, ir tvirtovė, vesi ir saugosi mane dėl savo vardo.\n(Psalmynas 31,4)</item>
+        <item>Tau patikiu savo dvasią, tu mane atperki, VIEŠPATIE, ištikimasis Dieve\n(Psalmynas 31,6)</item>
+        <item>Tu neatidavei manęs į nagus priešui, bet išvedei mane į laisvę.\n(Psalmynas 31,9)</item>
+        <item>Bet aš tavimi pasitikiu, VIEŠPATIE, – sakau: „Tu esi mano Dievas“.\n(Psalmynas 31,15)</item>
+        <item>Tavo rankoje mano likimas, gelbėk mane nuo priešų nuo tų, kurie mane persekioja.\n(Psalmynas 31,16)</item>
+        <item>Būkite stiprūs ir drąsios širdies visi, kurie pasitikite VIEŠPAČIU!\n(Psalmynas 31,25)</item>
+        <item>Būkite stiprūs ir drąsios širdies visi, kurie pasitikite VIEŠPAČIU!\n(Psalmynas 31,25)</item>
+        <item>Aš didžiuojuosi VIEŠPAČIU, kuklieji girdės ir džiaugsis.\n(Psalmynas 34,3)</item>
+        <item>Kreipiausi į VIEŠPATĮ, ir jis man atsakė; mane jis išgelbėjo iš visų mano baimių.\n(Psalmynas 34,5)</item>
+        <item>Šis vargšas šaukėsi, ir VIEŠPATS išgirdo, iš visų jo vargų išgelbėjo.\n(Psalmynas 34,7)</item>
+        <item>VIEŠPATIES angelas saugo tuos, kurie pagarbiai jo bijo, ir juos išgelbsti.\n(Psalmynas 34,8)</item>
+        <item>Išbandykite ir patirkite patys, koks geras yra VIEŠPATS. Laimingas žmogus, kuris randa pas jį užuovėją!\n(Psalmynas 34,9)</item>
+        <item>Išbandykite ir patirkite patys, koks geras yra VIEŠPATS. Laimingas žmogus, kuris randa pas jį užuovėją!\n(Psalmynas 34,10)</item>
+        <item>Saugok tad liežuvį nuo pikto ir lūpas nuo apgaulės.\n(Psalmynas 34,14)</item>
+        <item>Venk pikto ir daryk gera, siek taikos iš visos širdies.\n(Psalmynas 34,15)</item>
+        <item>VIEŠPATIES akys žvelgia į teisiuosius, jo ausys girdi jų šauksmą.\n(Psalmynas 34,16)</item>
+        <item>Šaukiasi teisieji pagalbos, VIEŠPATS klausosi ir išgelbsti juos iš visų vargų.\n(Psalmynas 34,18)</item>
+        <item>VIEŠPATS yra arti tų, kurie sielojasi, ir gelbsti nevilties apimtuosius.\n(Psalmynas 34,19)</item>
+        <item>Daugel vargų ištinka teisųjį, bet VIEŠPATS išgelbsti iš jų visų.\n(Psalmynas 34,20)</item>
+        <item>Neapmaudauk dėl nedorėlių, nepavydėk tiems, kurie daro pikta.\n(Psalmynas 37,1)</item>
+        <item>Pasitikėk VIEŠPAČIU ir daryk gera, – gyvensi krašte ir būsi saugus.\n(Psalmynas 37,3)</item>
+        <item>Džiaukis iš širdies VIEŠPAČIU, ir jis suteiks tau, ko trokšta tavo širdis.\n(Psalmynas 37,4)</item>
+        <item>Pavesk VIEŠPAČIUI savo kelią, pasitikėk juo, ir jis padės\n(Psalmynas 37,5)</item>
+        <item>Tavo dorumą jis nušvies kaip dienos šviesą, o tavo teisingumą padarys kaip vidudienį.\n(Psalmynas 37,6)</item>
+        <item>Būk kantrus ir lauk VIEŠPATIES, neapmaudauk dėl to, kuriam viskas sekasi, – dėl žmogaus, rezgančio savo piktus kėslus.\n(Psalmynas 37,7)</item>
+        <item>Susilaikyk nuo įniršio, atsisakyk pykčio – neapmaudauk, – tai tik į pikta veda.\n(Psalmynas 37,8)</item>
+        <item>Bet kuklieji paveldės žemę, gėrėsis gausia gerove.\n(Psalmynas 37,11)</item>
+        <item>VIEŠPATS rūpinasi tais, kurie jo klauso, ir paveldas amžinai jiems priklausys.\n(Psalmynas 37,18)</item>
+        <item>VIEŠPATS veda žmogaus žingsnius ir saugo tą, kurio keliu džiaugiasi. Nors ir sukluptų, jis neliks gulėti, nes VIEŠPATS padės jam atsikelti.\n(Psalmynas 37,23)</item>
+        <item>VIEŠPATS veda žmogaus žingsnius ir saugo tą, kurio keliu džiaugiasi. Nors ir sukluptų, jis neliks gulėti, nes VIEŠPATS padės jam atsikelti.\n(Psalmynas 37,23)</item>
+        <item>Teisieji paveldės kraštą, jame gyvens amžinai.\n(Psalmynas 37,29)</item>
+        <item>Išmintis ateina iš teisiojo lūpų, jo liežuvis sako, kas teisinga.\n(Psalmynas 37,30)</item>
+        <item>Brangink nuoširdų žmogų, įsižiūrėk į dorą, nes taikus žmogus turi ateitį.\n(Psalmynas 37,37)</item>
+        <item>Nereikės tau bijoti nakties klaiko nei strėlės, iššautos dieną.\n(Psalmynas 91,5)</item>
+        <item>Nors tūkstantis kristų tavo kairėje ir dešimt tūkstančių – dešinėje, bet tavęs niekas nepasieks.\n(Psalmynas 91,7)</item>
+        <item>Tu pasirinkai VIEŠPATĮ savo prieglauda, Aukščiausiąjį savo užuovėja, užtat neištiks tavęs žala, nepalies tavo palapinės nelaimė.\n(Psalmynas 91,9–10)</item>
+        <item>Juk jis palieps savo angelams, kad saugotų tave visur, kur tik eitumei. Savo rankomis jie neš tave, kad kojos į akmenį neužsigautum.\n(Psalmynas 91,11–12)</item>
+        <item>Juk jis palieps savo angelams, kad saugotų tave visur, kur tik eitumei. Savo rankomis jie neš tave, kad kojos į akmenį neužsigautum.\n(Psalmynas 91,11–12)</item>
+        <item>Sumindžiosi liūtą ir gyvatę, sutrypsi liūtuką ir slibiną.\n(Psalmynas 91,13)</item>
+        <item>Kai jis manęs šauksis, jo išklausysiu, – su juo būsiu varge, jį išgelbėsiu, pagerbsiu.\n(Psalmynas 91,15)</item>
+        <item> Su nuoširdžiu tu elgiesi nuoširdžiai, bet su sukčiumi – gudriai.\n(Psalmynas 18,27)</item>
+        <item>Palengvink man širdies rūpesčius ir išgelbėk mane iš mano vargų.\n(Psalmynas 25,17)</item>
+        <item>Antai, nedorėliai guli kniūbsti, parblokšti, atsikelt nebegali.\n(Psalmynas 36,13)</item>
+        <item> Kas sėja ašarodamas, ims derlių džiūgaudamas.\n(Psalmynas 126,05)</item>
+        <item>Teisus yra VIEŠPATS, jis sutraukė nedorėlių virves.\n(Psalmynas 129,04)</item>
+        <item>Išgelbėk mane, VIEŠPATIE, nuo priešų, nes pas tave bėgu, ieškodamas užuovėjos.\n(Psalmynas 143,09)</item>
+        <item>Keliu akis į kalnus – iš kur ateis man pagalba? Pagalba man ateina iš VIEŠPATIES, kuris padarė dangų ir žemę.\n(Psalmynas 121,1–2)</item>
+        <item>Tavo kojai suklupti jis neleis, – tas, kuris tave globoja, budi. Štai Izraelio globėjas nei snaudžia, nei miega!\n(Psalmynas 121,3–4)</item>
+        <item>VIEŠPATS tave saugo; tavo dešinėje VIEŠPATS yra tavo užuovėja. Dieną saulė neužgaus tavęs nei mėnulis naktį.\n(Psalmynas 121,5–6)</item>
+        <item>VIEŠPATS saugos tave nuo viso, kas pikta, jis saugos tavo gyvastį. VIEŠPATS saugos tave išeinantį ir grįžtant ir dabar, ir amžinai.\n(Psalmynas 121,7–8)</item>
+        <item> Mano vaike, klausyk savo tėvo pamokymo, neatmesk savo motinos žodžių.\n(Patarlių 1,8)</item>
+        <item>Visa širdimi pasitikėk VIEŠPAČIU ir nesiremk vien tik įžvalga savo.\n(Patarlių 3,5)</item>
+        <item>Pripažink jį visur, ką tik darai, jis ištiesins tavo kelius.\n(Patarlių 3,6)</item>
+        <item>Nebūk išmintingas tik sau; pagarbiai bijok VIEŠPATIES ir venk pikto.\n(Patarlių 3,7)</item>
+        <item>Nekelk kojos ant nedorų žmonių tako, neik nedorėlių keliu.\n(Patarlių 4,14)</item>
+        <item>Bet teisiųjų takas yra tarsi aušros šviesa, vis labiau švintanti iki skaisčios dienos.\n(Patarlių 4,18)</item>
+        <item>Atsidėjęs saugok savo širdį, nes iš jos teka gyvenimo šaltiniai.\n(Patarlių 4,23)</item>
+        <item>Atsidėjęs saugok savo širdį, nes iš jos teka gyvenimo šaltiniai.\n(Patarlių 4,23)</item>
+        <item>Venk kalbėti apgaulingai, suktas kalbas mesk šalin.\n(Patarlių 4,24)</item>
+        <item>Žiūrėk, kur eini, ir visi tavo keliai bus tikri.\n(Patarlių 4,26)</item>
+        <item>Težiūri tavo akys į priekį, tiesus tebūna tavo žvilgsnis.\n(Patarlių 4,25)</item>
+        <item>Nesuk nei į dešinę, nei į kairę; nukreipk savo koją nuo pikto.\n(Patarlių 4,27)</item>
+        <item>Juk kur žmonės eina, VIEŠPATS aiškiai mato, jis stebi visus jų kelius.\n(Patarlių 5,21)</item>
+        <item>Kur daug kalbama, ten kaltės netrūksta, o protingo žmogaus kalba yra santūri.\n(Patarlių 10,19)</item>
+        <item>Žmogaus gerumas daro jam pačiam gera, o negailestingas žmogus daro sau žalą.\n(Patarlių 11,17)</item>
+        <item>Geriau daržovių pietūs su meile, negu riebi jautiena su neapykanta.\n(Patarlių 15,17)</item>
+        <item> Pavesk savo darbą VIEŠPAČIUI, ir tavo užmojai bus sėkmingi.\n(Patarlių 16,3)</item>
+        <item>Geriau turėti mažai, įsigyta sąžiningai, negu dideles neteisėtas pajamas.\n(Patarlių 16,8)</item>
+        <item>Nepalyginamai geriau yra įsigyti išminties, negu aukso! Verčiau rinktis įsigyti įžvalgos, negu gauti sidabro.\n(Patarlių 16,16)</item>
+        <item>Puikybė apima prieš žūtį, įžūlumas veda į nesėkmę.\n(Patarlių 16,18)</item>
+        <item>Kas yra išmintingos širdies, laikomas protingu žmogumi, o patraukli kalba yra papildomas laimėjimas.\n(Patarlių 16,21)</item>
+        <item>Žmogus širdyje sumano, ką jis darys, bet jo žingsnius valdo VIEŠPATS.\n(Patarlių 16,9)</item>
+        <item>Taiklūs žodžiai yra kaip medaus korys, saldumas gomuriui ir sveikata kūnui.\n(Patarlių 16,24)</item>
+        <item> Bičiulis visados yra bičiulis, o brolis – gimęs vargu dalytis.\n(Patarlių 17,17)</item>
+        <item> Linksma širdis yra geras vaistas, o niūri dvasia džiovina kaulus.\n(Patarlių 17,22)</item>
+        <item>Protingą žmogų papeikimo žodis labiau paveikia, negu šimtas smūgių kvailį.\n(Patarlių 17,10)</item>
+        <item>Negera būti šališkam nedoro žmogaus atžvilgiu ir teisme nuskriausti nekaltą žmogų.\n(Patarlių 18,5)</item>
+        <item>Žmogaus širdis puikuojasi prieš žūtį, o prieš garbę eina nusižeminimas.\n(Patarlių 18,12)</item>
+        <item>Sumanus žmogus yra lėtas pykti, atleisti įžeidimą jam garbė.\n(Patarlių 19,11)</item>
+        <item>Nesakyk: „Aš atlyginsiu už pikta!“ Pasitikėk VIEŠPAČIU, ir jis tau padės.\n(Patarlių 20,22)</item>
+        <item>Kas užsičiaupia burną ir prikanda liežuvį, apsaugo save nuo daug bėdų.\n(Patarlių 21,23)</item>
+        <item>Nepavydėk savo širdyje nusidėjėliams, verčiau būk uolus kasdien pagarbia VIEŠPATIES baime. Iš tikrųjų tada turėsi ateitį, ir tavo viltys nenueis niekais.\n(Patarlių 23,17–18)</item>
+        <item>Dievas tikrai yra mano išganymas. Aš juo pasitikiu ir esu be baimės, nes jis yra mano tvirtybė ir mano giesmė, – jis buvo gelbėtojas mano!\n(Izaijo 12,2)</item>
+        <item>Dievas tikrai yra mano išganymas. Aš juo pasitikiu ir esu be baimės, nes jis yra mano tvirtybė ir mano giesmė, – jis buvo gelbėtojas mano!\n(Izaijo 12,2)</item>
+        <item>Teisumo poveikis bus taika, o teisumo vaisius – ramybė ir apsauga, amžiais tverianti.\n(Izaijo 32,17)</item>
+        <item>Bet tie, kurie pasitiki VIEŠPAČIU, atgaus jėgas, pakils tarsi arų sparnais, – nepavargs bėgdami, nepails eidami.\n(Izaijo 40,31)</item>
+        <item>Nebijok, nes aš su tavimi esu, nebūgštauk, nes aš esu tavo Dievas! Tave stiprinsiu, – padėsiu tau, remsiu tave savo teisumo dešine.\n(Izaijo 41,10)</item>
+        <item>Nebijok, nes aš su tavimi esu, nebūgštauk, nes aš esu tavo Dievas! Tave stiprinsiu, – padėsiu tau, remsiu tave savo teisumo dešine.\n(Izaijo 41,10)</item>
+        <item>Nes aš, VIEŠPATS, tavo Dievas, laikau tavo dešinę. Aš Tas, kuris tau sako: „Nebijok, aš tau padėsiu!“\n(Izaijo 41,13)</item>
+        <item>Štai! Įrėžiau tavo vardą savo rankos delne; tavo mūrus prieš akis turiu nuolat.\n(Izaijo 49,16)</item>
+        <item>„Nes mano mintys – ne jūsų mintys, o mano keliai – ne jūsų keliai“, – VIEŠPATIES žodis.\n(Izaijo 55,8)</item>
+        <item>Kelkis, nušviski! Tavoji šviesa atėjo, VIEŠPATIES šlovė virš tavęs sušvito.\n(Izaijo 60,1)</item>
+        <item>Atsiliepsiu pirmiau, negu jie šauksis, išklausysiu dar jiems tebekalbant.\n(Izaijo 65,24)</item>
+        <item>Atsiliepsiu pirmiau, negu jie šauksis, išklausysiu dar jiems tebekalbant.\n(Izaijo 65,24)</item>
+        <item>„Argi negaliu ir su jumis, Izraelio namai, daryti, kaip šis puodžius daro?“ – tai VIEŠPATIES žodis. „Iš tikrųjų kaip molis puodžiaus rankose, taip mano rankoje esate jūs, Izraelio namai“.\n(Jeremino 18,6)</item>
+        <item>„Argi negaliu ir su jumis, Izraelio namai, daryti, kaip šis puodžius daro?“ – tai VIEŠPATIES žodis. „Iš tikrųjų kaip molis puodžiaus rankose, taip mano rankoje esate jūs, Izraelio namai“.\n(Jeremino 18,6)</item>
+        <item>Garantuoju, kad aš tikrai žinau savo užmojį jums, – tai VIEŠPATIES žodis, – užmojį jūsų labui, o ne jūsų žalai! Noriu jums suteikti sklidiną vilties ateitį.\n(Jeremino 29,11)</item>
+        <item>Garantuoju, kad aš tikrai žinau savo užmojį jums, – tai VIEŠPATIES žodis, – užmojį jūsų labui, o ne jūsų žalai! Noriu jums suteikti sklidiną vilties ateitį.\n(Jeremino 29,11)</item>
+        <item>Kai manęs ieškosite, mane rasite. Taip, jeigu visa širdimi manęs ieškosite.\n(Jeremino 29,13)</item>
+        <item>Vėl tave atkursiu, – mergele Izraelio tauta, būsi atgaivinta! Vėl išsipuošusi, būgneliais nešina, žengsi, šoksi linksmuolių ratelyje.\n(Jeremino 31,4)</item>
+        <item>Merginos tuomet linksmai šoks drauge su jaunais ir senais, nes jų gedulą pakeisiu džiaugsmu, guosiu juos ir džiuginsiu kenčiančius.\n(Jeremino 31,13)</item>
+        <item>Taip kalbėjo VIEŠPATS: „Nustok aimanavusi, nusišluostyk ašaras, nes laukia atpildas už tavo vargą, – tai VIEŠPATIES žodis“.\n(Jeremino 31,16)</item>
+        <item>Taip kalbėjo VIEŠPATS: „Nustok aimanavusi, nusišluostyk ašaras, nes laukia atpildas už tavo vargą, – tai VIEŠPATIES žodis“.\n(Jeremino 31,16)</item>
+        <item>Šaukis manęs, tau atsiliepsiu! Pasakysiu tau nuostabių dalykų, paslapčių, kurių nežinojai.\n(Jeremino 33,3)</item>
+        <item>Jis apsaugo ir išgelbsti, daro ženklus ir nuostabius darbus danguje ir žemėje, jis išgelbėjo Danielį iš liūtų letenos.\n(Danielio 6,28)</item>
+    </string-array>
+    <string name="desc_sound_on">Garsas įjungtas</string>
+    <string name="desc_archive">Mėgstamiausi</string>
+    <string name="desc_save_favorite">Išsaugoti kaip mėgstamiausią</string>
+    <string name="desc_get_verse">Gaukite eilutę</string>
+    <string name="desc_turn_on_sound">Įjunkite garsą</string>
+    <string name="desc_remove_from_favorites">Pašalinti</string>
+    <string name="loading">Įkeliama…</string>
+    <string name="shake_the_phone">Rázza meg a telefont</string>
+
+</resources>

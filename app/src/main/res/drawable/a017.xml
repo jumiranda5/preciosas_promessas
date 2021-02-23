@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+<!--    <item android:drawable="@color/white_transparent"/>-->
+    <item>
+        <shape>
+            <gradient
+                android:startColor="@color/transparent"
+                android:centerColor="@color/transparent"
+                android:endColor="@color/orange_500"
+                android:angle="45"/>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:startColor="@color/amber_500"
+                android:centerColor="@color/transparent"
+                android:endColor="@color/deep_orange_500"
+                android:angle="135"/>
+        </shape>
+    </item>
+</layer-list>

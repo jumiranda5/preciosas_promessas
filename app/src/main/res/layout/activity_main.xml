@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.motion.widget.MotionLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sunflower"
+    app:layoutDescription="@xml/activity_main_scene"
+    android:id="@+id/main_motion_layout"
+    tools:context=".MainActivity">
+
+    <!-- White transparency view -->
+    <View
+        android:id="@+id/transparent_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white_transparent"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Color animation view -->
+    <View
+        android:id="@+id/color_animation_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/transparent"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Ad container -->
+    <FrameLayout
+        android:id="@+id/ad_view_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Initial instructions -->
+    <TextView
+        android:id="@+id/text_shake_instruction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/nunito_light"
+        android:paddingStart="32dp"
+        android:paddingTop="24dp"
+        android:paddingEnd="32dp"
+        android:paddingBottom="22dp"
+        android:text="@string/shake_the_phone"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/darkGrey"
+        android:textSize="@dimen/shake_font_size"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Verse -->
+    <TextView
+        android:id="@+id/textView_verse"
+        android:layout_width="@dimen/main_text_width"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/nunito_regular"
+        android:lineSpacingExtra="1dp"
+        android:paddingTop="@dimen/main_text_padding_top"
+        android:paddingBottom="@dimen/main_text_padding_top"
+        android:text=""
+        android:textAlignment="center"
+        android:textColor="@color/darkGrey"
+        android:textSize="@dimen/main_text_font_size"
+        android:visibility="visible"
+        app:layout_constraintStart_toEndOf="@id/guideline"
+        app:layout_constraintEnd_toStartOf="@id/guideline2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Fav Button -->
+    <ImageButton
+        android:id="@+id/btn_favorite"
+        android:layout_width="@dimen/main_fav_btn"
+        android:layout_height="@dimen/main_fav_btn"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/desc_save_favorite"
+        android:src="@drawable/ic_star_border_24"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="@+id/textView_verse"
+        app:layout_constraintStart_toStartOf="@+id/textView_verse"
+        app:layout_constraintTop_toTopOf="@+id/textView_verse" />
+
+    <!-- Bottom buttons container -->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/bottom_menu_container"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/main_bottom_nav_height"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <ImageButton
+            android:id="@+id/btn_sound"
+            style="@style/BottomButton"
+            android:background="@drawable/bottom_btn_1"
+            android:contentDescription="@string/desc_sound_on"
+            android:src="@drawable/ic_volume_up_24"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/btn_folder"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageButton
+            android:id="@+id/btn_folder"
+            style="@style/BottomButton"
+            android:background="@drawable/bottom_btn_2"
+            android:contentDescription="@string/desc_archive"
+            android:src="@drawable/ic_folder_24"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/btn_share"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/btn_sound"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageButton
+            android:id="@+id/btn_share"
+            style="@style/BottomButton"
+            android:background="@drawable/bottom_btn_3"
+            android:contentDescription="@string/desc_share"
+            android:src="@drawable/ic_share_24"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/btn_play"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/btn_folder"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageButton
+            android:id="@+id/btn_play"
+            style="@style/BottomButton"
+            android:background="@drawable/bottom_btn_4"
+            android:contentDescription="@string/desc_get_verse"
+            android:src="@drawable/ic_play_arrow_24"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/btn_share"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!-- Guidelines -->
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.08" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.92" />
+
+
+</androidx.constraintlayout.motion.widget.MotionLayout>

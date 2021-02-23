@@ -1,0 +1,288 @@
+<resources>
+
+    <string name="app_name">Versículos de la Biblia</string>
+    <string name="desc_share">Compartir</string>
+    <string name="text_copied">Texto copiado.</string>
+    <string name="favorites">Favoritos</string>
+
+    <string-array name="verses">
+        <item>Felices los afligidos, porque serán consolados. \n(Mateo 5,4)</item>
+        <item>Felices los pacientes, porque recibirán la tierra en herencia. \n(Mateo 5,5)</item>
+        <item>Cuando tú des limosna, que tu mano izquierda ignore lo que hace la derecha. \n(Mateo 6,3)</item>
+        <item>Como ven, el hombre no es justificado sólo por la fe, sino también por las obras. \n(Santiago 2,24)</item>
+        <item>De la misma manera que un cuerpo sin alma está muerto, así está muerta la fe sin las obras. \n(Santiago 2,26)</item>
+        <item>De la misma boca salen la bendición y la maldición. Pero no debe ser así, hermanos. \n(Santiago 3,10)</item>
+        <item>Un fruto de justicia se siembra pacíficamente para los que trabajan por la paz. \n(Santiago 3,18)</item>
+        <item>O bien, piden y no reciben, porque piden mal, con el único fin de satisfacer sus pasiones. \n(Santiago 4,3)</item>
+        <item>Dios resiste a los soberbios y da su gracia a los humildes. \n(Santiago 4,6)</item>
+        <item>Humíllense delante del Señor, y él los exaltará. \n(Santiago 4,10)</item>
+        <item>El que habla en contra de un hermano o lo condena, habla en contra de la Ley y la condena. \n(Santiago 4,11)</item>
+        <item>Y no hay más que un solo legislador y juez, aquel que tiene el poder de salvar o de condenar. ¿Quién eres tú para condenar al prójimo? \n(Santiago 4,12)</item>
+        <item>El que sabe hacer el bien y no lo hace, comete pecado. \n(Santiago 4,17)</item>
+        <item>Tú, en cambio, cuando ores, retírate a tu habitación, cierra la puerta y ora a tu Padre que está en lo secreto; y tu Padre, que ve en lo secreto, te recompensará. \n(Mateo 6,6)</item>
+        <item>Hermanos, no se quejen los unos de los otros, para no ser condenados. Miren que el Juez ya está a la puerta. \n(Santiago 5,9)</item>
+        <item>Tomen como ejemplo de fortaleza y de paciencia a los profetas que hablaron en nombre del Señor. \n(Santiago 5,10)</item>
+        <item>Si alguien está afligido, que ore. Si está alegre, que cante salmos. \n(Santiago 5,13)</item>
+        <item>Confiesen mutuamente sus pecados y oren los unos por los otros, para ser curados. La oración perseverante del justo es poderosa. \n(Santiago 5,16)</item>
+        <item>Renuncien a toda maldad y a todo engaño, a la hipocresía, a la envidia y a toda clase de maledicencia. \n(1 Pedro 2,1)</item>
+        <item>Como niños recién nacidos, deseen la leche pura de la Palabra, que los hará crecer para la salvación. \n(1 Pedro 2,2)</item>
+        <item>La voluntad de Dios es que ustedes, practicando el bien, pongan freno a la ignorancia de los insensatos. \n(1 Pedro 2,15)</item>
+        <item>Respeten a todo el mundo, amen a sus hermanos, teman a Dios, honren al rey. \n(1 Pedro 2,17)</item>
+        <item>En fin, vivan todos unidos, compartan las preocupaciones de los demás, ámense como hermanos, sean misericordiosos y humildes.\n(1 Pedro 3,8)</item>
+        <item>No devuelvan mal por mal, ni injuria por injuria: al contrario, retribuyan con bendiciones, porque ustedes mismos están llamados a heredar una bendición. \n(1 Pedro 3,9)</item>
+        <item>Si perdonan sus faltas a los demás, el Padre que está en el cielo también los perdonará a ustedes. \n(Mateo 6,14)</item>
+        <item>El que ama la vida y desea gozar de días felices, guarde su lengua del mal y sus labios de palabras mentirosas. \n(1 Pedro 3,10)</item>
+        <item>Apártese del mal y practique el bien; busque la paz y siga tras ella. \n(1 Pedro 3,11)</item>
+        <item>Porque los ojos del Señor miran al justo y sus oídos están atentos a su plegaria, pero él rechaza a los que hacen el mal. \n(1 Pedro 3,12)</item>
+        <item>¿Quién puede hacerles daño si se dedican a practicar el bien? \n(1 Pedro 3,13)</item>
+        <item>Humíllense bajo la mano poderosa de Dios, para que él los eleve en el momento oportuno. \n(1 Pedro 5,6)</item>
+        <item>Humíllense bajo la mano poderosa de Dios, para que él los eleve en el momento oportuno. \n(1 Pedro 5,6)</item>
+        <item>Descarguen en él todas sus inquietudes, ya que él se ocupa de ustedes. \n(1 Pedro 5,7)</item>
+        <item>El que dice que está en la luz y no ama a su hermano, está todavía en las tinieblas. \n(1 Juan 2,9)</item>
+        <item>Tenemos plena confianza de que Dios nos escucha si le pedimos algo conforme a su voluntad. \n(1 Juan 5,14)</item>
+        <item>Y sabiendo que él nos escucha en todo lo que le pedimos, sabemos que ya poseemos lo que le hemos pedido. \n(1 Juan 5,15)</item>
+        <item>Entonces Dios dijo: \"Que exista la luz\". Y la luz existió. \n(Génesis  1,3)</item>
+        <item>Acumulen, en cambio, tesoros en el cielo, donde no hay polilla ni herrumbre que los consuma, ni ladrones que perforen y roben. \n(Mateo 6,20)</item>
+        <item>Dios vio que la luz era buena, y separó la luz de las tinieblas; \n(Génesis  1,4)</item>
+        <item>Yo estoy contigo: te protegeré dondequiera que vayas, y te haré volver a esta tierra. No te abandonaré hasta haber cumplido todo lo que te prometo. \n(Génesis  28,15)</item>
+        <item>Moisés respondió al pueblo: \"¡No teman\\! Manténganse firmes, porque hoy mismo ustedes van a ver lo que hará el Señor para salvarlos\". \n(Exodo 14,13)</item>
+        <item>El Señor combatirá por ustedes, sin que ustedes tengan que preocuparse por nada. \n(Exodo 14,14)</item>
+        <item>Yo voy a enviar un ángel delante de ti, para que te proteja en el camino y te conduzca hasta el lugar que te he preparado. \n(Exodo 23,20)</item>
+        <item>Yo estaré contigo como estuve con Moisés, no te dejaré ni te abandonaré. \n(Josué 1,5)</item>
+        <item>Yo te lo mando. Sé fuerte y ten ánimo. No temas ni te asustes, porque el Señor, tu Dios, estará contigo dondequiera que vayas. \n(Josué 1,9)</item>
+        <item>Josué dijo al pueblo: \"Purificaos, porque mañana el Señor hará prodigios ante vosotros\". \n(Josué 3,5)</item>
+        <item>Lo que no quieras para ti, no lo hagas a nadie. \n(Tobías  4,15)</item>
+        <item>Bendice al Señor Dios en todo tiempo; pídele que tus caminos sean rectos y prósperos tus planes. \n(Tobías  4,19)</item>
+        <item>La lámpara del cuerpo es el ojo. Si el ojo está sano, todo el cuerpo estará iluminado. \n(Mateo 6,22)</item>
+        <item>El ángel le respondió: \"¡Ánimo! Pronto te curará Dios\". \n(Tobías  5,13)</item>
+        <item>Bueno es guardar el secreto del rey, pero hay que celebrar y publicar las obras de Dios.  \n(Tobías  12,7)</item>
+        <item>Desnudo salí del vientre de mi madre, desnudo allá regresaré. El Señor me lo había dado, el Señor me lo ha quitado; sea bendito el nombre del Señor. \n(Job 1,21)</item>
+        <item>A aquel que hace cosas grandes, insondables, maravillas sin número. \n(Job 5,9)</item>
+        <item>Seguro vivirás, cargado de esperanza; bien protegido, habitarás tranquilo. \n(Job 11,18)</item>
+        <item>De los ancianos, el saber; de la longevidad, la inteligencia. \n(Job 12,12)</item>
+        <item>Mi lamento es mi abogado cuando ante Dios lágrimas vierten mis ojos. \n(Job 16,20)</item>
+        <item>Pero el justo se asegura en su camino, y el de manos limpias su ánimo redobla. \n(Job 17,9)</item>
+        <item>Reconcíliate, pues, con él y haz la paz; así recobrarás tu ventura. \n(Job 22,21)</item>
+        <item>Él, sin embargo, conoce mis caminos. Póngame a prueba; saldré como oro puro. \n(Job 23,10)</item>
+        <item>Busquen primero el Reino y su justicia, y todo lo demás se les dará por añadidura. \n(Mateo 6,33)</item>
+        <item>Mas él salva al miserable mediante la aflicción, le abre el oído por medio de la tribulación. \n(Job 36,15)</item>
+        <item>Sí; nos manifiesta Dios sus maravillas, cosas grandiosas que no comprendemos. \n(Job 37,5)</item>
+        <item>Reconozco que lo puedes todo; ningún proyecto te es imposible. \n(Job 42,2)</item>
+        <item>El Señor es mi pastor, nada me falta. \n(Salmos 23,1)</item>
+        <item>En verdes praderas me hace reposar, me conduce hacia las aguas del remanso. \n(Salmos 23,2)</item>
+        <item>Aunque vaya por un valle tenebroso, no tengo miedo a nada, porque tú estás conmigo, tu voz y tu cayado me sostienen. \n(Salmos 23,4)</item>
+        <item>Sácame de la red que me han tendido, pues tú eres mi refugio. \n(Salmos 31,5)</item>
+        <item>Ya que eres tú mi roca y mi fortaleza, por el honor de tu nombre, condúceme tú y guíame. \n(Salmos 31,4)</item>
+        <item>En tus manos encomiendo mi espíritu; tú me rescatarás, Señor, Dios verdadero.\n(Salmos 31,6)</item>
+        <item>No me has entregado en manos de mis enemigos y has puesto mis pies en campo libre. \n(Salmos 31,9)</item>
+        <item>No se inquieten por el día de mañana; el mañana se inquietará por sí mismo. A cada día le basta su aflicción. \n(Mateo 6,34)</item>
+        <item>Pero yo confío en ti, Señor; lo confirmo: Tú eres mi Dios. \n(Salmos 31,15)</item>
+        <item>Mi vida está en tus manos, líbrame de mis enemigos, de mis perseguidores.\n(Salmos 31,16)</item>
+        <item>Ánimo, sed fuertes todos los que esperáis en el Señor. \n(Salmos 31,25)</item>
+        <item>Busqué al Señor y él me contestó, y me libró de todos mis temores. \n(Salmos 34,5)</item>
+        <item>Un mísero gritó: el Señor lo escuchó y lo libró de todas sus angustias. \n(Salmos 34,7)</item>
+        <item>El ángel del Señor acampa en torno a sus fieles y los salva. \n(Salmos 34,8)</item>
+        <item>Gustad y ved qué bueno es el Señor, dichoso el hombre que se refugia en él. \n(Salmos 34,9)</item>
+        <item>Temed al Señor, vosotros, santos suyos, nada les falta a aquellos que lo temen. \n(Salmos 34,10)</item>
+        <item>Guarda del mal tu lengua, y tus labios de palabras mentirosas. \n(Salmos 34,14)</item>
+        <item>Apártate del mal y haz el bien, busca la paz y corre en pos de ella. \n(Salmos 34,15)</item>
+        <item>No juzgues, para no ser juzgados. \n(Mateo 7,1)</item>
+        <item>El Señor mira por los que practican la justicia, sus oídos atienden a sus gritos. \n(Salmos 34,16)</item>
+        <item>El Señor está cerca de los atribulados, él salva a los que están hundidos. \n(Salmos 34,19)</item>
+        <item>El hombre justo tendrá muchas contrariedades, pero de todas el Señor lo hará salir airoso. \n(Salmos 34,20)</item>
+        <item>No te irrites contra los malvados ni tengas envidia de los criminales, pues se secan pronto como el heno, como la hierba verde se marchitan. \n(Salmos 37,1–2)</item>
+        <item>Confía en el Señor y haz el bien, para habitar en tu tierra y vivir tranquilo. \n(Salmos 37,3)</item>
+        <item>Busca en el Señor tus delicias, y él te dará lo que tu corazón desea. \n(Salmos 37,4)</item>
+        <item>Confía al Señor toda tu vida y fíate de él, que él sabrá lo que hace. \n(Salmos 37,5)</item>
+        <item>Hará que luzca tu justicia como la aurora y que tu derecho resplandezca como el mediodía. \n(Salmos 37,6)</item>
+        <item>Descansa en el Señor, confía en él, no te irrites contra el que prospera ni contra el hombre que maneja intrigas. \n(Salmos 37,7)</item>
+        <item>Deja la ira, desiste del enfado, no te acalores, que es peor para ti. \n(Salmos 37,8)</item>
+        <item>¿Por qué te fijas en la paja que está en el ojo de tu hermano y no adviertes la viga que está en el tuyo? \n(Mateo 7,3)</item>
+        <item>Pues los criminales serán exterminados, mas los que esperan en el Señor heredarán la tierra. \n(Salmos 37,9)</item>
+        <item>Un poco nada más, y el criminal no existe; lo buscas en su sitio, y ya no está allí. \n(Salmos 37,10)</item>
+        <item>El Señor cuida de los que practican la justicia, su herencia durará eternamente. \n(Salmos 37,18)</item>
+        <item>El Señor asegura los pasos del hombre cuyo camino es de su agrado. \n(Salmos 37,23)</item>
+        <item>Aunque tropiece, no caerá por tierra, pues el Señor le lleva de la mano. \n(Salmos 37,24)</item>
+        <item>Los justos heredarán la tierra y habitarán en ella eternamente. \n(Salmos 37,29)</item>
+        <item>La boca del justo habla con sabiduría y su lengua proclama la justicia. \n(Salmos 37,30)</item>
+        <item>Guarda la integridad, practica la justicia, pues para el hombre de paz hay un porvenir. \n(Salmos 37,37)</item>
+        <item>Di al Señor: \"Eres mi fortaleza y mi refugio, eres mi Dios, en quien confío\".Pues él te librará de la red del cazador, de la peste mortal. \n(Salmos 91,2–3)</item>
+        <item>Te cobijará bajo sus alas y tú te refugiarás bajo sus plumas; su lealtad será para ti escudo y armadura. \n(Salmos 91,4)</item>
+        <item>Pidan y se les dará; busquen y encontrarán; llamen y se les abrirá. \n(Mateo 7,7)</item>
+        <item>No temerás el terror de la noche ni la flecha que vuela por el día. \n(Salmos 91,5)</item>
+        <item>Aunque a tu lado caigan mil, y diez mil a tu diestra, a ti no te alcanzarán. \n(Salmos 91,7)</item>
+        <item>A ti no te alcanzará la desgracia ni la plaga llegará a tu tienda. \n(Salmos 91,10)</item>
+        <item>Pues él ordenó a sus santos ángeles que te guardaran en todos tus caminos; te llevarán en sus brazos para que tu pie no tropiece en piedra alguna. \n(Salmos 91,11–12)</item>
+        <item>Si me llama, yo le responderé, estaré con él en la desgracia, lo libraré y lo llenaré de honores. \n(Salmos 91,15)</item>
+        <item>Los que siembran con lágrimas, cosecharán entre cantares. \n(Salmos 126,05)</item>
+        <item>Te doy gracias porque me has escuchado, a ti te debo la victoria. \n(Salmos 118,21)</item>
+        <item>El auxilio me viene del Señor, que hizo el cielo y la tierra. \n(Salmos 121,02)</item>
+        <item>Pero el Señor, que es justo, rompió el yugo de los impíos. \n(Salmos 129,04)</item>
+        <item>Líbrame, Señor, de mis enemigos, porque me refugio en ti. \n(Salmos 143,09)</item>
+        <item>Felices los que tienen hambre y sed de justicia, porque serán saciados. \n(Mateo 5,6)</item>
+        <item>Porque todo el que pide, recibe; el que busca, encuentra; y al que llama, se le abrirá. \n(Mateo 7,8)</item>
+        <item>Miren cómo cayeron los malhechores: fueron derribados, y ya no podrán levantarse. \n(Salmos 36, 13)</item>
+        <item>Escucha, hijo mío, la instrucción de tu padre, y no rechaces la enseñanza de tu madre. \n(Proverbios 1,8)</item>
+        <item>Confía en el Señor de todo corazón y no te apoyes sobre tu propia prudencia. \n(Proverbios 3,5)</item>
+        <item>En todos tus caminos piensa en él, y él allanará tus senderos.\n(Proverbios 3,6)</item>
+        <item>No te tengas por sabio; teme al Señor y apártate del mal.\n(Proverbios 3,7)</item>
+        <item>No sigas la senda de los criminales, no vayas por el camino de los delincuentes. \n(Proverbios 4,14)</item>
+        <item>La senda de los justos es como la luz del alba, cuyo esplendor va creciendo hasta el pleno día. \n(Proverbios 4,18)</item>
+        <item>Sobre todas las cosas, vigila tu corazón, porque de él brotan las fuentes de la vida. \n(Proverbios 4,23)</item>
+        <item>Aparta de tu boca la falsedad y aleja de tus oídos la mentira. \n(Proverbios 4,24)</item>
+        <item>Que tus ojos miren de frente y tu vista se dirija hacia adelante. \n(Proverbios 4,25)</item>
+        <item>Todo lo que deseen que los demás hagan por ustedes, háganlo por ellos: en esto consiste la Ley y los Profetas. \n(Mateo 7,12)</item>
+        <item>Mira bien la senda de tus pasos y todos tus caminos sean rectos. \n(Proverbios 4,26)</item>
+        <item>No te desvíes ni a derecha ni a izquierda, aleja tus pasos de la delincuencia. \n(Proverbios 4,27)</item>
+        <item>Porque ante los ojos del Señor están los caminos del hombre, y él examina todos sus pasos.\n(Proverbios 5,21)</item>
+        <item>En el mucho hablar no falta el pecado, el que frena sus labios es prudente. \n(Proverbios 10,19)</item>
+        <item>El hombre generoso se hace bien a sí mismo, pero el cruel a sí mismo se perjudica. \n(Proverbios 11,17)</item>
+        <item>Propio es del hombre hacer planes, pero la última palabra es de Dios. \n(Proverbios 16,1)</item>
+        <item>Encomienda al Señor tus obras, y tus proyectos tendrán éxito. \n(Proverbios 16,3)</item>
+        <item>Más vale adquirir la sabiduría que el oro, y adquirir la inteligencia es preferible a la plata. \n(Proverbios 16,16)</item>
+        <item>El preludio de la ruina es el orgullo; el preludio de la caída, el espíritu altanero. \n(Proverbios 16,18)</item>
+        <item>El que es sabio de corazón será proclamado inteligente, la suavidad del lenguaje hace más eficaz la doctrina. \n(Proverbios 16,21)</item>
+        <item>Él les respondió: \"¿Por qué tienen miedo, hombres de poca fe?\". Y levantándose, increpó al viento y al mar, y sobrevino una gran calma. \n(Mateo 8,26)</item>
+        <item>El hombre traza su camino, pero el Señor dirige sus pasos.\n(Proverbios 16,9)</item>
+        <item>Panal de miel son las palabras amables, dulzura para el alma y medicina para el cuerpo.  \n(Proverbios 16,24)</item>
+        <item>El amigo ama en todo tiempo, es un hermano en la adversidad. \n(Proverbios 17,17)</item>
+        <item>Corazón alegre, excelente remedio; un espíritu abatido seca los huesos. \n(Proverbios 17,22)</item>
+        <item>Más impresión causa al inteligente un reproche que cien golpes al necio. \n(Proverbios 17,10)</item>
+        <item>No es bueno tener consideración con el culpable para perjudicar al inocente en el juicio. \n(Proverbios 18,5)</item>
+        <item>Antes de la caída se eleva el corazón del hombre, la humildad precede a la gloria. \n(Proverbios 18,12)</item>
+        <item>La cordura del hombre le hace ser paciente, su gloria es disimular las ofensas. \n(Proverbios 19,11)</item>
+        <item>No digas: \"Devolveré el mal\"; confía en el Señor, y él te salvará. \n(Proverbios 20,22)</item>
+        <item>El que guarda su boca y su lengua se preserva a sí mismo de angustias. \n(Proverbios 21,23)</item>
+        <item>Y Jesús dijo al centurión: \"Ve, y que suceda como has creído\". Y el sirviente se curó en ese mismo momento. \n(Mateo 8,13)</item>
+        <item>Los ojos del Señor guardan la ciencia, él confunde las palabras del mentiroso. \n(Proverbios 22,12)</item>
+        <item>Escucha, hijo mío, y sé sabio, dirige tu corazón por el camino recto. \n(Proverbios 23,19)</item>
+        <item>Más vale una ración de verduras con amor que buey cebado con odio. \n(Proverbios 15,17)</item>
+        <item>Dios es mi salvador; confío en él, no temo, porque mi fuerza y mi júbilo es el Señor; él es mi salvación. \n(Isaías 12,2)</item>
+        <item>De la justicia brotará la paz, y del derecho, la calma y la seguridad por siempre. \n(Isaías 32,17)</item>
+        <item>(…)pero los que esperan al Señor renuevan sus fuerzas, remontan el vuelo como águilas, corren sin fatigarse y caminan sin cansarse. \n(Isaías 40,31)</item>
+        <item>Pues yo, el Señor, tu Dios, te cojo de la diestra y te digo: No temas, que yo vengo a ayudarte. \n(Isaías 41,13)</item>
+        <item>El Señor me ha llamado desde el vientre de mi madre, desde el seno ha pronunciado mi nombre. \n(Isaías 49,1)</item>
+        <item>Mira, en la palma de mis manos te llevo grabado, tus muros están sin cesar ante mí. \n(Isaías 49,16)</item>
+        <item>Porque mis pensamientos no son vuestros pensamientos, ni vuestros caminos mis caminos -dice el Señor-. \n(Isaías 55,8)</item>
+        <item>Jesús se dio vuelta, y al verla, le dijo: \"Ten confianza, hija, tu fe te ha salvado". Y desde ese instante la mujer quedó curada. \n(Mateo 9,22)</item>
+        <item>Levántate, resplandece, porque llega tu luz y la gloria del Señor despunta sobre ti. \n(Isaías 60,1)</item>
+        <item>Incluso antes de que llamen yo responderé, y estando aún hablando serán escuchados. \n(Isaías 65,24)</item>
+        <item>Antes de formarte en el vientre de tu madre te conocí. \n(Jeremías 1,5)</item>
+        <item>Como la arcilla en mano del alfarero, así sois vosotros en mi mano, oh casa de Israel. \n(Jeremías  18,6)</item>
+        <item>Porque yo sé bien los proyectos que tengo sobre vosotros -dice el Señor-, proyectos de prosperidad y no de desgracia, de daros un porvenir lleno de esperanza. \n(Jeremías  29,11)</item>
+        <item>Me buscaréis y me hallaréis, porque me habréis buscado de todo corazón \n(Jeremías  29,13)</item>
+        <item>Te construiré de nuevo y serás reconstruida, oh virgen de Israel. De nuevo te adornarás con tus panderos y saldrás a danzar gozosamente. \n(Jeremías  31,4)</item>
+        <item>Cambiaré su luto en alegría; los consolaré, los alegraré después de su dolor. \n(Jeremías  31,13)</item>
+        <item>Llámame y te responderé, te comunicaré cosas grandes y ocultas, que tú desconoces. \n(Jeremías 33,3)</item>
+        <item>El que salva y libera, obra prodigios y maravillas en el cielo y en la tierra; el que ha salvado a Daniel de las garras de los leones. \n(Daniel 6,28)</item>
+        <item>Jesús les tocó los ojos, diciendo: \"Que suceda como ustedes han creído". \n(Mateo 9,29)</item>
+        <item>Nosotros anunciamos, como dice la Escritura, lo que nadie vio ni oyó y ni siquiera pudo pensar, aquello que Dios preparó para los que lo aman. \n(I Corintios 2,9)</item>
+        <item>El hombre puramente natural no valora lo que viene del Espíritu de Dios: es una locura para él y no lo puede entender, porque para juzgarlo necesita del Espíritu. \n(I Corintios 2,14)</item>
+        <item>¿No saben que ustedes son templo de Dios y que el Espíritu de Dios habita en ustedes? \n(I Corintios 3,16)</item>
+        <item>Si alguno destruye el templo de Dios, Dios lo destruirá a él. Porque el templo de Dios es sagrado, y ustedes son ese templo. \n(I Corintios 3,17)</item>
+        <item>Porque la sabiduría de este mundo es locura delante de Dios. En efecto, dice la Escritura: Él sorprende a los sabios en su propia astucia. \n(I Corintios 3,19)</item>
+        <item>Aunque yo hablara todas las lenguas de los hombres y de los ángeles, si no tengo amor, soy como una campana que resuena o un platillo que retiñe. \n(I Corintios 13,1)</item>
+        <item>Aunque tuviera el don de la profecía y conociera todos los misterios y toda la ciencia, aunque tuviera toda la fe, una fe capaz de trasladar montañas, si no tengo amor, no soy nada. \n(I Corintios 13,2)</item>
+        <item>Aunque repartiera todos mis bienes para alimentar a los pobres y entregara mi cuerpo a las llamas, si no tengo amor, no me sirve para nada. \n(I Corintios 13,3)</item>
+        <item>El amor es paciente, es servicial; el amor no es envidioso, no hace alarde, no se envanece. \n(I Corintios 13,4)</item>
+        <item>El amor todo lo disculpa, todo lo cree, todo lo espera, todo lo soporta. \n(I Corintios 13,7)</item>
+        <item>No les teman. No hay nada oculto que no deba ser revelado, y nada secreto que no deba ser conocido. \n(Mateo 10,26)</item>
+        <item>El amor no pasará jamás. Las profecías acabarán, el don de lenguas terminará, la ciencia desaparecerá. \n(I Corintios 13,8)</item>
+        <item>Cuando llegue lo que es perfecto, cesará lo que es imperfecto. \n(I Corintios 13,10)</item>
+        <item>En una palabra, ahora existen tres cosas: la fe, la esperanza y el amor, pero la más grande de todas es el amor. \n(I Corintios 13,13)</item>
+        <item>¿No saben que ustedes son templo de Dios y que el Espíritu de Dios habita en ustedes? \n(I Corintios 3,16)</item>
+        <item>En una palabra, ahora existen tres cosas: la fe, la esperanza y el amor, pero la más grande de todas es el amor. \n(I Corintios 13,13)</item>
+        <item>Vengan a mí todos los que están afligidos y agobiados, y yo los aliviaré. \n(Mateo 11,28)</item>
+        <item>¿De qué le servirá al hombre ganar el mundo entero si pierde su vida? ¿Y qué podrá dar el hombre a cambio de su vida? \n(Mateo 16,26)</item>
+        <item>Les aseguro que si tuvieran fe del tamaño de un grano de mostaza, dirían a esta montaña: \"Trasládate de aquí a allá\", y la montaña se trasladaría; y nada sería imposible para ustedes. \n(Mateo 17,20)</item>
+        <item>Felices los misericordiosos, porque obtendrán misericordia. \n(Mateo 5,7)</item>
+        <item>Jesús, fijando en ellos su mirada, les dijo: \"Para los hombres esto es imposible, pero para Dios todo es posible". \n(Mateo 19,26)</item>
+        <item>Jesús les respondió: \"Les aseguro que si tienen fe y no dudan, no sólo harán lo que yo acabo de hacer con la higuera, sino que podrán decir a esta montaña: Retírate de ahí y arrójate al mar, y así lo hará.\" \n(Mateo 21,21)</item>
+        <item>Todo lo que pidan en la oración con fe, lo alcanzarán. \n(Mateo 21,22)</item>
+        <item>¡Hija, tu fe te ha sanado! \"le dijo Jesús\". Vete en paz y queda sana de tu aflicción.\n(Marcos 5,34)</item>
+        <item>No tengas miedo; cree nada más. \n(Marcos 5,36)</item>
+        <item>\"¡Si puedes…!\", respondió Jesús. \"Todo es posible para el que cree\".\n(Marcos 9,23)</item>
+        <item>Les aseguro que el que no recibe el Reino de Dios como un niño, no entrará en él. \n(Marcos 10,15)</item>
+        <item>Para los hombres es imposible, pero no para Dios, porque para él todo es posible. \n(Marcos 10,27)</item>
+        <item>Vete, tu fe te ha salvado. \n(Marcos 10,52)</item>
+        <item>Jesús le respondió: \"Tengan fe en Dios.\" \n(Marcos 11,22)</item>
+        <item>Felices los que tienen el corazón puro, porque verán a Dios. \n(Mateo 5,8)</item>
+        <item>Si alguien dice a esta montaña: \"Retírate de ahí y arrójate al mar\", sin vacilar en su interior, sino creyendo que sucederá lo que dice, lo conseguirá. \n(Marcos 11,23)</item>
+        <item>Por eso les digo: Cuando pidan algo en la oración, crean que ya lo tienen y lo conseguirán. \n(Marcos 11,24)</item>
+        <item>Porque no hay nada imposible para Dios. \n(Lucas 1,37)</item>
+        <item>María dijo entonces: \"Yo soy la servidora del Señor, que se cumpla en mí lo que has dicho\". \n(Lucas 1,38)</item>
+        <item>Feliz de ti por haber creído que se cumplirá lo que te fue anunciado de parte del Señor». \n(Lucas 1,45)</item>
+        <item>María dijo entonces: \"Mi alma canta la grandeza del Señor\". \n(Lucas 1,46)</item>
+        <item>Y mi espíritu se estremece de gozo en Dios, mi Salvador, porque él miró con bondad la pequeñez de su servidora. \n(Lucas 1,47)</item>
+        <item>Porque el Todopoderoso ha hecho en mí grandes cosas: ¡su Nombre es santo! \n(Lucas 1,49)</item>
+        <item>Su misericordia se extiende de generación en generación sobre aquellos que lo temen. \n(Lucas 1,50)</item>
+        <item>Sean misericordiosos, como el Padre de ustedes es misericordioso. \n(Lucas 6,36)</item>
+        <item>Felices los que trabajan por la paz, porque serán llamados hijos de Dios. \n(Mateo 5,9)</item>
+        <item>No juzguen y no serán juzgados; no condenen y no serán condenados; perdonen y serán perdonados. \n(Lucas 6,37)</item>
+        <item>Porque de la abundancia del corazón habla la boca. \n(Lucas 6,45)</item>
+        <item>¿De qué le servirá al hombre ganar el mundo entero, si pierde y arruina su vida? \n(Lucas 9,25)</item>
+        <item>Porque el que pide, recibe; el que busca, encuentra; y al que llama, se le abrirá. \n(Lucas 11,10)</item>
+        <item>Hay algunos que son los últimos y serán los primeros, y hay otros que son los primeros y serán los últimos». \n(Lucas 13,30)</item>
+        <item>La luz brilla en las tinieblas, y las tinieblas no la recibieron. \n(Juan 1,5)</item>
+        <item>Porque Dios no envió a su Hijo para juzgar al mundo, sino para que el mundo se salve por él. \n(Juan 3,17)</item>
+        <item>En cambio, el que obra conforme a la verdad se acerca a la luz, para que se ponga de manifiesto que sus obras han sido hechas en Dios. \n(Juan 3,21)</item>
+        <item>Todo el que obra mal odia la luz y no se acerca a ella, por temor de que sus obras sean descubiertas. \n(Juan 3,20)</item>
+        <item>El ladrón no viene sino para robar, matar y destruir. Pero yo he venido para que las ovejas tengan Vida, y la tengan en abundancia. \n(Juan 10,10)</item>
+        <item>Felices los que son perseguidos por practicar la justicia, porque a ellos les pertenece el Reino de los Cielos. \n(Mateo 5,10)</item>
+        <item>Como el Padre me amó, también yo los he amado a ustedes. Permanezcan en mi amor. \n(Juan 15,9)</item>
+        <item>Les he dicho esto para que mi gozo sea el de ustedes, y ese gozo sea perfecto. \n(Juan 15,11)</item>
+        <item>Lo que yo les mando es que se amen los unos a los otros. \n(Juan 15,17)</item>
+        <item>Si el mundo los odia, sepan que antes me ha odiado a mí. \n(Juan 15,18)</item>
+        <item>Este es mi mandamiento: Ámense los unos a los otros, como yo los he amado. \n(Juan 15,12)</item>
+        <item>Ustedes estarán tristes, pero esa tristeza se convertirá en gozo. \n(Juan 16,20)</item>
+        <item>Hasta ahora, no han pedido nada en mi Nombre. Pidan y recibirán, y tendrán una alegría que será perfecta. \n(Juan 16,24)</item>
+        <item>En el mundo tendrán que sufrir; pero tengan valor: yo he vencido al mundo. \n(Juan 16,33)</item>
+        <item>Cree en el Señor Jesús y te salvarás, tú y toda tu familia. \n(Hechos 16,31)</item>
+        <item>Igualmente, el mismo Espíritu viene en ayuda de nuestra debilidad porque no sabemos orar como es debido; pero el Espíritu intercede por nosotros con gemidos inefables. \n(Romanos 8,26)</item>
+        <item>Ustedes son la luz del mundo. No se puede ocultar una ciudad situada en la cima de una montaña. \n(Mateo 5,14)</item>
+        <item>Sabemos, además, que Dios dispone todas las cosas para el bien de los que lo aman, de aquellos que él llamó según su designio. \n(Romanos 8,28)</item>
+        <item>¿Qué diremos después de todo esto? Si Dios está con nosotros, ¿quién estará contra nosotros? \n(Romanos 8,31)</item>
+        <item>Amen con sinceridad. Tengan horror al mal y pasión por el bien. \n(Romanos 12,9)</item>
+        <item>Ámense cordialmente con amor fraterno, estimando a los otros como más dignos. \n(Romanos 12,10)</item>
+        <item>Con solicitud incansable y fervor de espíritu, sirvan al Señor. \n(Romanos 12,11)</item>
+        <item>Alégrense en la esperanza, sean pacientes en la tribulación y perseverantes en la oración. \n(Romanos 12,12)</item>
+        <item>Bendigan a los que los persiguen, bendigan y no maldigan nunca. \n(Romanos 12,14)</item>
+        <item>Alégrense con los que están alegres, y lloren con los que lloran. \n(Romanos 12,15)</item>
+        <item>No devuelvan a nadie mal por mal. Procuren hacer el bien delante de todos los hombres. \n(Romanos 12,17)</item>
+        <item>En cuanto dependa de ustedes, traten de vivir en paz con todos. \n(Romanos 12,18)</item>
+        <item>Así debe brillar ante los ojos de los hombres la luz que hay en ustedes, a fin de que ellos vean sus buenas obras y glorifiquen al Padre que está en el cielo. \n(Mateo 5,16)</item>
+        <item>No te dejes vencer por el mal. Por el contrario, vence al mal, haciendo el bien. \n(Romanos 12,21)</item>
+        <item>Por lo tanto, tomen la armadura de Dios, para que puedan resistir en el día malo y mantenerse firmes después de haber superado todos los obstáculos. \n(Efesios 6,13)</item>
+        <item>No sean irresponsables, sino traten de saber cuál es la voluntad del Señor. \n(Efesios 5,17)</item>
+        <item>Estén siempre alegres. Oren sin cesar. \n(1 Tesalonicenses 5,16–17)</item>
+        <item>Por la fe, comprendemos que la Palabra de Dios formó el mundo, de manera que lo visible proviene de lo invisible. \n(Hebreos 11,3)</item>
+        <item>Por la fe, cayeron los muros de Jericó, después que el pueblo, durante siete días, dio vueltas alrededor de ellos. \n(Hebreos 11,30)</item>
+        <item>Ahora bien, la fe es la garantía de los bienes que se esperan, la plena certeza de las realidades que no se ven. \n(Hebreos 11,1)</item>
+        <item>Si a alguno de ustedes le falta sabiduría, que la pida a Dios, y la recibirá, porque él la da a todos generosamente, sin exigir nada en cambio. \n(Santiago 1,5)</item>
+        <item>Pero que pida con fe, sin vacilar, porque el que vacila se parece a las olas del mar levantadas y agitadas por el viento. \n(Santiago 1,6)</item>
+        <item>Feliz el hombre que soporta la prueba, porque después de haberla superado, recibirá la corona de Vida que el Señor prometió a los que lo aman. \n(Santiago 1,12)</item>
+        <item>Pero yo les digo: Amen a sus enemigos, rueguen por sus perseguidores. \n(Mateo 5,44)</item>
+        <item>Nadie, al ser tentado, diga que Dios lo tienta: Dios no puede ser tentado por el mal, ni tienta a nadie. \n(Santiago 1,13)</item>
+        <item>Todo lo que es bueno y perfecto es un don de lo alto y desciende del Padre de los astros luminosos, en quien no hay cambio ni sombra de declinación. \n(Santiago 1,17)</item>
+        <item>Tengan bien presente, hermanos muy queridos, que debemos estar dispuestos a escuchar y ser lentos para hablar y para enojarnos. \n(Santiago 1,19)</item>
+        <item>La ira del hombre nunca realiza la justicia de Dios. \n(Santiago 1,20)</item>
+        <item>Dejen de lado, entonces, toda impureza y todo resto de maldad, y reciban con docilidad la Palabra sembrada en ustedes, que es capaz de salvarlos. \n(Santiago 1,21)</item>
+        <item>Pongan en práctica la Palabra y no se contenten sólo con oírla, de manera que se engañen a ustedes mismos. \n(Santiago 1,22)</item>
+        <item>Si alguien cree que es un hombre religioso, pero no domina su lengua, se engaña a sí mismo y su religiosidad es vacía. \n(Santiago 1,26)</item>
+        <item>Por lo tanto, si ustedes cumplen la Ley por excelencia que está en la Escritura: Amarás a tu prójimo como a ti mismo, proceden bien. \n(Santiago 2,8)</item>
+        <item>¿De qué le sirve a uno, hermanos míos, decir que tiene fe, si no tiene obras? ¿Acaso esa fe puede salvarlo? \n(Santiago 2,14)</item>
+        <item>¿Ves cómo la fe no estaba separada de las obras, y por las obras alcanzó su perfección? \n(Santiago 2,22)</item>
+        <item>En el amor no hay temor, sino que el perfecto amor echa fuera el temor, porque el temor involucra[m] castigo, y el que teme no es hecho perfecto en el amor.\n(1 Juan 4,18)</item>
+    </string-array>
+    <string name="desc_sound_on">Sonido encendido</string>
+    <string name="desc_archive">Favoritos</string>
+    <string name="desc_save_favorite">Guardar como favorito</string>
+    <string name="desc_get_verse">Obtener verso</string>
+    <string name="desc_turn_on_sound">Enciende el sonido</string>
+    <string name="desc_remove_from_favorites">Eliminar</string>
+    <string name="shake_the_phone">Agita el telefono</string>
+    <string name="loading">Cargando</string>
+
+</resources>
+
+

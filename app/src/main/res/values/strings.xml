@@ -1,0 +1,294 @@
+<resources>
+    <string name="app_name">Bible Verses</string>
+
+    <string name="desc_sound_on">Sound On</string>
+    <string name="desc_share">Share</string>
+    <string name="desc_save_favorite">Save favorite</string>
+    <string name="desc_get_verse">Get verse</string>
+    <string name="desc_remove_from_favorites">Remove verse from favorites.</string>
+    <string name="desc_mute" translatable="false">Mute</string>
+    <string name="no_verse" translatable="false">No verse to save</string>
+    <string name="desc_turn_on_sound">Turn on sound.</string>
+
+    <string name="favorites">Favorites</string>
+    <string name="text_copied">Text copied.</string>
+    <string name="shake_the_phone">Shake the phone</string>
+    <string name="loading">Loading…</string>
+
+    <!-- Test Ad IDs-->
+    <string name="ad_unit_main" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_units_list" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+
+
+    <string-array name="verses">
+        <item>Blessed are the meek, for they shall possess the earth.\n(Matthew 5,4)</item>
+        <item>Blessed are those who mourn, for they shall be consoled.\n(Matthew 5,5)</item>
+        <item>Blessed are those who hunger and thirst for justice, for they shall be satisfied.\n(Matthew 5,6)</item>
+        <item>Blessed are the merciful, for they shall obtain mercy.\n(Matthew 5,7)</item>
+        <item>Blessed are the pure in heart, for they shall see God.\n(Matthew 5,8)</item>
+        <item>Blessed are the peacemakers, for they shall be called sons of God.\n(Matthew 5,9)</item>
+        <item>Blessed are those who endure persecution for the sake of justice, for theirs is the kingdom of heaven.\n(Matthew 5,10)</item>
+        <item>You are the light of the world. A city set on a mountain cannot be hidden.\n(Matthew 5,14)</item>
+        <item>So then, let your light shine in the sight of men, so that they may see your good works, and may glorify your Father, who is in heaven.\n(Matthew 5,16)</item>
+        <item>But I say to you: Love your enemies. Do good to those who hate you. And pray for those who persecute and slander you.\n(Matthew 5,44)</item>
+        <item>But when you give alms, do not let your left hand know what your right hand is doing, so that your almsgiving may be in secret, and your Father, who sees in secret, will repay you.\n(Matthew 6,3–4)</item>
+        <item>But you, when you pray, enter into your room, and having shut the door, pray to your Father in secret, and your Father, who sees in secret, will repay you.\n(Matthew 6,6)</item>
+        <item>For if you will forgive men their sins, your heavenly Father also will forgive you your offenses.\n(Matthew 6,14)</item>
+        <item>Instead, store up for yourselves treasures in heaven: where neither rust nor moth consumes, and where thieves do not break in and steal.\n(Matthew 6,20)</item>
+        <item>The lamp of your body is your eye. If your eye is wholesome, your entire body will be filled with light.\n(Matthew 6,22)</item>
+        <item>Therefore, seek first the kingdom of God and his justice, and all these things shall be added to you as well.\n(Matthew 6,33)</item>
+        <item>Therefore, do not be anxious about tomorrow; for the future day will be anxious for itself. Sufficient for the day is its evil.\n(Matthew 6,34)</item>
+        <item>Do not judge, so that you may not be judged.\n(Matthew 7,1)</item>
+        <item>And how can you see the splinter in your brother’s eye, and not see the board in your own eye?\n(Matthew 7,3)</item>
+        <item>Ask, and it shall be given to you. Seek, and you shall find. Knock, and it shall be opened to you. For everyone who asks, receives; and whoever seeks, finds; and to anyone who knocks, it will be opened.\n(Matthew 7,7–8)</item>
+        <item>Enter through the narrow gate. For wide is the gate, and broad is the way, which leads to perdition, and many there are who enter through it.\n(Matthew 7,13)</item>
+        <item>And Jesus said to the centurion, \"Go, and just as you have believed, so let it be done for you.\" And the servant was healed at that very hour.\n(Matthew 8,13)</item>
+        <item>And Jesus said to them, \"Why are you afraid, O little in faith?\" Then rising up, he commanded the winds, and the sea. And a great tranquility occurred.\n(Matthew 8,26)</item>
+        <item>But Jesus, turning and seeing her, said: \"Be strengthened in faith, daughter; your faith has made you well.\" And the woman was made well from that hour.\n(Matthew 9,22)</item>
+        <item>Then he touched their eyes, saying, \"According to your faith, so let it be done for you.\"\n(Matthew 9,29)</item>
+        <item>Therefore, do not fear them. For nothing is covered that shall not be revealed, nor hidden that shall not be known.\n(Matthew 10,26)</item>
+        <item>Come to me, all you who labor and have been burdened, and I will refresh you.\n(Matthew 11,28)</item>
+        <item>For how does it benefit a man, if he gains the whole world, yet truly suffers damage to his soul? Or what shall a man give in exchange for his soul?\n(Matthew 16,26)</item>
+        <item>Amen I say to you, certainly, if you will have faith like a grain of mustard seed, you will say to this mountain, \"Move from here to there,\" and it shall move. And nothing will be impossible for you.\n(Matthew 17,20)</item>
+        <item>For how does it benefit a man, if he gains the whole world, yet truly suffers damage to his soul? Or what shall a man give in exchange for his soul?\n(Matthew 19,26)</item>
+        <item>And Jesus responded to them by saying: \"Amen I say to you, if you have faith and do not hesitate, not only shall you do this, concerning the fig tree, but even if you would say to this mountain, \'Take and cast yourself into the sea,\' it shall be done.\"\n(Matthew 21,21)</item>
+        <item>And all things whatsoever that you shall ask for in prayer: believing, you shall receive.\n(Matthew 21,22)</item>
+        <item>Heaven and earth shall pass away, but my words shall not pass away.\n(Matthew 24,35)</item>
+        <item>And he said to her: \"Daughter, your faith has saved you. Go in peace, and be healed from your wound.\"\n(Mark 5,34)</item>
+        <item>Do not be afraid. You need only believe.\n(Mark 5,36)</item>
+        <item>But Jesus said to him, \"If you are able to believe: all things are possible to one who believes.\"\n(Mark 9,22)</item>
+        <item>Amen I say to you, whoever will not accept the kingdom of God like a little child, will not enter into it.\n(Mark 10,15)</item>
+        <item>And Jesus, gazing at them, said: \"With men it is impossible; but not with God. For with God all things are possible.\"\n(Mark 10,27)</item>
+        <item>Then Jesus said to him, \"Go, your faith has made you whole.\" And immediately he saw, and he followed him on the way.\n(Mark 10,52)</item>
+        <item>And in response, Jesus said to them: \"Have the faith of God.\"\n(Mark 11,22)</item>
+        <item>Amen I say to you, that whoever will say to this mountain, \'Be taken up and cast into the sea\', and who will not have hesitated in his heart, but will have believed: then whatever he has said be done, it shall be done for him.\n(Mark 11,23)</item>
+        <item>For this reason, I say to you, all things whatsoever that you ask for when praying: believe that you will receive them, and they will happen for you.\n(Mark 11,24)</item>
+        <item>For no word will be impossible with God.\n(Luke 1,37)</item>
+        <item>Then Mary said: \"Behold, I am the handmaid of the Lord. Let it be done to me according to your word.\"\n(Luke 1,38)</item>
+        <item>And blessed are you who believed, for the things that were spoken to you by the Lord shall be accomplished.\n(Luke 1,45)</item>
+        <item>And Mary said: \"My soul magnifies the Lord.\"\n(Luke 1,46)</item>
+        <item>And my spirit leaps for joy in God my Saviour.\n(Luke 1,47)</item>
+        <item>For he who is great has done great things for me, and holy is his name.\n(Luke 1,49)</item>
+        <item>And his mercy is from generation to generations for those who fear him.\n(Luke 1,50)</item>
+        <item>Therefore, be merciful, just as your Father is also merciful.\n(Luke 6,36)</item>
+        <item>Do not judge, and you will not be judged. Do not condemn, and you will not be condemned. Forgive, and you will be forgiven.\n(Luke 6,37)</item>
+        <item>A good man, from the good storehouse of his heart, offers what is good. And an evil man, from the evil storehouse, offers what is evil. For out of the abundance of the heart, the mouth speaks.\n(Luke 6,45)</item>
+        <item>For how does it benefit a man, if he were to gain the whole world, yet lose himself, or cause himself harm?\n(Luke 9,25)</item>
+        <item>For everyone who asks, receives. And whoever seeks, finds. And whoever knocks, it shall be opened to him.\n(Luke 11,10)</item>
+        <item>And behold, those who are last will be first, and those who are first will be last.\n(Luke 13,30)</item>
+        <item>And the light shines in the darkness, and the darkness did not comprehend it.\n(John 1,5)</item>
+        <item>For God did not send his Son into the world, in order to judge the world, but in order that the world may be saved through him.\n(John 3,17)</item>
+        <item>But whoever acts in truth goes toward the Light, so that his works may be manifested, because they have been accomplished in God.\n(John 3,21)</item>
+        <item>For everyone who does evil hates the Light and does not go toward the Light, so that his works may not be corrected.\n(John 3,20)</item>
+        <item>The thief does not come, except so that he may steal and slaughter and destroy. I have come so that they may have life, and have it more abundantly.\n(John 10,10)</item>
+        <item>As the Father has loved me, so I have loved you. Abide in my love.\n(John 15,9)</item>
+        <item>These things I have spoken to you, so that my joy may be in you, and your joy may be fulfilled.\n(John 15,11)</item>
+        <item>This I command you: that you love one another.\n(John 15,17)</item>
+        <item>If the world hates you, know that it has hated me before you.\n(John 15,18)</item>
+        <item>This is my precept: that you love one another, just as I have loved you.\n(John 15,12)</item>
+        <item>And you shall be greatly saddened, yet your sorrow shall be turned into joy.\n(John 16,20)</item>
+        <item>Amen, amen, I say to you, if you ask the Father for anything in my name, he will give it to you.\n(John 20,23)</item>
+        <item>Until now, you have not requested anything in my name. Ask, and you shall receive, so that your joy may be full.\n(John 16,24)</item>
+        <item>In the world, you will have difficulties. But have confidence: I have overcome the world.\n(John 16,33)</item>
+        <item>So they said, \"Believe in the Lord Jesus, and then you will be saved, with your household.\"\n(Acts 16,31)</item>
+        <item>And similarly, the Spirit also helps our weakness. For we do not know how to pray as we ought, but the Spirit himself asks on our behalf with ineffable sighing.\n(Romans 8,26)</item>
+        <item>And we know that, for those who love God, all things work together unto good, for those who, in accordance with his purpose, are called to be saints.\n(Romans 8,28)</item>
+        <item>So, what should we say about these things? If God is for us, who is against us?\n(Romans 8,31)</item>
+        <item>Let love be without falseness: hating evil, clinging to what is good.\n(Romans 12,9)</item>
+        <item>(…) loving one another with fraternal charity, surpassing one another in honor.\n(Romans 12,10)</item>
+        <item>(…) in hope, rejoicing; in tribulation, enduring; in prayer, ever-willing;\n(Romans 12,12)</item>
+        <item>(…) in hope, rejoicing; in tribulation, enduring; in prayer, ever-willing;\n(Romans 12,12)</item>
+        <item>Bless those who are persecuting you: bless, and do not curse.\n(Romans 12,14)</item>
+        <item>Rejoice with those who are rejoicing. Weep with those who are weeping.\n(Romans 12,15)</item>
+        <item>Render to no one harm for harm. Provide good things, not only in the sight of God, but also in the sight of all men.\n(Romans 12,17)</item>
+        <item>If it is possible, in so far as you are able, be at peace with all men.\n(Romans 12,18)</item>
+        <item>Do not allow evil to prevail, instead prevail over evil by means of goodness.\n(Romans 12,21)</item>
+        <item>Because of this, take up the armor of God, so that you may be able to withstand the evil day and remain perfect in all things.\n(Ephesians 6,13)</item>
+        <item>For this reason, do not choose to be imprudent. Instead, understand what is the will of God.\n(Ephesians 5,17)</item>
+        <item>Rejoice always. Pray without ceasing. Give thanks in everything. For this is the will of God in Christ Jesus for all of you.\n(I Thessalonians 5,16–18)</item>
+        <item>By faith, we understand the world to be fashioned by the Word of God, so that the visible might be made by the invisible.\n(Hebrews 11,3)</item>
+        <item>By faith, the walls of Jericho collapsed, after being encircled for seven days.\n(Hebrews 11,30)</item>
+        <item>Now, faith is the substance of things hoped for, the evidence of things not apparent.\n(Hebrews 11,1)</item>
+        <item>But if anyone among you is in need of wisdom, let him petition God, who gives abundantly to all without reproach, and it shall be given to him.\n(James 1,5)</item>
+        <item>But he should ask with faith, doubting nothing. For he who doubts is like a wave on the ocean, which is moved about by the wind and carried away.\n(James 1,6)</item>
+        <item>Blessed is the man who suffers temptation. For when he has been proven, he shall receive the crown of life which God has promised to those who love him.\n(James 1,12)</item>
+        <item>No one should say, when he is tempted, that he was tempted by God. For God does not entice toward evils, and he himself tempts no one.\n(James 1,13)</item>
+        <item>Every excellent gift and every perfect gift is from above, descending from the Father of lights, with whom there is no change, nor any shadow of alteration.\n(James 1,17)</item>
+        <item>So let every man be quick to listen, but slow to speak and slow to anger.\n(James 1,19)</item>
+        <item>For the anger of man does not accomplish the justice of God.\n(James 1,20)</item>
+        <item>Because of this, having cast away all uncleanness and an abundance of malice, receive with meekness the newly-grafted Word, which is able to save your souls.\n(James 1,21)</item>
+        <item>So be doers of the Word, and not listeners only, deceiving yourselves.\n(James 1,22)</item>
+        <item>But if anyone considers himself to be religious, but he does not restrain his tongue, but instead seduces his own heart: such a one\'s religion is vanity.\n(James 1,26)</item>
+        <item>So if you perfect the regal law, according to the Scriptures, \"You shall love your neighbor as yourself,\" then you do well.\n(James 2,8)</item>
+        <item>My brothers, what benefit is there if someone claims to have faith, but he does not have works? How would faith be able to save him?\n(James 2,14)</item>
+        <item>Do you see that faith was cooperating with his works, and that by means of works faith was brought to fulfillment?\n(James 2,22)</item>
+        <item>Do you see that a man is justified by means of works, and not by faith alone?\n(James 2,24)</item>
+        <item>For just as the body without the spirit is dead, so also faith without works is dead.\n(James 2,26)</item>
+        <item>From the same mouth proceeds blessing and cursing. My brothers, these things ought not to be so!\n(James 3,10)</item>
+        <item>And so the fruit of justice is sown in peace by those who make peace.\n(James 3,18)</item>
+        <item>You desire, and you do not have. You envy and you kill, and you are unable to obtain. You argue and you fight, and you do not have, because you do not ask.\n(James 4,2)</item>
+        <item>You ask and you do not receive, because you ask badly, so that you may use it toward your own desires.\n(James 4,3)</item>
+        <item>But he gives a greater grace. Therefore he says: \"God resists the arrogant, but he gives grace to the humble.\"\n(James 4,6)</item>
+        <item>Be humbled in the sight of the Lord, and he will exalt you.\n(James 4,10)</item>
+        <item>Brothers, do not choose to slander one another. Whoever slanders his brother, or whoever judges his brother, slanders the law and judges the law. But if you judge the law, you are not a doer of the law, but a judge.\n(James 4,11)</item>
+        <item>There is one lawgiver and one judge. He is able to destroy, and he is able to set free.\n(James 4,12)</item>
+        <item>Therefore, he who knows that he ought to do a good thing, and does not do it, for him it is a sin.\n(James 4,17)</item>
+        <item>Brothers, do not complain against one another, so that you may not be judged. Behold, the judge stands before the door.\n(James 5,9)</item>
+        <item>My brothers, consider the Prophets, who spoke in the name of the Lord, as an example of departing from evil, of labor, and of patience.\n(James 5,10)</item>
+        <item>Is any of you sad? Let him pray. Is he even-tempered? Let him sing psalms.\n(James 5,13)</item>
+        <item>Therefore, confess your sins to one another, and pray for one another, so that you may be saved. For the unremitting prayer of a just person prevails over many things.\n(James 5,16)</item>
+        <item>Therefore, set aside all malice and all deceitfulness, as well as falseness and envy and every detraction.\n(1 Peter 2,1)</item>
+        <item>Like newborn infants, desire the milk of reasonableness without guile, so that by this you may increase unto salvation,if it is true that you have tasted that the Lord is sweet.\n(1 Peter 2,2–3)</item>
+        <item>For such is the will of God, that by doing good you may bring about the silence of imprudent and ignorant men.\n(1 Peter 2,15)</item>
+        <item>Honor everyone. Love brotherhood. Fear God. Honor the king.\n(1 Peter 2,17)</item>
+        <item>And finally, may you all be of one mind: compassionate, loving brotherhood, merciful, meek, humble, (…)\n(1 Peter 3,8)</item>
+        <item>(…) not repaying evil with evil, nor slander with slander, but, to the contrary, repaying with blessings. For to this you have been called, so that you may possess the inheritance of a blessing.\n(1 Peter 3,9)</item>
+        <item>For whoever wants to love life and to see good days should restrain his tongue from evil, and his lips, so that they utter no deceit.\n(1 Peter 3,10)</item>
+        <item>Let him turn away from evil, and do good. Let him seek peace, and pursue it.\n(1 Peter 3,11)</item>
+        <item>For the eyes of the Lord are upon the just, and his ears are with their prayers, but the countenance of the Lord is upon those who do evil.\n(1 Peter 3,12)</item>
+        <item>And yet, even when you suffer something for the sake of justice, you are blessed. So then, do not be afraid with their fear, and do not be disturbed.\n(1 Peter 3,14)</item>
+        <item>And so, be humbled under the powerful hand of God, so that he may exalt you in the time of visitation.\n(1 Peter 5,6)</item>
+        <item>Cast all your cares upon him, for he takes care of you.\n(1 Peter 5,7)</item>
+        <item>Fear is not in love. Instead, perfect love casts out fear, for fear pertains to punishment. And whoever fears is not perfected in love.\n(1 John 4,18)</item>
+        <item>Whoever declares himself to be in the light, and yet hates his brother, is in the darkness even now.\n(1 John 2,9)</item>
+        <item>And this is the confidence which we have toward God: that no matter what we shall request, in accord with his will, he hears us.\n(1 John 5,14)</item>
+        <item>And we know that he hears us, no matter what we request; so we know that we can obtain the things that we request of him.\n(1 John 5,15)</item>
+        <item>If I were to speak in the language of men, or of Angels, yet not have charity, I would be like a clanging bell or a crashing cymbal.\n(1 Corinthians 13,1)</item>
+        <item>And if I have prophecy, and learn every mystery, and obtain all knowledge, and possess all faith, so that I could move mountains, yet not have charity, then I am nothing.\n(1 Corinthians 13,2)</item>
+        <item>And if I distribute all my goods in order to feed the poor, and if I hand over my body to be burned, yet not have charity, it offers me nothing.\n(1 Corinthians 13,3)</item>
+        <item>Charity is patient, is kind. Charity does not envy, does not act wrongly, is not inflated.\n(1 Corinthians 13,4)</item>
+        <item>Charity is never torn away, even if prophecies pass away, or languages cease, or knowledge is destroyed.\n(1 Corinthians 13,8)</item>
+        <item>For just as the Passion of Christ abounds in us, so also, through Christ, does our consolation abound.\n(2 Corinthians 1,5)</item>
+        <item>And God said, \"Let there be light.\" And light became.\n(Genesis 1,3)</item>
+        <item>And God saw the light, that it was good; and so he divided the light from the darknesses.\n(Genesis 1,4)</item>
+        <item>And I will be your guardian wherever you will journey, and I will bring you back into this land. Neither will I dismiss you, until I have accomplished all that I have said.\n(Genesis 28,15)</item>
+        <item>And Moses said to the people: \"Do not be afraid. Stand firm and see the great wonders of the Lord, which he will do today.\"\n(Exodus 14,13)</item>
+        <item>The Lord will fight on your behalf, and you will remain silent.\n(Exodus 14,14)</item>
+        <item>Behold, I will send my Angel, who will go before you, and preserve you on your journey, and lead you into the place that I have prepared.\n(Exodus 23,20)</item>
+        <item>(…) Just as I was with Moses, so will I be with you. I will not leave you, nor will I forsake you.\n(Joshua 1,5)</item>
+        <item>Behold, I am instructing you. Be strengthened, and be steadfast. Do not dread, and do not fear. For the Lord your God is with you in all things, wherever you may go.\n(Joshua 1,9)</item>
+        <item>And Joshua said to the people: \"Be sanctified. For tomorrow the Lord will accomplish miracles among you.\"\n(Joshua 3,5)</item>
+        <item>But all who worship you are certain of this: that one’s life, if it should be tested, shall be crowned, and if it should be in tribulation, shall be delivered, and if it should be corrected, shall be permitted to approach your mercy.\n(Tobit 3,21)</item>
+        <item>For you are not delighted with our perdition. For, after a storm, you create tranquility, and after tears and weeping, you pour out exultation.\n(Tobit 3,22)</item>
+        <item>Never permit arrogance to rule in your mind or in your words. For in it, all perdition had its beginning.\n(Tobit 4,14)</item>
+        <item>Whatever you would hate to have done to you by another, see that you never do so to another.\n(Tobit 4,16)</item>
+        <item>Bless God at all times. And petition him that he direct your ways and that all your counsels may remain in him.\n(Tobit 4,20)</item>
+        <item>And the young man said to him, \"Be steadfast in soul. Your cure from God is near.\"\n(Tobit 5,13)</item>
+        <item>For it is good to conceal the secret of a king, just as it is also honorable to reveal and to confess the works of God.\n(Tobit 12,7)</item>
+        <item>(…) and he said, \"Naked I departed from my mother’s womb, and naked I shall return. The Lord gave, and the Lord has taken away. Just as it pleased the Lord, so has it been done. Blessed be the name of the Lord.\"\n(Job 1,21)</item>
+        <item>He does great and unfathomable and miraculous things without number.\n(Job 5,9)</item>
+        <item>And brightness, like that of midday, will rise upon you until evening, and when you would think yourself consumed, you will rise up like the morning star.\n(Job 11,17)</item>
+        <item>In his hand is the soul of all the living and the spirit of all the flesh of mankind.\n(Job 12,10)</item>
+        <item>For behold, my witness is in heaven, and my confidante is on high.\n(Job 16,20)</item>
+        <item>And the just will cling to his way, and clean hands will increase strength.\n(Job 17,9)</item>
+        <item>So, repose yourself with Him and be at peace, and, in this way, you will have the best fruits.\n(Job 22,21)</item>
+        <item>Truly, he knows my way and has tested me like gold that passes through fire.\n(Job 23,10)</item>
+        <item>He will rescue the poor from his anguish, and he will open his ear during tribulation.\n(Job 36,15)</item>
+        <item>God will thunder with his voice miraculously, for he performs great and unsearchable things.\n(Job 37,5)</item>
+        <item>Then Job, responding to the Lord, said: I know that you are able to do all things, and that no thoughts are hidden from you.\n(Job 42,1–2)</item>
+        <item>The Lord directs me, and nothing will be lacking to me.\n(Psalms 22[23],1)</item>
+        <item>He has settled me here, in a place of pasture. He has led me out to the water of refreshment.\n(Psalms 22[23],2)</item>
+        <item>For, even if I should walk in the midst of the shadow of death, I will fear no evils. For you are with me. Your rod and your staff, they have given me consolation.\n(Psalms 22[23],4)</item>
+        <item>You will lead me out of this snare, which they have hidden for me. For you are my protector.\n(Psalms 30[31],5)</item>
+        <item>For you are my strength and my refuge; and for the sake of your name, you will lead me and nourish me.\n(Psalms 30[31],4)</item>
+        <item>Into your hands, I commend my spirit. You have redeemed me, O Lord, God of truth.\n(Psalms 30[31],6)</item>
+        <item>And you have not enclosed me in the hands of the enemy. You have set my feet in a spacious place.\n(Psalms 30[31],9)</item>
+        <item>But I have hoped in you, O Lord. I said, \"You are my God.\"\n(Psalms 30[31],15)</item>
+        <item>My fate is in your hands. Rescue me from the hand of my enemies and from those who are persecuting me.\n(Psalms 30[31],16)</item>
+        <item>Act manfully, and let your heart be strengthened, all you who hope in the Lord.\n(Psalms 30[31],25)</item>
+        <item>I sought the Lord, and he heeded me, and he carried me away from all my tribulations.\n(Psalms 33[34],5)</item>
+        <item>This poor one cried out, and the Lord heeded him, and he saved him from all his tribulations.\n(Psalms 33[34],7)</item>
+        <item>The Angel of the Lord will encamp around those who fear him, and he will rescue them.\n(Psalms 33[34],8)</item>
+        <item>Taste and see that the Lord is sweet. Blessed is the man who hopes in him.\n(Psalms 33[34],9)</item>
+        <item>Fear the Lord, all you his saints. For there is no destitution for those who fear him.\n(Psalms 33[34],10)</item>
+        <item>Prohibit your tongue from evil and your lips from speaking deceit.\n(Psalms 33[34],14)</item>
+        <item>Turn away from evil, and do good. Inquire about peace, and pursue it.\n(Psalms 33[34],15)</item>
+        <item>The eyes of the Lord are on the just, and his ears are with their prayers.\n(Psalms 33[34],16)</item>
+        <item>The Lord is near to those who are troubled in heart, and he will save the humble in spirit.\n(Psalms 33[34],19)</item>
+        <item>Many are the afflictions of the just, but from them all the Lord will free them.\n(Psalms 33[34],20)</item>
+        <item>Do not choose to imitate the malicious; neither should you envy those who work iniquity.\n(Psalms 36[37],1)</item>
+        <item>Hope in the Lord and do good, and dwell in the land, and so you shall be pastured with its riches.\n(Psalms 36[37],3)</item>
+        <item>Delight in the Lord, and he will grant to you the petitions of your heart.\n(Psalms 36[37],4)</item>
+        <item>Reveal your way to the Lord, and hope in him, and he will accomplish it.\n(Psalms 36[37],5)</item>
+        <item>And he will bring forth your justice like the light, and your judgment like the midday.\n(Psalms 36[37],6)</item>
+        <item>Be subject to the Lord and pray to him. Do not choose to compete with him who prospers in his way, with the man who does injustice.\n(Psalms 36[37],7)</item>
+        <item>Cease from wrath and leave behind rage. Do not choose to imitate the malicious.\n(Psalms 36[37],8)</item>
+        <item>But the meek shall inherit the earth, and they will delight in the multitude of peace.\n(Psalms 36[37],11)</item>
+        <item>The Lord knows the days of the immaculate, and their inheritance will be in eternity.\n(Psalms 36[37],18)</item>
+        <item>The steps of a man will be directed by the Lord, and he will choose his way.\n(Psalms 36[37],23)</item>
+        <item>When he falls, he will not be harmed, because the Lord places his hand under him.\n(Psalms 36[37], 24)</item>
+        <item>But the just will inherit the earth, and they will dwell upon it forever and ever.\n(Psalms 36[37],29)</item>
+        <item>The mouth of the just one will express wisdom, and his tongue will speak judgment.\n(Psalms 36[37],30)</item>
+        <item>Keep to innocence, and gaze upon fairness: because there are allotments for the peaceful man.\n(Psalms 36[37],37)</item>
+        <item>His truth will surround you with a shield. You will not be afraid: before the terror of the night.\n(Psalms 90[91],5)</item>
+        <item>A thousand will fall before your side and ten thousand before your right hand. Yet it will not draw near you.\n(Psalms 90[91],7)</item>
+        <item>Disaster will not draw near to you, and the scourge will not approach your tabernacle.\n(Psalms 90[91],10)</item>
+        <item>For he has given his Angels charge over you, so as to preserve you in all your ways.\n(Psalms 90[91],11)</item>
+        <item>With their hands, they will carry you, lest you hurt your foot against a stone.\n(Psalms 90[91],12)</item>
+        <item>You will walk over the asp and the king serpent, and you will trample the lion and the dragon.\n(Psalms 90[91],13)</item>
+        <item>He will cry out to me, and I will heed him. I am with him in tribulation. I will rescue him, and I will glorify him.\n(Psalms 90[91],15)</item>
+        <item>Those who sow in tears shall reap in exultation.\n(Psalms 125[126],05)</item>
+        <item>I will confess to you because you have heard me. And you have become my salvation.\n(Psalms 117[118],21)</item>
+        <item>He sent from on high, and he accepted me. And he took me up, out of many waters.\n(Psalms 17[18],27)</item>
+        <item>In that place, those who work iniquity have fallen. They have been expelled; they were not able to stand.\n(Psalms 35[36],13)</item>
+        <item>My help is from the Lord, who made heaven and earth. May he not allow your foot to be moved, and may he not slumber, who guards you.\n(Psalms 120[121],2–3)</item>
+        <item>The Lord is your keeper, the Lord is your protection, above your right hand. The sun will not burn you by day, nor the moon by night.\n(Psalms 120[121],5–6)</item>
+        <item>The Lord guards you from all evil. May the Lord guard your soul. May the Lord guard your entrance and your exit, from this time forward and even forever.\n(Psalms 120[121],7–8)</item>
+        <item>My help is from the Lord, who made heaven and earth. May he not allow your foot to be moved, and may he not slumber, who guards you.\n(Psalms 120[121],2–3)</item>
+        <item>The Lord is your keeper, the Lord is your protection, above your right hand. The sun will not burn you by day, nor the moon by night.\n(Psalms 120[121],5–6)</item>
+        <item>The Lord guards you from all evil. May the Lord guard your soul. May the Lord guard your entrance and your exit, from this time forward and even forever.\n(Psalms 120[121],7–8)</item>
+        <item>Listen, my son, to the discipline of your father, and forsake not the law of your mother.\n(Proverbs 1,8)</item>
+        <item>Have confidence in the Lord with all your heart, and do not depend upon your own prudence.\n(Proverbs 3,5)</item>
+        <item>In all your ways, consider him, and he himself will direct your steps.\n(Proverbs 3,6)</item>
+        <item>Do not seem wise to yourself. Fear God, and withdraw from evil.\n(Proverbs 3,7)</item>
+        <item>Do not delight in the paths of the impious, nor permit the way of evil-doers to please you.\n(Proverbs 4,14)</item>
+        <item>But the path of the just is like a shining light: it advances and increases, even to the day of completion.\n(Proverbs 4,18)</item>
+        <item>Preserve your heart with all watchfulness, for life proceeds from this.\n(Proverbs 4,23)</item>
+        <item>Remove from yourself a corrupt mouth, and let detracting lips be far from you.\n(Proverbs 4,24)</item>
+        <item>Direct the path of your feet, and all your ways shall be secure.\n(Proverbs 4,26)</item>
+        <item>Let your eyes look straight ahead, and let your eyelids precede your steps.\n(Proverbs 4,25)</item>
+        <item>Turn aside, neither to the right, nor to the left; yet turn your foot away from evil.\n(Proverbs 4,27)</item>
+        <item>The Lord beholds the ways of man, and he considers all his steps.\n(Proverbs 5,21)</item>
+        <item>In a multitude of speaking, sin will not be lacking. But whoever tempers his lips is most prudent.\n(Proverbs 10,19)</item>
+        <item>A merciful man benefits his own soul. But whoever is cruel casts out even his close relatives.\n(Proverbs 11,17)</item>
+        <item>Open your works to the Lord, and your intentions will be set in order.\n(Proverbs 16,3)</item>
+        <item>Better is a little with justice, than many fruits with iniquity.\n(Proverbs 16,8)</item>
+        <item>It is better to be called to vegetables with charity, than to a fatted calf with hatred.\n(Proverbs 15,17)</item>
+        <item>Possess wisdom, for it is better than gold. And acquire prudence, for it is more precious than silver.\n(Proverbs 16,16)</item>
+        <item>Arrogance precedes destruction. And the spirit is exalted before a fall.\n(Proverbs 16,18)</item>
+        <item>Whoever is wise in heart shall be called prudent. And whoever is sweet in eloquence shall attain to what is greater.\n(Proverbs 16,21)</item>
+        <item>The heart of man disposes his way. But it is for Lord to direct his steps.\n(Proverbs 16,9)</item>
+        <item>Careful words are a honeycomb: sweet to the soul and healthful to the bones.\n(Proverbs 16,24)</item>
+        <item>Whoever is a friend loves at all times. And a brother is proved by distress.\n(Proverbs 17,17)</item>
+        <item>A joyful soul makes a lifetime flourish. A gloomy spirit dries out the bones.\n(Proverbs 17,22)</item>
+        <item>A correction benefits more with a wise man, than a hundred stripes with a fool.\n(Proverbs 17,10)</item>
+        <item>A correction benefits more with a wise man, than a hundred stripes with a fool.\n(Proverbs 17,10)</item>
+        <item>The heart of a man is exalted before it is crushed and humbled before it is glorified.\n(Proverbs 18,12)</item>
+        <item>The doctrine of a man is known through patience. And his glory is to pass beyond iniquities.\n(Proverbs 19,11)</item>
+        <item>Do not say, \"I will repay evil.\" Wait for the Lord, and he will free you.\n(Proverbs 20,22)</item>
+        <item>Whoever guards his mouth and his tongue guards his soul from anguish.\n(Proverbs 21,23)</item>
+        <item>Let not your heart compete with sinners. But be in the fear of the Lord all day long. For you will have hope in the end, and your expectation will not be taken away.\n(Proverbs 23,17–18)</item>
+        <item>Behold, God is my savior, I will act faithfully, and I will not be afraid. For the Lord is my strength and my praise, and he has become my salvation.\n(Isaiah 12,2)</item>
+        <item>And the work of justice will be peace. And the service of justice will be quiet and secure, forever.\n(Isaiah 32,17)</item>
+        <item>But those who hope in the Lord will renew their strength. They will take up wings like eagles. They will run and not struggle. They will walk and not tire.\n(Isaiah 40,31)</item>
+        <item>Do not be afraid, for I am with you. Do not turn away, for I am your God. I have strengthened you, and I have assisted you, and the right hand of my just one has upheld you.\n(Isaiah 41,12)</item>
+        <item>For I am the Lord your God. I take you by your hand, and I say to you: Do not be afraid. I have helped you.\n(Isaiah 41,15)</item>
+        <item>The Lord has called me from the womb; from the womb of my mother, he has been mindful of my name.\n(Isaiah 49,1)</item>
+        <item>Behold, I have engraved you on my hands. Your walls are always before my eyes.\n(Isaiah 49,16)</item>
+        <item>For my thoughts are not your thoughts, and your ways are not my ways, says the Lord.\n(Isaiah 55,8)</item>
+        <item>Rise up to be illuminated, O Jerusalem! For your light has arrived, and the glory of the Lord has risen over you.\n(Isaiah 60,1)</item>
+        <item>From ages past, they have not heard it, and they have not perceived it with the ears. Apart from you, O God, the eye has not seen what you have prepared for those who await you.\n(Isaiah 64,4)</item>
+        <item>And this shall be: before they call out, I will perceive; while they are still speaking, I will hear.\n(Isaiah 65,24)</item>
+        <item>\"Before I formed you in the womb, I knew you. And before you went forth from the womb, I sanctified you.\"\n(Jeremiah 1,5)</item>
+        <item>\"Am I not able to do with you, O house of Israel, just as this potter has done?\", says the Lord. \"Behold, like clay in the hand of the potter, so are you in my hand, O house of Israel.\"\n(Jeremiah 18,6)</item>
+        <item>And you shall call upon me, and you shall go forth. And you shall pray to me, and I will heed you.\n(Jeremiah 29,12)</item>
+        <item>You shall seek me. And you will find me, when you have sought me with your whole heart.\n(Jeremiah 29,13)</item>
+        <item>And I will build you up again. And you shall be built up, O virgin of Israel. Still shall you be adorned with your timbrels, and still shall you go forth to the singing of those who play.\n(Jeremiah 31,4)</item>
+        <item>Then the virgin will rejoice with singing, the young and the old together, and I will turn their mourning into gladness, and I will console them and gladden them after their sorrow.\n(Jeremiah 31,13)</item>
+        <item>Thus says the Lord: \"Let your voice cease from crying and your eyes from tears. For there is a reward for your work, says the Lord. And they will return from the land of the enemy.\"\n(Jeremiah 31,16)</item>
+        <item>The Lord appeared to me from a distance: \"And I have loved you in perpetual charity. Therefore, showing pity, I have drawn you.\"\n(Jeremiah 33,3)</item>
+        <item>He is the liberator and the savior, performing signs and wonders in heaven and on earth, who has freed Daniel from the lions\' den.\n(Daniel 6,28)</item>
+    </string-array>
+    <string name="desc_archive">Favorites</string>
+
+</resources>

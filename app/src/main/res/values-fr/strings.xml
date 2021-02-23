@@ -1,0 +1,287 @@
+<resources>
+
+    <string name="text_copied">Texte copié</string>
+    <string name="favorites">Favoris</string>
+    <string name="desc_share">Partager</string>
+    <string name="app_name">Citations Bibliques</string>
+
+
+    <string-array name="verses">
+        <item>La crainte n\'est pas dans l\'amour, mais l\'amour parfait bannit la crainte; car la crainte suppose un châtiment, et celui qui craint n\'est pas parfait dans l\'amour.\n(1 Jean 4,18)</item>
+        <item>La crainte n\'est pas dans l\'amour, mais l\'amour parfait bannit la crainte; car la crainte suppose un châtiment, et celui qui craint n\'est pas parfait dans l\'amour.\n(1 Jean 4,18)</item>
+        <item>La crainte n\'est pas dans l\'amour, mais l\'amour parfait bannit la crainte; car la crainte suppose un châtiment, et celui qui craint n\'est pas parfait dans l\'amour.\n(1 Jean 4,18)</item>
+        <item>Heureux ceux qui ont le coeur pur, ils verront Dieu. \n(Matthieu 5,8)</item>
+        <item>Heureux ceux qui sèment la paix, ils seront appelés enfants de Dieu. \n(Matthieu 5,9)</item>
+        <item>Heureux ceux qui sont persécutés quand ils agissent en toute droiture, le Royaume des Cieux est à eux. \n(Matthieu 5,10)</item>
+        <item>Vous êtes la lumière du monde. Comment cacher une ville bâtie au sommet de la montagne? \n(Matthieu 5,14)</item>
+        <item>Que votre lumière, de même, brille devant les hommes: qu\'ils voient vos bonnes oeuvres, et qu\'ils rendent gloire à votre Père qui est dans les Cieux. \n(Matthieu 5,16)</item>
+        <item>Mais moi je vous dis: aimez vos ennemis et priez pour ceux qui vous persécutent. \n(Matthieu 5,44)</item>
+        <item>Heureux les doux, ils auront la terre en héritage. \n(Matthieu 5,4)</item>
+        <item>Heureux ceux qui sont dans le deuil, ils seront réconfortés. \n(Matthieu 5,5)</item>
+        <item>Pour toi, par contre, que ta main gauche ignore ce que fait ta main droite quand elle donne aux pauvres. \n(Matthieu 6,3)</item>
+        <item>Toi, au contraire, quand tu veux prier, entre dans ta chambre et ferme la porte afin de prier ton Père qui est là dans le secret; et ton Père qui voit dans le secret te le rendra. \n(Matthieu 6,6)</item>
+        <item>Sachez-le: si vous pardonnez aux autres leurs offenses, votre Père céleste vous pardonnera aussi. \n(Matthieu 6,14)</item>
+        <item>Amassez-vous richesses et réserves dans le Ciel, là où il n\'y a ni mites ni vers pour faire des ravages, et pas de voleurs pour percer le mur et tout emporter. \n(Matthieu 6,20)</item>
+        <item>L\'oeil est ta lampe. Si tu as l\'oeil sain, toute ta personne profite de la lumière. \n(Matthieu 6,22)</item>
+        <item>Cherchez d\'abord son royaume et sa justice, et tout le reste vous sera donné en plus. \n(Matthieu 6,33)</item>
+        <item>Cessez de vous inquiéter pour demain et demain s\'inquiétera pour lui-même: à chaque jour suffit sa peine. \n(Matthieu 6,34)</item>
+        <item>Ne jugez pas et vous ne serez pas jugés. \n(Matthieu 7,1)</item>
+        <item>Quoi! Tu vois la paille dans l\'oeil de ton frère et tu ne remarques pas la poutre qui est dans le tien? \n(Matthieu 7,3)</item>
+        <item>Demandez et l\'on vous donnera, cherchez et vous trouverez, frappez à la porte et l\'on vous ouvrira. \n(Matthieu 7,7)</item>
+        <item>Heureux ceux qui ont faim et soif de la justice, ils seront rassasiés. \n(Matthieu 5,6)</item>
+        <item>Car quiconque demande reçoit, celui qui cherche trouve, et l\'on ouvre à celui qui frappe. \n(Matthieu 7,8)</item>
+        <item>Faites donc pour les autres tout ce que vous voulez qu\'on fasse pour vous, c\'est bien ce que disent la Loi et les Prophètes. \n(Matthieu 7,12)</item>
+        <item>Mais lui leur dit: \"Comme vous êtes peureux, gens de peu de foi!\" Jésus se lève alors, il rappelle à l\'ordre les vents et la mer, et c\'est le grand calme. \n(Matthieu 8,26)</item>
+        <item>Alors Jésus dit à l\'officier: \"Va, et que tout se fasse pour toi comme tu as cru.\" A l\'instant même le serviteur fut guéri. \n(Matthieu 8,13)</item>
+        <item>Jésus se retourna et, la voyant, il lui dit: \"Courage, ma fille, ta foi t\'a sauvée.\" Et dès ce moment la femme fut sauvée. \n(Matthieu 9,22)</item>
+        <item>Alors Jésus toucha leurs yeux et dit: Qu\'il vous arrive comme vous avez cru. \n(Matthieu 9,29)</item>
+        <item>Donc ne les craignez pas. Il n\'y a rien de caché qui ne doive être découvert, rien de secret qui ne sera connu. \n(Matthieu 10,26)</item>
+        <item>Venez à moi, vous tous qui peinez, qui êtes surchargés, et je vous donnerai le repos. \n(Matthieu 11,28)</item>
+        <item>Où est le bénéfice si l\'on gagne le monde entier mais qu\'on se détruit soi-même? Avec quoi va-t-on racheter sa propre vie? \n(Matthieu 16,26)</item>
+        <item>Et Jésus leur dit: Parce que vous avez bien peu la foi. En vérité je vous le dis, si vous aviez la foi gros comme une graine de moutarde, vous de l\'Homme doit être livré aux mains des hommes. \n(Matthieu 17,20)</item>
+        <item>Heureux les miséricordieux, ils auront droit à la miséricorde. \n(Matthieu 5,7)</item>
+        <item>Un homme vint à Jésus avec ces paroles: Maître, que puis-je faire de bien pour avoir la vie éternelle? \n(Matthieu 19,26)</item>
+        <item>Alors Jésus leur dit: En vérité, je vous le dis, si vous ferez beaucoup plus que de dessécher ce figuier; vous direz à la montagne: Enlève-toi de là et jette-toi dans la mer, et cela se fera. \n(Matthieu 21,21)</item>
+        <item>Tout ce que vous pouvez demander dans la prière, avec la foi vous l\'obtiendrez. \n(Matthieu 21,22)</item>
+        <item>De même que le corps sans âme est mort, ainsi la foi sans les oeuvres est morte. \n(Jacques 2,25)</item>
+        <item>De la même bouche sortent la malédiction et la bénédiction! Il ne faut pas, mes frères, qu\'il en soit ainsi. \n(Jacques 3,10)</item>
+        <item>Le fruit de justice se sème dans la paix par ceux qui pratiquent la paix. \n(Jacques 3,18)</item>
+        <item>Vous convoitez, et vous n\'avez pas ; vous êtes meurtriers, vous êtes jaloux, et vous n\'arrivez pas à obtenir; vous êtes dans un état de lutte et de guerre; et vous n\'obtenez pas, parce que vous ne demandez pas; \n(Jacques 4,2)</item>
+        <item>Vous demandez, et vous ne recevez pas, parce que vous demandez mal, avec l\'intention de satisfaire vos passions. \n(Jacques 4,3)</item>
+        <item>Dieu résiste aux orgueilleux, et il accorde sa grâce aux humbles. \n(Jacques 4,6)</item>
+        <item>Humiliez-vous devant le Seigneur, et il vous élèvera. Frères, ne dites point de mal les uns des autres. \n(Jacques 4,10)</item>
+        <item>Celui qui parle mal de son frère ou qui juge son frère, parle mal de la loi et juge la loi. \n(Jacques 4,11)</item>
+        <item>Il n\'y a qu\'un seul législateur et qu\'un seul juge, celui qui a la puissance de sauver et de perdre. Mais qui es-tu, toi qui juges le prochain? \n(Jacques 4,12)</item>
+        <item>Celui donc qui sait faire ce qui est bien et qui ne le fait pas, commet un péché. \n(Jacques 4,17)</item>
+        <item>Frères, ne vous répandez point en plaintes les uns contre les autres, de peur que vous ne soyez jugés : voici que le juge est à la porte. \n(Jacques 5,9)</item>
+        <item>Comme modèle de générosité dans l\'épreuve et de patience, prenez, frères, les prophètes qui ont parlé au nom du Seigneur. \n(Jacques 5,10)</item>
+        <item>Quelqu\'un pareil vous est-il dans l\'affliction? qu\'il prie. Est-il dans la joie? qu\'il chante des cantiques. \n(Jacques 5,13)</item>
+        <item>Confessez donc vos fautes l\'un à l\'autre, et priez les uns pour les autres, afin que vous soyez guéris; car la prière fervente du juste a beaucoup de puissance.\n( Jacques 5,16)</item>
+        <item>Ayant donc dépouillé toute malice et toute fausseté, la dissimulation, l\'envie et toute sorte de médisance. \n(1 Pierre 2,1)</item>
+        <item>Comme des enfants nouvellement nés, désirez ardemment le pur lait spirituel, afin qu\'il vous fasse grandir pour le salut. \n(1 Pierre 2,2)</item>
+        <item>Car c\'est la volonté de Dieu que, par votre bonne conduite, vous fermiez la bouche aux insensés qui vous méconnaissent. \n(1 Pierre 2,15)</item>
+        <item>Rendez honneur à tous; aimez tous les frères; craignez Dieu; honorez le roi. \n(1 Pierre 2,17)</item>
+        <item>Enfin qu\'il y ait entre vous union de sentiments, bonté compatissante, charité fraternelle, affection miséricordieuse, humilité. \n(1 Pierre 3,8)</item>
+        <item>Ne rendez point le mal pour le mal, ni l\'injure pour l\'injure; bénissez, au contraire; car c\'est à cela que vous avez été appelés, afin de devenir héritiers de la bénédiction. \n(1 Pierre 3,9)</item>
+        <item>Celui qui veut aimer la vie et voir des jours heureux, qu\'il garde sa langue du mal, et ses lèvres des paroles trompeuses. \n(1 Pierre 3,10)</item>
+        <item>Qu\'il se détourne du mal, et fasse le bien; qu\'il cherche la paix et la poursuive. \n(1 Pierre 3,11)</item>
+        <item>Car le Seigneur a les yeux sur les justes, et ses oreilles sont attentives à leurs prières ; mais la face du Seigneur est contre ceux qui font le mal. \n(1 Pierre 3,12)</item>
+        <item>Et qui pourra vous faire du mai, si vous êtes appliqués à faire le bien? \n(1 Pierre 3,13)</item>
+        <item>Humiliez–vous donc sous la puissante main de Dieu, afin qu\'il vous élève au temps marqué; déchargez–vous sur lui de toutes vos sollicitudes, car lui–même prend soin de vous. \n(1 Pierre 5,6\-7)</item>
+        <item>Si quelqu\'un pense être dans la lumière alors qu\'il a de la haine pour son frère, il n\'est pas encore sorti des ténèbres. \n(1 Jean 2,9)</item>
+        <item>Avec lui nous nous sentons très forts: nous savons qu\'il nous écoute toutes les fois que nous demandons en accord avec sa propre volonté. \n(1 Jean  5,14)</item>
+        <item>Et s\'il écoute tout ce que nous demandons, nous savons que déjà nous tenons ce que nous lui avons demandé. \n(1 Jean  5,15)</item>
+        <item>Dieu dit:\"Que la lumière soit!\" Et la lumière fut. \n(Genesis  1,3)</item>
+        <item>Dieu vit que la lumière était bonne, et Dieu sépara la lumière d\'avec les ténèbres. \n(Genesis  1,4)</item>
+        <item>N\'ayez pas peur, tenez bon! Regardez simplement comment Yahvé sauve, voyez ce qu\'il va faire pour vous aujourd\'hui. \n(Exode 14,13)</item>
+        <item>Yahvé combattra à votre place et vous, vous n\'aurez qu\'à regarder! \n(Exode  14,14)</item>
+        <item>Maintenant j\'envoie un ange devant toi pour te protéger sur la route et pour te faire entrer dans le lieu que j\'ai préparé. \n(Exode 23,20)</item>
+        <item>Je serai avec toi comme j\'ai été avec Moïse, je ne t\'oublierai pas et je ne t\'abandonnerai pas. \n(Josué 1,5)</item>
+        <item>Je t\'ai bien donné cet ordre: Sois fort et courageux, ne tremble pas et n\'aie pas peur; Yahvé ton Dieu est avec toi partout où tu iras. \n(Josué 1,9)</item>
+        <item>Josué dit au peuple: Sanctifiez-vous, car Yahvé demain fera des prodiges au milieu de vous. \n(Josué 3,5)</item>
+        <item>De même que l\'orgueil amène la ruine et beaucoup de soucis, la paresse amène la pauvreté et la misère. En effet, la paresse est la mère de la famine. \n(Tobie 4,13)</item>
+        <item>Ne fais pas aux autres ce que tu n\'aimerais pas subir toi-même. \n(Tobie 4,15)</item>
+        <item>En toute occasion bénis le Seigneur Dieu, demande-lui de guider tes pas et de faire réussir tes entreprises et tes projets. \n(Tobie 4,19)</item>
+        <item>L\'ange lui dit: Aie confiance. Dieu va bientôt te guérir. Aie confiance. \n(Tobie 5,10)</item>
+        <item>Il est bon de garder le secret du roi, mais il est très recommandé de révéler et de publier les merveilles de Dieu. \n(Tobie 12,7)</item>
+        <item>Nu je suis sorti du ventre de ma mère, nu aussi j\'y retournerai. \n(Job 1,21)</item>
+        <item>Tu te sentiras sûr, ayant une espérance; bien protégé, tu dormiras en paix. \n(Job 11,18)</item>
+        <item>Il dispose de l\'âme de tout être vivant et du souffle de vie des humains \n(Job 12,10)</item>
+        <item>Le juste néanmoins demeure ferme dans sa voie, et qui a les mains pures redouble de courage. \n(Job 17,9)</item>
+        <item>Réconcilie-toi donc avec Dieu et apaise-toi; ainsi le bonheur te sera rendu. \n(Job 22,21)</item>
+        <item>Cependant il connaît les sentiers où je marche; qu\'il m\'examine, je sortirai pur comme l\'or. \n(Job 23,10)</item>
+        <item>Mais Dieu sauve le malheureux dans sa misère, il l\'instruit par la souffrance. \n(Job 36,15)</item>
+        <item>Dieu tonne de sa voix, d\'une manière merveilleuse. Il fait de grandes choses que nous ne comprenons pas. \n(Job 37,5)</item>
+        <item>Yahweh est mon pasteur; je ne manquerai de rien. \n(Psaumes 23,1)</item>
+        <item>II me fait reposer dans de verts pâturages, il me mène prés des caux rafraîchissantes. \n(Psaumes 23,2)</item>
+        <item>Même quand je marche dans une vallée d\'ombre mortelle, je ne crains aucun mal, car tu es avec moi : ta houlette et ton bâton me rassurent. \n(Psaumes 23,4)</item>
+        <item>Tu me tireras du filet qu\'ils m\'ont tendu, car tu es ma défense. \n(Psaumes 31,5)</item>
+        <item>Entre tes mains je remets mon esprit; tu me délivreras, Yahweh, Dieu de vérité! \n(Psaumes  31,6)</item>
+        <item>Et tu ne m\'as pas livré aux mains de l\'ennemi; tu donnes à mes pieds un libre espace. \n(Psaumes  31,9)</item>
+        <item>Et moi, je me confie en toi, Yahweh; je dis: Tu es mon Dieu! \n(Psaumes  31,15)</item>
+        <item>Mes destinées sont dans ta main; délivre-moi de la main de mes ennemis et de mes persécuteurs! \n(Psaumes  31,16)</item>
+        <item>Ayez courage, et que votre coeur s\'affermisse, vous tous qui espérez en Yahweh! \n(Psaumes  31,25)</item>
+        <item>J\'ai cherché Yahweh, et il m\'a exaucé, et il m\'a délivré de toutes mes frayeurs. \n(Psaumes 34,5)</item>
+        <item>Ce pauvre a crié, et Yahweh l\'a entendu, et il l\'a sauvé de toutes ses angoisses. \n(Psaumes 34,7)</item>
+        <item>L\'ange de Yahweh campe autour de ceux qui le craignent, et il les sauve. \n(Psaumes 34,8)</item>
+        <item>Goûtez et voyez combien Yahweh est bon! Heureux l\'homme qui met en lui son refuge! \n(Psaumes 34,9)</item>
+        <item>Craignez Yahweh, vous ses saints, car il n\'y a point d\'indigence pour ceux qui le craignent. \n(Psaumes 34,10)</item>
+        <item>Préserve ta langue du mal, et tes lèvres des paroles trompeuses. \n(Psaumes 34,14)</item>
+        <item>Éloigne-toi du mal et fais le bien, recherche la paix, et poursuis-la. \n(Psaumes 34,15)</item>
+        <item>Les yeux de Yahweh sont sur les justes; et ses oreilles sont attentives à leurs cris. \n(Psaumes 34,16)</item>
+        <item>Yahweh est près de ceux qui ont le coeur brisé, il sauve ceux dont l\'esprit est abattu. \n(Psaumes 34,19)</item>
+        <item>Nombreux sont les malheurs du juste, mais de tous Yahweh le délivre.\n(Psaumes 34,20)</item>
+        <item>Ne va pas t\'échauffer quand tu penses aux méchants, n\'envie pas ceux qui font le mal. Comme l\'herbe ils seront vite passés, comme la verdure des champs si tôt flétrie. \n(Psaumes 37,1–2)</item>
+        <item>Confie-toi dans le Seigneur et fais le bien, demeure au pays et trouves-y ta subsistance.. \n(Psaumes 37,3)</item>
+        <item>Si tu mets ta joie dans le Seigneur, lui comblera les désirs de ton coeur. \n(Psaumes 37,4)</item>
+        <item>Confie au Seigneur tes entreprises, compte sur lui: il va les mener à bien. \n(Psaumes 37,5)</item>
+        <item>Il rendra tes mérites aussi clairs que le jour, tes droits s\'imposeront comme un soleil de midi. \n(Psaumes 37,6)</item>
+        <item>Tais-toi devant le Seigneur et attends-le. \n(Psaumes 37,7)</item>
+        <item>Laisse-là ta colère, cesse de t\'indigner, ne t\'échauffe pas, cela ne fait que du mal. \n(Psaumes 37,8)</item>
+        <item>Les humbles posséderont la terre et jouiront d\'une paix sans menaces. \n(Psaumes 37:11)</item>
+        <item>Le Seigneur veille sur les jours des parfaits, leur héritage est à eux pour toujours. \n(Psaumes 37:18)</item>
+        <item>Les justes posséderont la terre, ils l\'habiteront pour toujours. \n(Psaumes 37:29)</item>
+        <item>La bouche du juste redit les mots de la sagesse, il parle pour dire ce qui est juste. \n(Psaumes 37:30)</item>
+        <item>De Yahweh vient le salut des justes; il est leur protecteur au temps de la détresse. \n(Psaumes 37:34)</item>
+        <item>Tu ne craindras pas, de nuit, la terreur, ni de jour, la flèche qui vole. \n(Psaumes 91,5)</item>
+        <item>Mille, peut-être, tomberont près de toi, dix mille, rien qu\'à ta droite, mais tu seras hors d\'atteinte. \n(Psaumes 91,7)</item>
+        <item>Le mal ne t\'atteindra pas, la plaie ne frappera pas jusqu\'à toi. \n(Psaumes 91:10)</item>
+        <item>Car il donnera un ordre à ses anges, pour qu\'ils t\'escortent sur tous tes chemins. Dans leurs mains ils te porteront pour que ton pied ne bute pas sur la pierre. \n(Psaumes 91,11\-12)</item>
+        <item>Tu passeras sur les fauves et les serpents, tu piétineras le jeune lion et le dragon. \n(Psaumes 91,13)</item>
+        <item>Qu\'il m\'appelle, je lui répondrai, je serai avec lui dans l\'angoisse; je le sauverai, je lui donnerai la gloire. \n(Psaumes 91,15)</item>
+        <item>Ecoute, mon fils, les avis de ton père, ne rejette pas les avertissements de ta mère. \n(Proverbes 1,8)</item>
+        <item> D\'un coeur entier fais confiance au Seigneur, et ne te fie pas à ta propre sagesse. \n(Proverbes 3,5)</item>
+        <item>Quoi que tu fasses, tiens compte de lui: il aplanira tes chemins. \n(Proverbes  3,6)</item>
+        <item>Ne te crois pas le plus sage: aie la crainte de Yahvé et tiens-toi à l\'écart du mal. \n(Proverbes 3,7)</item>
+        <item>Mais ne prends pas la route des méchants, ne t\'avance pas sur le chemin des mauvais! \n(Proverbes 4,14)</item>
+        <item>La route des justes est comme la lumière de l\'aurore: son éclat grandit jusqu\'au plein jour. \n(Proverbes 4,18)</item>
+        <item>Avant toute autre pratique, veille sur ton coeur, car là est la source de la vie. \n(Proverbes 4,23)</item>
+        <item>Refuse tout langage pervers, abstiens-toi de toute médisance. \n(Proverbes 4,24)</item>
+        <item>Eprouve le sol sous tes pieds, pour que ta marche soit bien assurée. \n(Proverbes 4,26)</item>
+        <item>Que tes yeux regardent en face, et que tes paupières se dirigent devant toi. \n(Proverbes 4,25)</item>
+        <item>N\'incline ni à droite ni à gauche, et détourne ton pied du mal. \n(Proverbes 4,27)</item>
+        <item>Car devant les yeux de Yahweh sont les voies de l\'homme; il considère tous ses sentiers. \n(Proverbes 5,21)</item>
+        <item>L\'abondance de paroles ne va pas sans péché, mais celui qui retient ses lèvres est un homme prudent. \n(Proverbes 10,19)</item>
+        <item>L\'homme charitable fait du bien à son âme, mais l\'homme cruel afflige sa propre chair. \n(Proverbes 11,17)</item>
+        <item>Acquérir la sagesse vaut bien mieux que l\'or; acquérir l\'intelligence est bien préférable à l\'argent. \n(Proverbes 16,16)</item>
+        <item>L\'orgueil précède la ruine, et la fierté précède la chute. \n(Proverbes 16,18)</item>
+        <item>Recommande tes oeuvres à Yahweh, et tes projets réussiront. \n(Proverbs 16,3)</item>
+        <item>A l\'homme de former des projets dans son coeur, mais la réponse de la langue vient de Yahweh. \n(Proverbes 16,1)</item>
+        <item>Celui qui est sage de coeur est appelé intelligent, et la douceur des lèvres augmente le savoir. \n(Proverbes 16,21)</item>
+        <item>Le coeur de l\'homme médite sa voie, mais c\'est Yahweh qui dirige ses pás. \n(Proverbes 16,9)</item>
+        <item>Les bonnes paroles sont un rayon de miel, douces à l\'âme et salutaires au corps. \n(Proverbes 16,24)</item>
+        <item>Un coeur joyeux est un excellent remède; un esprit abattu dessèche les os. \n(Proverbes 17:22)</item>
+        <item>Un blâme fait plus d\'impression sur l\'homme intelligent que cent coups sur l\'insensé. \n(Proverbes 17,10)</item>
+        <item>Avant la ruine, le coeur de l\'homme s\'élève, mais l\'humilité précède la gloire. \n(Proverbes 18,12)</item>
+        <item>La sagesse d\'un homme le rend patient, et il se fait une gloire d\'oublier les offenses. \n(Proverbes 19,11)</item>
+        <item>Ne dis pas: Je rendrai le mal; espère en Yahweh, et il te délivrera. \n(Proverbes 20,22)</item>
+        <item>Mieux vaut des légumes avec de l\'affection, qu\'un boeuf gras avec de la haine. \n(Proverbes 15,17)</item>
+        <item>C\'est lui le Dieu de mon salut, j\'ai confiance en lui et ne tremble plus; Yahvé est ma force et je le louerai: c\'est bien lui qui m\'a sauvé. \n(Isaïe 12,2)</item>
+        <item>La justice apportera la paix; le fruit de la justice sera la tranquil lité et la sécurité pour toujours. \n(Isaïe 32,17)</item>
+        <item>Ceux qui s\'appuient sur Yahvé retrouvent des forces; il leur pousse des ailes comme à l\'aigle, ils courent et ne se fatiguent pas, ils marchent et ne se lassent pas. \n(Isaïe 40,31)</item>
+        <item>Ceux qui crient après toi s\'en iront déçus, confus; tes adversaires seront réduits à rien et périront. \n(Isaïe 41,11)</item>
+        <item>Ecoutez-moi, îles lointaines, et que vos peuples soient attentifs! Yahvé m\'a appelé dès le sein de ma mère, il a connu mon nom avant que je sois né. \n(Isaïe 49,1)</item>
+        <item>Regarde, je t\'ai gravée sur la paume de mes mains, je ne cesse de penser à tes remparts. \n(Isaïe 49,16)</item>
+        <item>Car mes pensées ne sont pas vos pensées, et vos chemins ne sont pas mes chemins - parole de Yahvé. \n(Isaïe 55,8)</item>
+        <item>Debout! Rayonne! Car voici ta lumière et sur toi se lève la Gloire de Yahvé. \n(Isaïe 60,1)</item>
+        <item>Jamais on n\'a entendu dire, jamais on n\'a appris, l\'oeil n\'a jamais vu un Dieu, en dehors de toi, faire de telles choses pour ceux qui se confient en lui. \n(Isaïe 64,4)</item>
+        <item>Aussi, avant même qu\'ils n\'appellent je répondrai, ils parleront encore, et déjà j\'aurai entendu. \n(Isaïe 65,24)</item>
+        <item>Avant même de te former dans le ventre de ta mère, je t\'ai connu; avant que tu sois sorti de son sein, je t\'avais consacré. \n(Jéremie 1,5)</item>
+        <item>Vous êtes dans ma main comme l\'argile dans la main du potier, maison d\'Israël. \n(Jéremie 18,6)</item>
+        <item>Car je sais bien ce que j\'ai l\'intention de faire pour vous: c\'est la paix et non le malheur. Je veux vous donner un avenir et une espérance. \n(Jéremie 29,11)</item>
+        <item>Vous me chercherez et vous me trouverez, car alors vous me rechercherez de tout votre coeur. \n(Jéremie 29,13)</item>
+        <item>Je te rebâtirai, vierge d\'Israël, et tu seras rebâtie. Tu retrouveras tes tambourins et de nouveau tu sortiras au rythme des danses joyeuses. \n(Jéremie 31,4)</item>
+        <item>Je changerai leur deuil en joie, je leur donnerai du bonheur après leurs épreuves. \n(Jéremie 31,13)</item>
+        <item>Mais voici ce que dit Yahvé: Retiens les sanglots de ta voix et les larmes de tes yeux, car ta peine aura sa récompense. \n(Jéremie 31,16)</item>
+        <item>Appelle-moi et je te répondrai, je te ferai connaître des choses grandes et cachées que tu ne savais pas. \n(Jéremie 33,3)</item>
+        <item>C\'est lui qui sauve et qui délivre, qui opère des signes et des prodiges dans les cieux et sur la terre: il a sauvé Daniel des griffes et de la dent des lions. \n(Daniel 6,28)</item>
+        <item>Mais l\'homme naturel ne reçoit pas les choses de l\'Esprit de Dieu, car elles sont une folie pour lui, et il ne peut les connaître, parce que c\'est par l\'Esprit qu\'on en juge. \n(1 Corinthiens 2,14)</item>
+        <item>Si quelqu\'un détruit le temple de Dieu, Dieu le détruira; car le temple de Dieu est saint, et c\'est ce que vous êtes vous-mêmes. \n(1 Corinthiens 3,17)</item>
+        <item>En effet, la sagesse de ce monde est folie devant Dieu; car il est écrit: \"Je prendrai les sages dans leurs ruses.\" \n(1 Corinthiens 3,19)</item>
+        <item>Pour l\'instant, donc, ce qui vaut c\'est la foi, l\'espérance et l\'amour. Mais le plus grand des trois est l\'amour. \n(1 Corinthiens 13,13)</item>
+        <item>Quand viendra ce qui est parfait, tout ce qui est partiel sera éliminé. \n(1 Corinthiens 13,10)</item>
+        <item>L\'amour ne passera pas, tandis que les prophéties auront un terme, et les langues cesseront, et le plus haut savoir sera oublié. \n(1 Corinthiens 13,8)</item>
+        <item>Ne savez-vous pas que vous êtes un temple de Dieu, et que l\'Esprit de Dieu habite en vous? \n(1 Corinthiens 3,16)</item>
+        <item>L\'amour excuse tout, elle croit tout, elle espère tout, elle supporte tout. \n(1 Corinthians 13:7)</item>
+        <item>L\'amour ne fait rien d\'inconvenant, elle ne cherche point son intérêt, elle ne s\'irrite point, elle ne tient pas compte du mal; \n(1 Corinthiens 13,5)</item>
+        <item>L\'amour sait attendre, l\'amour est compréhensif et il n\'est pas jaloux. L\'amour ne s\'enfle pas, il ne se fait pas valoir, \n(1 Corinthiens 13,4)</item>
+        <item>Et si je donne tout ce que j\'ai, si je me sacrifie moi-même, mais pour en tirer gloire et sans avoir l\'amour, cela ne me sert de rien. \n(1 Corinthiens 13,3)</item>
+        <item>Je peux bien parler les langues des hommes, et aussi celles des anges, si je n\'ai pas l\'amour, je suis comme la trompette ou la cymbale: du bruit et rien de plus. \n(1 Corinthiens 13,1)</item>
+        <item>En effet, la sagesse de ce monde est folie devant Dieu; car il est écrit: \"Je prendrai les sages dans leurs ruses.\" \n(1 Corinthiens 3,19)</item>
+        <item>Pour l\'instant, donc, ce qui vaut c\'est la foi, l\'espérance et l\'amour. Mais le plus grand des trois est l\'amour. \n(1 Corinthiens 13,13)</item>
+        <item>Quand viendra ce qui est parfait, tout ce qui est partiel sera éliminé. \n(1 Corinthiens 13,10)</item>
+        <item>L\'amour ne passera pas, tandis que les prophéties auront un terme, et les langues cesseront, et le plus haut savoir sera oublié. \n(1 Corinthiens 13,8)</item>
+        <item>Ne savez-vous pas que vous êtes un temple de Dieu, et que l\'Esprit de Dieu habite en vous? \n(1 Corinthiens 3,16)</item>
+        <item>L\'amour excuse tout, elle croit tout, elle espère tout, elle supporte tout. \n(1 Corinthians 13,7)</item>
+        <item>L\'amour ne fait rien d\'inconvenant, elle ne cherche point son intérêt, elle ne s\'irrite point, elle ne tient pas compte du mal; \n(1 Corinthiens 13,5)</item>
+        <item>L\'amour sait attendre, l\'amour est compréhensif et il n\'est pas jaloux. L\'amour ne s\'enfle pas, il ne se fait pas valoir. \n(1 Corinthiens 13,4)</item>
+        <item>Et si je donne tout ce que j\'ai, si je me sacrifie moi-même, mais pour en tirer gloire et sans avoir l\'amour, cela ne me sert de rien. \n(1 Corinthiens 13,3)</item>
+        <item>Je peux bien parler les langues des hommes, et aussi celles des anges, si je n\'ai pas l\'amour, je suis comme la trompette ou la cymbale: du bruit et rien de plus. \n(1 Corinthiens 13,1)</item>
+        <item>Mais l\'homme naturel ne reçoit pas les choses de l\'Esprit de Dieu, car elles sont une folie pour lui, et il ne peut les connaître, parce que c\'est par l\'Esprit qu\'on en juge. \n(1 Corinthiens 2,14)</item>
+        <item>Si quelqu\'un détruit le temple de Dieu, Dieu le détruira; car le temple de Dieu est saint, et c\'est ce que vous êtes vous-mêmes. \n(1 Corinthiens 3,17)</item>
+        <item>En effet, la sagesse de ce monde est folie devant Dieu; car il est écrit: \"Je prendrai les sages dans leurs ruses.\" \n(1 Corinthiens 3,19)</item>
+        <item>Pour l\'instant, donc, ce qui vaut c\'est la foi, l\'espérance et l\'amour. Mais le plus grand des trois est l\'amour. \n(1 Corinthiens 13,13)</item>
+        <item>Quand viendra ce qui est parfait, tout ce qui est partiel sera éliminé. \n(1 Corinthiens 13,10)</item>
+        <item>L\'amour ne passera pas, tandis que les prophéties auront un terme, et les langues cesseront, et le plus haut savoir sera oublié. \n(1 Corinthiens 13,8)</item>
+        <item>Ne savez-vous pas que vous êtes un temple de Dieu, et que l\'Esprit de Dieu habite en vous? \n(1 Corinthiens 3,16)</item>
+        <item>L\'amour excuse tout, elle croit tout, elle espère tout, elle supporte tout. \n(1 Corinthians 13,7)</item>
+        <item>L\'amour ne fait rien d\'inconvenant, elle ne cherche point son intérêt, elle ne s\'irrite point, elle ne tient pas compte du mal; \n(1 Corinthiens 13,5)</item>
+        <item>L\'amour sait attendre, l\'amour est compréhensif et il n\'est pas jaloux. L\'amour ne s\'enfle pas, il ne se fait pas valoir. \n(1 Corinthiens 13,4)</item>
+        <item>Ma fille, ta foi t\'a guérie; va en paix, et sois indemne de ton infirmité. \n(Marc 5,34)</item>
+        <item>Ne crains pas, crois seulement. \n(Marc 5,36)</item>
+        <item>Jésus lui dit: Si vous pouvez! Tout est possible à celui qui croit. \n(Marc 9,23)</item>
+        <item>Je vous le dis, en vérité, qui ne recevra pas comme un petit enfant le royaume de Dieu, n\'y entrera point. \n(Marc 10,15)</item>
+        <item>Jésus, les yeux fixés sur eux, dit: Aux hommes impossible! Mais non à Dieu, car tout est possible à Dieu. \n(Marc 10,27)</item>
+        <item>Jésus lui dit: Va, ta foi t\'a sauvé. Et aussitôt il recouvra la vue, et il le suivant sur le chemin. \n(Marc 10,52)</item>
+        <item>Jésus leur répondit: Ayez foi en Dieu. \n(Marc 11,22)</item>
+        <item>Lorsque vous vous tenez debout pour prier, si vous avez quelque chose contre quelqu\'un, pardonnez, afin que votre Père qui est dans les cieux vous pardonne vos offenses. \n(Marc 11,25)</item>
+        <item>Aussi je vous dis: Tout ce que vous demandez dans la prière, croyez que vous l\'avez reçu et vous le recevrez. \n(Marc 11,24)</item>
+        <item>Car rien n\'est impossible à Dieu! \n(Luc 1,37)</item>
+        <item>Marie dit alors: \"Je suis la servante du Seigneur, qu\'il m\'arrive selon ta parole!\" Et l\'ange se retira d\'auprès d\'elle. \n(Luc 1,38)</item>
+        <item>Tu as cru, toi, en l\'accomplissement de ce que le Seigneur t\'a fait dire: Heureuse es-tu!. \n(Luc 1,45)</item>
+        <item>Marie dit alors: Mon âme exalte le Seigneur. \n(Luc 1,46)</item>
+        <item>Mon esprit tressaille de joie en Dieu mon Sauveur! \n(Luc 1,47)</item>
+        <item>Le Puissant a fait pour moi de grandes choses, Saint est son Nom! \n(Luc 1,49)</item>
+        <item>Sa miséricorde s\'étend d\'âge en âge sur ceux qui le craignent. \n(Luc 1,50)</item>
+        <item>Soyez miséricordieux comme votre Père est miséricordieux. \n(Luc 6,36)</item>
+        <item>Ne jugez pas et vous ne serez pas jugés. Ne condamnez pas et vous ne serez pas condamnés. Pardonnez, et l\'on vous pardonnera. \n(Luc 6,37)</item>
+        <item>La bouche parle de l\'abondance du coeur. \n(Luc 6,45)</item>
+        <item>Car quiconque demande reçoit, celui qui cherche trouve, et l\'on ouvre à celui qui frappe. \n(Luc 11,10)</item>
+        <item>Et voici: il y a des derniers qui seront premiers, et des premiers qui seront derniers. \n(Luc 13,30)</item>
+        <item>Et la lumière luit dans les ténèbres, et les ténèbres ne l\'ont point reçue. \n(Jean 1,5)</item>
+        <item>Car Dieu n\'a pas envoyé le Fils dans le monde pour juger le monde, mais pour que le monde soit sauvé par lui. \n(Jean  3,17)</item>
+        <item>Mais celui qui accomplit la vérité vient à la lumière, de sorte que ses ?uvres soient manifestées, parce qu\'elles sont faites en Dieu. \n(Jean  3,21)</item>
+        <item>Car quiconque fait le mal, hait la lumière, de peur que ses uvres ne soient blâmées.\n(Giovanni  3,20)</item>
+        <item>Le voleur ne vient que pour dérober, égorger et détruire; moi, je suis venu pour que les brebis aient la vie, et qu\'elles soient dans l\'abondance. \n(Jean  10,10)</item>
+        <item>Comme mon Père m\'a aimé, moi aussi je vous ai aimés: demeurez dans mon amour. \n(Jean 15,9)</item>
+        <item>Je vous ai dit ces choses, afin que ma joie soit en vous, et que votre joie soit parfaite. \n(Jean 15,11)</item>
+        <item>Ce que je vous commande, c\'est de vous aimer les uns les autre. \n(Jean 15,17)</item>
+        <item>Si le monde vous hait, sachez qu\'il m\'a haï le premier. \n(Jean 15,18)</item>
+        <item>Ceci est mon commandement, que vous vous aimiez les uns les autres, comme je vous ai aimés.\n( Jean 15,12)</item>
+        <item>En vérité, en vérité, je vous le dis, vous pleurerez et vous vous lamenterez, tandis que le monde se réjouira; vous serez affligés, mais votre affliction se changera en joie. \n(Jean 16,20)</item>
+        <item>Jusqu\'à présent vous n\'avez rien demandé en mon nom: demandez, et vous recevrez, afin que votre joie soit parfaite.\n( Jean 16,24)</item>
+        <item>Vous avez des tribulations dans le monde, mais prenez confiance, j\'ai vaincu le monde. \n(Jean 16,33)</item>
+        <item>Vous avez des tribulations dans le monde, mais prenez confiance, j\'ai vaincu le monde. \n(Jean  16,33)</item>
+        <item>Crois au Seigneur Jésus, et tu seras sauvé, toi et ta maison. \n(Actes dês Apôtres 16,31)</item>
+        <item>De même aussi l\'Esprit vient en aide à notre faiblesse, car nous ne savons pas ce que nous devons, selon nos besoins, demander dans nos prières. Mais l\'Esprit lui-même prie pour nous par des gémissements ineffables. \n(Romains 8,26)</item>
+        <item>Nous savons d\'ailleurs que toutes choses concourent au bien de ceux qui aiment Dieu, de ceux qui sont appelés selon son éternel dessein. \n(Romains 8,28)</item>
+        <item>Que dirons-nous donc après cela? Si Dieu est pour nous, qui sera contre nous? \n(Romains 8,31)</item>
+        <item>Que votre charité soit sans hypocrisie. Ayez le mal en horreur; attachez-vous fortement au bien. \n(Romains 12,9)</item>
+        <item>Quant à l\'amour fraternel, soyez pleins d\'affection les uns pour les autres, vous prévenant d\'honneur les uns les autres. \n(Romains 12,10)</item>
+        <item>Pour ce qui est du zèle, ne soyez pas nonchalants. Soyez fervents d\'esprit; c\'est le Seigneur que vous servez. \n(Romani 12,11)</item>
+        <item>Soyez pleins de la joie que donne l\'espérance, patients dans l\'affliction, assidus à la prière. \n(Romains 12,12)</item>
+        <item>Bénissez ceux qui vous persécutent: bénissez et ne maudissez pas. \n(Romains 12,14)</item>
+        <item>Réjouissez-vous avec ceux qui sont dans la joie; pleurez avec ceux qui pleurent. \n(Romains 12,15)</item>
+        <item>Ne rendez à personne le mal pour le mal; veillez à faire ce qui est bien devant tous les hommes. \n(Romains 12,17)</item>
+        <item>S\'il est possible, autant qu\'il dépend de vous, soyez en paix avec tous. \n(Romains 12,18)</item>
+        <item>Ne te laisse pas vaincre par le mal, mais triomphe du mal par le bien. \n(Romains 12,21)</item>
+        <item>C\'est pourquoi prenez l\'armure de Dieu, afin de pouvoir résister au jour mauvais, et après avoir tout surmonté, rester debout. \n(Ephésiens 6,13)</item>
+        <item>C\'est pourquoi ne soyez pas inconsidérés, mais comprenez bien quelle est la volonté du Seigneur. \n(Ephésiens 5,17)</item>
+        <item>Soyez toujours joyeux. Orai sem cessar. En toutes choses rendez grâces: car c\'est la volonté de Dieu dans le Christ Jésus à l\'égard de vous tous. \n(1 Thessaloniciens 5,16–18)</item>
+        <item>C\'est par la foi que nous reconnaissons que le monde a été formé par la parole de Dieu, en sorte que les choses que l\'on voit n\'ont pas été faites de choses visibles. \n(Hébreux 11,3)</item>
+        <item>C\'est par la foi que les murailles de Jéricho tombèrent, après qu\'on en eût fait le tour pen-dent sept jours. \n(Hébreux 11,30)</item>
+        <item>Or la foi est la substance des choses qu\'on espère, une conviction de celles qu\'on ne voit point. \n(Hébreux 11,1)</item>
+        <item>Si quelqu\'un voit que la sagesse lui fait défaut, qu\'il demande à Dieu et il recevra, car Dieu donne volontiers à tous, sans se faire prier. \n(Jacques 1,5)</item>
+        <item>Mais il faut demander avec foi, sans avoir peur, car celui qui hésite est comme les vagues de la mer, livrées aux vents. \n(Jacques 1,6)</item>
+        <item>Heureux l\'homme qui a supporté l\'épreuve; car celui qui en est sorti éprouvé, recevra la couronne de vie que Dieu a promise à ceux qui l\'aiment. \n(Jacques 1,12)</item>
+        <item>Il ne faut jamais dire au moment de l\'épreuve: \"Dieu veut me faire tomber!\" Car, si Dieu est à l\'abri de tout mal, de son côté il ne cherche à faire tomber personne. \n(Jacques 1,13)</item>
+        <item>Tout don excellent, toute grâce parfaite, descend d\'en haut, du Père des lumières, en qui n\'existe aucune vicissitude, ni ombre de changement. \n(Jacques 1,17)</item>
+        <item>Mes frères bien-aimés, vous le savez, que l\'homme soit prompt à écouter, lent à parler, lent à se mettre en colère. \n(Jacques 1,19)</item>
+        <item>Car la colère de l\'homme n\'opère point la justice de Dieu. \n(Jacques 1,20)</item>
+        <item>Mais efforcez-vous de la mettre en pratique, et ne vous contentez pas de l\'écouter, en vous abusant vous-mêmes par de faux raisonnements. \n(Jacques 1,22)</item>
+        <item>Si quelqu\'un s\'imagine être religieux sans mettre un frein à sa langue, il s\'abuse lui-même et sa religion est vaine. \n(Jacques 1,26)</item>
+        <item>Que si vous accomplissez la loi royale, selon ce passage de l\'Ecriture: \"Tu aimeras ton prochain comme toi-même\" vous faites bien. \n(Jacques 2,8)</item>
+        <item>Que sert-il, mes frères, à un homme de dire qu\'il a la foi, s\'il n\'a pas les oeuvres? Est-ce que cette foi pourra le sauver? \n(Jacques 2,14)</item>
+        <item>Tu vois que la foi coopérait à ses oeuvres, et que par les censure sa foi fut rendue parfaite. \n(Jacques 2,22)</item>
+        <item>Vous voyez que l\'homme est justifié par les oeuvres, et non par la foi seulement. \n(Jacques 2,24)</item>
+    </string-array>
+    <string name="desc_sound_on">Son sur</string>
+    <string name="desc_archive">Favoris</string>
+    <string name="desc_save_favorite">Enregistrer comme favori</string>
+    <string name="desc_get_verse">Obtenir le verset</string>
+    <string name="desc_turn_on_sound">Activer le son</string>
+    <string name="loading">Chargement…</string>
+    <string name="shake_the_phone">Secouez le téléphone</string>
+    <string name="desc_remove_from_favorites">Supprimer</string>
+
+</resources>

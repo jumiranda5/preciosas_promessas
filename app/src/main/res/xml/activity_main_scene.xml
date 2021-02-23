@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotionScene 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:motion="http://schemas.android.com/apk/res-auto">
+
+    <Transition
+        motion:constraintSetEnd="@+id/middle"
+        motion:constraintSetStart="@+id/start"
+        motion:duration="300">
+       <KeyFrameSet>
+           <KeyAttribute
+               android:alpha="1"
+               android:scaleX="1.0"
+               android:scaleY="1.0"
+               motion:motionTarget="@+id/textView_verse"
+               motion:framePosition="0"/>
+           <KeyAttribute
+               android:alpha="0"
+               android:scaleX="0.0"
+               android:scaleY="0.0"
+               motion:motionTarget="@+id/textView_verse"
+               motion:framePosition="100"/>
+           <KeyAttribute
+               android:alpha="1"
+               android:scaleX="1.0"
+               android:scaleY="1.0"
+               android:translationY="0dp"
+               motion:motionTarget="@+id/btn_favorite"
+               motion:framePosition="0"/>
+           <KeyAttribute
+               android:alpha="0"
+               android:scaleX="0.0"
+               android:scaleY="0.0"
+               android:translationY="70dp"
+               motion:motionTarget="@+id/btn_favorite"
+               motion:framePosition="100"/>
+       </KeyFrameSet>
+    </Transition>
+
+    <Transition
+        motion:constraintSetEnd="@+id/end"
+        motion:constraintSetStart="@+id/middle"
+        motion:duration="300">
+        <KeyFrameSet>
+            <KeyAttribute
+                android:alpha="0"
+                android:scaleX="0.0"
+                android:scaleY="0.0"
+                motion:motionTarget="@+id/textView_verse"
+                motion:framePosition="0"/>
+            <KeyAttribute
+                android:alpha="1"
+                android:scaleX="1.0"
+                android:scaleY="1.0"
+                motion:motionTarget="@+id/textView_verse"
+                motion:framePosition="100"/>
+            <KeyAttribute
+                android:alpha="0"
+                android:scaleX="0.0"
+                android:scaleY="0.0"
+                android:translationY="70dp"
+                motion:motionTarget="@+id/btn_favorite"
+                motion:framePosition="0"/>
+            <KeyAttribute
+                android:alpha="1"
+                android:scaleX="1.0"
+                android:scaleY="1.0"
+                android:translationY="0dp"
+                motion:motionTarget="@+id/btn_favorite"
+                motion:framePosition="100"/>
+        </KeyFrameSet>
+    </Transition>
+
+
+    <ConstraintSet android:id="@+id/start">
+        <Constraint android:id="@+id/text_shake_instruction"><PropertySet motion:visibilityMode="ignore"/></Constraint>
+        <Constraint android:id="@+id/textView_verse"><PropertySet motion:visibilityMode="ignore"/></Constraint>
+        <Constraint android:id="@+id/btn_favorite"><PropertySet motion:visibilityMode="ignore"/></Constraint>
+    </ConstraintSet>
+
+    <ConstraintSet android:id="@+id/middle">
+        <Constraint android:id="@+id/transparent_bg"><PropertySet android:alpha="0"/></Constraint>
+        <Constraint android:id="@+id/textView_verse"><PropertySet motion:visibilityMode="ignore"/></Constraint>
+        <Constraint android:id="@+id/btn_favorite"><PropertySet motion:visibilityMode="ignore"/></Constraint>
+        <Constraint android:id="@+id/text_shake_instruction"><PropertySet motion:visibilityMode="ignore"/></Constraint>
+        <Constraint android:id="@+id/ad_view_container">
+            <Layout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="200dp"
+                motion:layout_constraintEnd_toEndOf="parent"
+                motion:layout_constraintStart_toStartOf="parent"
+                motion:layout_constraintBottom_toTopOf="parent"/>
+        </Constraint>
+        <Constraint android:id="@+id/bottom_menu_container">
+            <Layout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/main_bottom_nav_height"
+                android:layout_marginTop="200dp"
+                motion:layout_constraintTop_toBottomOf="parent"
+                motion:layout_constraintEnd_toEndOf="parent"
+                motion:layout_constraintStart_toStartOf="parent"/>
+        </Constraint>
+    </ConstraintSet>
+
+    <ConstraintSet android:id="@+id/end" motion:deriveConstraintsFrom="@id/middle">
+        <Constraint android:id="@+id/transparent_bg"><PropertySet android:alpha="1"/></Constraint>
+        <Constraint android:id="@+id/textView_verse"><PropertySet motion:visibilityMode="ignore"/></Constraint>
+        <Constraint android:id="@+id/btn_favorite"><PropertySet motion:visibilityMode="ignore"/></Constraint>
+        <Constraint android:id="@+id/text_shake_instruction"><PropertySet motion:visibilityMode="ignore"/></Constraint>
+        <Constraint android:id="@+id/ad_view_container">
+            <Layout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                motion:layout_constraintEnd_toEndOf="parent"
+                motion:layout_constraintStart_toStartOf="parent"
+                motion:layout_constraintTop_toTopOf="parent"/>
+        </Constraint>
+        <Constraint android:id="@+id/bottom_menu_container">
+            <Layout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/main_bottom_nav_height"
+                motion:layout_constraintBottom_toBottomOf="parent"
+                motion:layout_constraintEnd_toEndOf="parent"
+                motion:layout_constraintStart_toStartOf="parent"/>
+        </Constraint>
+    </ConstraintSet>
+
+</MotionScene>
