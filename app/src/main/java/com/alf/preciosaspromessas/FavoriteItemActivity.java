@@ -2,10 +2,15 @@ package com.alf.preciosaspromessas;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.ClipData;
+import android.content.ClipboardManager;
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.Gravity;
 import android.widget.ImageButton;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class FavoriteItemActivity extends AppCompatActivity {
 
@@ -25,6 +30,11 @@ public class FavoriteItemActivity extends AppCompatActivity {
 
         mShare.setOnClickListener(v -> share(verse));
 
+        mVerse.setOnLongClickListener(v -> {
+            copy(verse);
+            return false;
+        });
+
     }
 
     private void share(String verse) {
@@ -35,6 +45,16 @@ public class FavoriteItemActivity extends AppCompatActivity {
 
         Intent shareIntent = Intent.createChooser(sendIntent, null);
         startActivity(shareIntent);
+    }
+
+    private void copy(String verse){
+        ClipboardManager clipboard = (ClipboardManager)getSystemService(Context.CLIPBOARD_SERVICE);
+        ClipData clip = ClipData.newPlainText(null , verse);
+        clipboard.setPrimaryClip(clip);
+
+        Toast toast = Toast.makeText(FavoriteItemActivity.this, R.string.text_copied, Toast.LENGTH_SHORT);
+        toast.setGravity(Gravity.CENTER_VERTICAL, 0, 0);
+        toast.show();
     }
 
 }

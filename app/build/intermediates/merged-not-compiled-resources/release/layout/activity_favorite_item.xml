@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sunflower"
+    tools:context=".FavoriteItemActivity">
+
+    <!-- White transparency view -->
+    <View
+        android:id="@+id/transparent_bg_fav_item"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white_transparent"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Buttons -->
+    <ImageButton
+        android:id="@+id/item_btn_back"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="@dimen/top_btn_margin"
+        android:layout_marginStart="@dimen/top_btn_margin"
+        android:background="@color/transparent"
+        android:contentDescription="@null"
+        android:src="@drawable/ic_arrow_back_24"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:tint="@color/deep_purple_700" />
+
+    <ImageButton
+        android:id="@+id/item_btn_share"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="@dimen/top_btn_margin"
+        android:layout_marginEnd="@dimen/top_btn_margin"
+        android:background="@color/transparent"
+        android:contentDescription="@null"
+        android:src="@drawable/ic_share_24"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:tint="@color/deep_purple_700" />
+
+    <!-- Verse -->
+    <TextView
+        android:id="@+id/textView_fav_item"
+        android:layout_width="@dimen/main_text_width"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/nunito_regular"
+        android:lineSpacingExtra="1dp"
+        android:text=""
+        android:textAlignment="center"
+        android:textColor="@color/darkGrey"
+        android:textSize="@dimen/main_text_font_size"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/guideline_end"
+        app:layout_constraintStart_toStartOf="@+id/guideline_start"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <!-- Guidelines -->
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.08" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_end"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.92" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

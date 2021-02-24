@@ -3,22 +3,20 @@ package com.alf.preciosaspromessas;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.Looper;
 import android.util.Log;
 
 import com.google.android.gms.ads.MobileAds;
-import com.google.android.gms.ads.initialization.InitializationStatus;
-import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
-import com.google.android.ump.ConsentDebugSettings;
 import com.google.android.ump.ConsentForm;
 import com.google.android.ump.ConsentInformation;
 import com.google.android.ump.ConsentRequestParameters;
 import com.google.android.ump.FormError;
 import com.google.android.ump.UserMessagingPlatform;
-import com.alf.preciosaspromessas.utils.SharedPrefs;
 
+@SuppressWarnings("Convert2Lambda")
 public class SplashActivity extends AppCompatActivity {
 
     private static final String TAG = "Splash";
@@ -31,23 +29,19 @@ public class SplashActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
-        new android.os.Handler().postDelayed(
-                () -> {
-                    getConsentStatus();
-                },
-                300);
+        new Handler(Looper.getMainLooper()).postDelayed(this::getConsentStatus, 300);
 
 
     }
 
     private void startMainActivity() {
-        Log.d(TAG, "Open Main Activity.");
+        //Log.d(TAG, "Open Main Activity.");
         startActivity(new Intent(SplashActivity.this, MainActivity.class));
         finish();
     }
 
     private void initAdMob() {
-        Log.d(TAG, "Initializing Admob...");
+        //Log.d(TAG, "Initializing Admob...");
         MobileAds.initialize(this, initializationStatus -> {
             Log.d(TAG, "Admob ready...");
             startMainActivity();
@@ -61,15 +55,15 @@ public class SplashActivity extends AppCompatActivity {
 
     private void getConsentStatus() {
 
-        ConsentDebugSettings debugSettings = new ConsentDebugSettings.Builder(this)
-            .setDebugGeography(ConsentDebugSettings.DebugGeography.DEBUG_GEOGRAPHY_EEA)
-            .addTestDeviceHashedId("699F572A89809921B6145108DA4819F4")
-            .build();
+//        ConsentDebugSettings debugSettings = new ConsentDebugSettings.Builder(this)
+//            .setDebugGeography(ConsentDebugSettings.DebugGeography.DEBUG_GEOGRAPHY_EEA)
+//            .addTestDeviceHashedId("699F572A89809921B6145108DA4819F4")
+//            .build();
 
         ConsentRequestParameters params = new ConsentRequestParameters
                 .Builder()
                 .setTagForUnderAgeOfConsent(false)
-                .setConsentDebugSettings(debugSettings)
+               // .setConsentDebugSettings(debugSettings)
                 .build();
 
         consentInformation = UserMessagingPlatform.getConsentInformation(this);
@@ -99,7 +93,7 @@ public class SplashActivity extends AppCompatActivity {
                     @Override
                     public void onConsentInfoUpdateFailure(FormError formError) {
                         // Handle the error.
-                        Log.e(TAG, "Load form error... " + formError);
+                        //Log.e(TAG, "Load form error... " + formError);
                         initAdMob(); // Todo => handle error...
                     }
                 });
@@ -121,7 +115,7 @@ public class SplashActivity extends AppCompatActivity {
                                         @Override
                                         public void onConsentFormDismissed(@Nullable FormError formError) {
 
-                                            Log.d(TAG, "New consent status: " + consentInformation.getConsentStatus());
+                                            //Log.d(TAG, "New consent status: " + consentInformation.getConsentStatus());
 
                                             initAdMob();
 

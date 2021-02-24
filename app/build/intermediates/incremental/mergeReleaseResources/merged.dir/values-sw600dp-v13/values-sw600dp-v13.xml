@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_content_inset_material">24dp</dimen>
+    <dimen name="abc_action_bar_content_inset_with_nav">80dp</dimen>
+    <dimen name="abc_action_bar_default_height_material">64dp</dimen>
+    <dimen name="abc_action_bar_default_padding_end_material">8dp</dimen>
+    <dimen name="abc_action_bar_default_padding_start_material">8dp</dimen>
+    <dimen name="abc_config_prefDialogWidth">580dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <dimen name="card_button_width">54dp</dimen>
+    <dimen name="card_margin_start">24dp</dimen>
+    <dimen name="card_margin_top">6dp</dimen>
+    <dimen name="card_text_end">80dp</dimen>
+    <dimen name="card_text_height">66dp</dimen>
+    <dimen name="card_text_size">16sp</dimen>
+    <dimen name="card_text_start">64dp</dimen>
+    <dimen name="card_text_top">16dp</dimen>
+    <dimen name="design_navigation_max_width">320dp</dimen>
+    <dimen name="design_snackbar_action_inline_max_width">0dp</dimen>
+    <dimen name="design_snackbar_background_corner_radius">2dp</dimen>
+    <dimen name="design_snackbar_extra_spacing_horizontal">24dp</dimen>
+    <dimen name="design_snackbar_max_width">576dp</dimen>
+    <dimen name="design_snackbar_min_width">320dp</dimen>
+    <dimen name="design_snackbar_padding_vertical_2lines">@dimen/design_snackbar_padding_vertical
+  </dimen>
+    <dimen name="design_tab_scrollable_min_width">160dp</dimen>
+    <dimen name="list_margin">18dp</dimen>
+    <dimen name="list_toolbar_font_size">22sp</dimen>
+    <dimen name="list_toolbar_img_padding">18dp</dimen>
+    <dimen name="main_bottom_nav_height">64dp</dimen>
+    <dimen name="main_fav_btn">54dp</dimen>
+    <dimen name="main_text_font_size">26sp</dimen>
+    <dimen name="main_text_padding_top">72dp</dimen>
+    <dimen name="main_text_width">400dp</dimen>
+    <dimen name="mtrl_bottomappbar_height">64dp</dimen>
+    <dimen name="mtrl_toolbar_default_height">64dp</dimen>
+    <dimen name="shake_font_size">22sp</dimen>
+    <dimen name="top_btn_margin">16dp</dimen>
+    <integer name="design_snackbar_text_max_lines">1</integer>
+    <style name="Widget.Design.TabLayout" parent="Base.Widget.Design.TabLayout">
+    <item name="tabGravity">center</item>
+    <item name="tabMode">fixed</item>
+  </style>
+</resources>

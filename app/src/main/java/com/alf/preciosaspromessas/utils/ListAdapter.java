@@ -4,6 +4,8 @@ import android.animation.Animator;
 import android.animation.AnimatorInflater;
 import android.content.Context;
 import android.content.Intent;
+import android.os.Handler;
+import android.os.Looper;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -25,7 +27,7 @@ public class ListAdapter extends RecyclerView.Adapter<ListAdapter.ListViewHolder
     private final List<Verse> mDataList;
     private final LayoutInflater layoutInflater;
     private final Context mContext;
-    protected ListHelper db;
+    protected final ListHelper db;
 
     public ListAdapter(Context context, List<Verse> dataList) {
         mDataList = dataList;
@@ -64,22 +66,18 @@ public class ListAdapter extends RecyclerView.Adapter<ListAdapter.ListViewHolder
             notifyItemRemoved(position);
             notifyItemRangeChanged(position, mDataList.size());
 
-            new android.os.Handler().postDelayed(
-                    () -> {
+            new Handler(Looper.getMainLooper()).postDelayed(() -> {
+                animatorSet.end();
+                holder.itemView.clearAnimation();
 
-                        animatorSet.end();
-                        holder.itemView.clearAnimation();
+                final Animator animatorSet2 = AnimatorInflater.loadAnimator(mContext, R.animator.list_item_up);
+                animatorSet2.setTarget(holder.itemView);
+                animatorSet2.start();
+                animatorSet2.end();
+                holder.itemView.clearAnimation();
 
-                        final Animator animatorSet2 = AnimatorInflater.loadAnimator(mContext, R.animator.list_item_up);
-                        animatorSet2.setTarget(holder.itemView);
-                        animatorSet2.start();
-                        animatorSet2.end();
-                        holder.itemView.clearAnimation();
-
-                        notifyDataSetChanged();
-
-                    },
-                    500);
+                notifyDataSetChanged();
+            }, 500);
 
 
         });

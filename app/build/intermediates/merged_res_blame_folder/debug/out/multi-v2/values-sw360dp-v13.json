@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\julia\\AndroidStudioProjects\\PreciosasPromessas\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\julia\\AndroidStudioProjects\\PreciosasPromessas\\app\\src\\main\\res\\values-sw360dp\\dimens.xml",
+                    "from": {
+                        "startLines": "6,5,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "174,121,74",
+                        "endColumns": "50,52,46",
+                        "endOffsets": "220,169,116"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,106,159",
+                        "endColumns": "50,52,46",
+                        "endOffsets": "101,154,201"
+                    }
+                }
+            ]
+        }
+    ]
+}

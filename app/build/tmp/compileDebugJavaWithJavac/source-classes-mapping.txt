@@ -1,0 +1,26 @@
+com/alf/preciosaspromessas/BuildConfig.java
+ com.alf.preciosaspromessas.BuildConfig
+com/alf/preciosaspromessas/FavoriteListActivity.java
+ com.alf.preciosaspromessas.FavoriteListActivity
+com/alf/preciosaspromessas/SplashActivity.java
+ com.alf.preciosaspromessas.SplashActivity
+ com.alf.preciosaspromessas.SplashActivity$1
+ com.alf.preciosaspromessas.SplashActivity$2
+ com.alf.preciosaspromessas.SplashActivity$3
+ com.alf.preciosaspromessas.SplashActivity$3$1
+ com.alf.preciosaspromessas.SplashActivity$4
+com/alf/preciosaspromessas/utils/ListAdapter.java
+ com.alf.preciosaspromessas.utils.ListAdapter
+ com.alf.preciosaspromessas.utils.ListAdapter$1
+ com.alf.preciosaspromessas.utils.ListAdapter$ListViewHolder
+com/alf/preciosaspromessas/MainActivity.java
+ com.alf.preciosaspromessas.MainActivity
+ com.alf.preciosaspromessas.MainActivity$1
+com/alf/preciosaspromessas/FavoriteItemActivity.java
+ com.alf.preciosaspromessas.FavoriteItemActivity
+com/alf/preciosaspromessas/utils/SharedPrefs.java
+ com.alf.preciosaspromessas.utils.SharedPrefs
+com/alf/preciosaspromessas/utils/Verse.java
+ com.alf.preciosaspromessas.utils.Verse
+com/alf/preciosaspromessas/utils/ListHelper.java
+ com.alf.preciosaspromessas.utils.ListHelper

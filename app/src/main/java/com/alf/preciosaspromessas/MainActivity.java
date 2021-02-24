@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity implements Animation.Animati
     private String mRandomVerse;
 
     // Db
-    ListHelper db = new ListHelper(this);
+    final ListHelper db = new ListHelper(this);
 
     // Sensor
     private SensorManager mSensorManager;
@@ -217,17 +217,17 @@ public class MainActivity extends AppCompatActivity implements Animation.Animati
     }
 
     /* ----------------------------------
-                    SHARE
+                    COPY
     ------------------------------------- */
 
     private void copy(){
         ClipboardManager clipboard = (ClipboardManager)getSystemService(Context.CLIPBOARD_SERVICE);
         ClipData clip = ClipData.newPlainText(null , mRandomVerse);
         clipboard.setPrimaryClip(clip);
-        Toast toast = new Toast(getApplicationContext());
-        toast.setText(R.string.text_copied);
-        toast.setDuration(Toast.LENGTH_SHORT);
+
+        Toast toast = Toast.makeText(MainActivity.this, R.string.text_copied, Toast.LENGTH_SHORT);
         toast.setGravity(Gravity.CENTER_VERTICAL, 0, 0);
+        toast.show();
     }
 
     /* ----------------------------------

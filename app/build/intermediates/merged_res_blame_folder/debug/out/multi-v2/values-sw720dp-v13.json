@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\julia\\AndroidStudioProjects\\PreciosasPromessas\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\julia\\AndroidStudioProjects\\PreciosasPromessas\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "from": {
+                        "startLines": "22,15,16,20,17,18,19,21,10,12,11,5,6,7,4,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "796,470,519,706,565,613,659,751,293,392,336,121,175,226,74,868",
+                        "endColumns": "48,48,45,44,47,45,46,44,42,53,55,53,50,47,46,45",
+                        "endOffsets": "840,514,560,746,608,654,701,791,331,441,387,170,221,269,116,909"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,153,199,244,292,338,385,430,473,527,583,637,688,736,783",
+                        "endColumns": "48,48,45,44,47,45,46,44,42,53,55,53,50,47,46,45",
+                        "endOffsets": "99,148,194,239,287,333,380,425,468,522,578,632,683,731,778,824"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -15,10 +15,8 @@
     <string name="shake_the_phone">Shake the phone</string>
     <string name="loading">Loading…</string>
 
-    <!-- Test Ad IDs-->
-    <string name="ad_unit_main" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="ad_units_list" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
-
+    <string name="ad_unit_main" translatable="false">ca-app-pub-XXXXXXXXXXXXXX/YYYYYYYYY</string>
+    <string name="ad_units_list" translatable="false">ca-app-pub-XXXXXXXXXXXXXX/YYYYYYYYY</string>
 
     <string-array name="verses">
         <item>Blessed are the meek, for they shall possess the earth.\n(Matthew 5,4)</item>

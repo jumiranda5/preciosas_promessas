@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_button_width">64dp</dimen>
+    <dimen name="card_margin_start">24dp</dimen>
+    <dimen name="card_margin_top">6dp</dimen>
+    <dimen name="card_text_end">80dp</dimen>
+    <dimen name="card_text_height">66dp</dimen>
+    <dimen name="card_text_size">16sp</dimen>
+    <dimen name="card_text_start">64dp</dimen>
+    <dimen name="card_text_top">16dp</dimen>
+    <dimen name="list_margin">18dp</dimen>
+    <dimen name="list_toolbar_font_size">22sp</dimen>
+    <dimen name="list_toolbar_img_padding">18dp</dimen>
+    <dimen name="main_bottom_nav_height">72dp</dimen>
+    <dimen name="main_text_font_size">28sp</dimen>
+    <dimen name="main_text_width">460dp</dimen>
+    <dimen name="shake_font_size">24sp</dimen>
+    <dimen name="top_btn_margin">24dp</dimen>
+</resources>

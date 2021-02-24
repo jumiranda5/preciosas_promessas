@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="verses">
+        <item>Boldogok, akik szomorúak, mert majd megvigasztalják õket. \n(Máté 5,4)</item>
+        <item>Boldogok a szelídek, mert övék lesz a föld. \n(Máté 5,5)</item>
+        <item>Boldogok, akik éhezik és szomjazzák az igazságot, mert majd eltelnek vele. \n(Máté 5,6)</item>
+        <item>Boldogok az irgalmasok, mert majd nekik is irgalmaznak. \n(Máté 5,7)</item>
+        <item>Boldogok a tiszta szívûek, mert meglátják az Istent \n(Máté 5,8)</item>
+        <item>Boldogok a békességben élõk, mert Isten fiainak hívják majd õket. \n(Máté 5,9)</item>
+        <item>Boldogok, akik üldözést szenvednek az igazságért, mert övék a mennyek országa. \n(Máté 5,10)</item>
+        <item>Ti vagytok a világ világossága. A hegyen épült várost nem lehet elrejteni. \n(Máté 5,14)</item>
+        <item>Ugyanígy a ti világosságotok is világítson az embereknek, hogy jótetteiteket látva dicsõítsék mennyei Atyátokat! \n(Máté 5,16)</item>
+        <item>Én pedig azt mondom nektek, szeressétek ellenségeiteket, és imádkozzatok üldözõitekért! \n(Máté 5,44)</item>
+        <item>Te úgy adj alamizsnát, hogy ne tudja a bal kezed, mit tesz a jobb. Így alamizsnád titokban marad, és Atyád, aki a rejtekben is lát, megjutalmaz. \n(Máté 6,3–4)</item>
+        <item>Te amikor imádkozol, menj be a szobába, zárd be az ajtót, s imádkozzál titokban mennyei Atyádhoz! S mennyei Atyád, aki a rejtekben is lát, megjutalmaz. \n(Máté 6,6)</item>
+        <item>Ha megbocsátjátok az embereknek, amit vétettek ellenetek, mennyei Atyátok is megbocsát nektek. \n(Máté 6,14)</item>
+        <item>A mennyben gyûjtsetek kincset, ahol nem rágja moly és nem marja rozsda, s ahol nem törnek be és nem lopják el a tolvajok! \n(Máté 6,20)</item>
+        <item>A test világa a szem. Ha szemed ép, egész tested világos. \n(Máté 6,22)</item>
+        <item>Ezért ti elsõsorban az Isten országát és annak igazságát keressétek, s ezeket mind megkapjátok hozzá! \n(Máté 6,33)</item>
+        <item>Ne aggódjatok tehát a holnap miatt, a holnap majd gondoskodik magáról! A mának elég a maga baja. \n(Máté 6,34)</item>
+        <item>Ne ítélkezzetek, hogy fölöttetek se ítélkezzenek! \n(Máté 7,1)</item>
+        <item>Miért látod meg a szálkát embertársad szemében, amikor a magadéban a gerendát sem veszed észre? \n(Máté 7,3)</item>
+        <item>Kérjetek és kaptok, keressetek és találtok, zörgessetek és ajtót nyitnak nektek! Mert aki kér, az kap, aki keres, az talál, s aki zörget, annak ajtót nyitnak. \n(Máté 7,7–8)</item>
+        <item>Amit akartok, hogy veletek tegyenek az emberek, ti is tegyétek velük! Ez a törvény és a próféták. \n(Máté 7,12)</item>
+        <item>A századosnak pedig ezt mondta Jézus: \"Menj, legyen úgy, ahogy hitted!\" A szolga még abban az órában meggyógyult. \n(Máté 8,13)</item>
+        <item>Jézus ezt mondta nekik: \"Mit féltek, kishitûek?\" Aztán fölkelt, parancsolt a szélvésznek és a víznek, s nagy nyugalom támadt. \n(Máté 8,26)</item>
+        <item>Jézus megfordult, ránézett és így szólt: \"Bízzál leányom, a hited meggyógyított.\" Attól az órától fogva egészséges lett az asszony. \n(Máté 9,22)</item>
+        <item>Erre megérintette a szemüket, és így szólt: \"Legyen hitetek szerint!\" \n(Máté 9,29)</item>
+        <item>Ne féljetek hát tõlük! Hiszen semmi sincs elrejtve, ami nyilvánosságra ne kerülne, s olyan titok sincs, ami ki ne tudódnék. \n(Máté 10,26)</item>
+        <item>Gyertek hozzám mindnyájan, akik elfáradtatok, s akik terhet hordoztok - én megkönnyítlek titeket. \n(Máté 11,28)</item>
+        <item>Mi haszna van az embernek, ha az egész világot megszerzi is, de lelke kárát vallja? Mit is adhatna az ember cserébe a lelkéért? \n(Máté 16,26)</item>
+        <item>Ezt felelte: "Mert gyenge a hitetek. Bizony mondom nektek, ha csak akkora hitetek lesz is, mint a mustármag, s azt mondjátok ennek a hegynek itt: Menj innét oda! - odamegy, s nem lesz nektek semmi sem lehetetlen.\" \n(Máté 17,21)</item>
+        <item>Jézus rájuk nézett, és így szólt: \"Embernek ez lehetetlen, Istennek azonban minden lehetséges.\" \n(Máté 19,26)</item>
+        <item>Bizony mondom nektek - felelte Jézus -, ha lesz bennetek hit, és nem kételkedtek, nemcsak a fügefával tehetitek meg, ami történt, hanem akár ennek a hegynek is mondhatjátok: Emelkedj föl és omolj a tengerbe, s az is végbemegy. \n(Máté 21,21)</item>
+        <item>Bármit kértek hittel az imádságban, megkapjátok. \n(Máté 21,22)</item>
+        <item>Ég és föld elmúlik, de az én igéim el nem múlnak. \n(Máté 24,35)</item>
+        <item>Õ megnyugtatta: \"Leányom, hited meggyógyított. Menj békével, és maradj egészséges!\" \n(Márk 5,34)</item>
+        <item>\"Ne félj, csak higgy!\" \n(Márk 5,36)</item>
+        <item>Jézus így felelt: \"Ha valamit tehetsz?… Minden lehetséges annak, aki hisz.\" \n(Márk 9,23)</item>
+        <item>Bizony mondom nektek, aki nem úgy fogadja az Isten országát, mint egy gyermek, nem jut be oda. \n(Márk 10,15)</item>
+        <item>Jézus rájuk nézett, és folytatta: \"Embernek ez lehetetlen, de az Istennek nem. Mert az Istennek minden lehetséges.\" \n(Márk 10,27)</item>
+        <item>Jézus így szólt hozzá: \"Menj, a hited meggyógyított.\" Nyomban visszakapta látását, és követte az úton. \n(Márk 10,52)</item>
+        <item>Bizony mondom nektek, hogyha valaki azt mondja ennek a hegynek: Emelkedjél fel és vesd magad a tengerbe, és nem kételkedik szívében, hanem hiszi, hogy amit mond, megtörténik, akkor az csakugyan megtörténik. \n(Márk 11,23)</item>
+        <item>Ezért mondom nektek, hogy ha imádkoztok és könyörögtök valamiért, higgyétek, hogy megkapjátok, és akkor valóban teljesül kérésetek. \n(Márk 11,24)</item>
+        <item>Ezért mondom nektek, hogy ha imádkoztok és könyörögtök valamiért, higgyétek, hogy megkapjátok, és akkor valóban teljesül kérésetek. \n(Márk 11,24)</item>
+        <item>Mert Istennél semmi sem lehetetlen. \n(Lukács 1,37)</item>
+        <item>Mert Istennél semmi sem lehetetlen. \n(Lukács 1,37)</item>
+        <item>Mária így válaszolt: \"Íme, az Úr szolgálója vagyok, legyen nekem a te igéd szerint.\" \n(Lukács 1,38)</item>
+        <item>Boldog, aki hitt annak a beteljesedésében, amit az Úr mondott neki! \n(Lukács 1,45)</item>
+        <item>Mária így szólt: \"Lelkem magasztalja az Urat, és szívem ujjong megváltó Istenemben, mert rátekintett szolgálója alázatosságára. Íme, mostantól fogva boldognak hirdet minden nemzedék.\" \n(Lukács 1,46–48)</item>
+        <item>Mert nagyot tett velem a Hatalmas, és Szent az õ neve. \n(Lukács 1,49)</item>
+        <item>Irgalma nemzedékrõl nemzedékre az istenfélõkkel marad. \n(Lukács 1,50)</item>
+        <item>Legyetek hát irgalmasok, amint Atyátok is irgalmas. \n(Lukács 6,36)</item>
+        <item>Ne mondjatok ítéletet senki fölött, s akkor fölöttetek sem ítélkeznek. Ne ítéljetek el senkit, s akkor benneteket sem ítélnek el. Bocsássatok meg, és nektek is megbocsátanak. \n(Lukács 6,37)</item>
+        <item>A jó ember szívének jó kincsébõl jót hoz elõ, a rossz ember pedig a rosszból rosszat. Hisz a száj a szív bõségébõl beszél. \n(Lukács 6,45)</item>
+        <item>Mert mi haszna van belõle az embernek, ha megszerzi akár az egész világot is, de maga elpusztul vagy súlyos kárt szenved? \n(Lukács 9,25)</item>
+        <item>Mert mindenki, aki kér, kap, aki keres, talál és aki zörget, annak ajtót nyitnak. \n(Lukács 11,10)</item>
+        <item>És íme, vannak utolsók, akik elsõk lesznek, és vannak elsõk, akik utolsók lesznek. \n(Lukács 13,30)</item>
+        <item>Benne az élet volt, s az élet volt az emberek világossága. A világosság világít a sötétségben, de a sötétség nem fogta fel. \n(János 1,5)</item>
+        <item>Nem azért küldte el Isten a Fiát a világba, hogy elítélje a világot, hanem, hogy üdvösséget szerezzen a világnak. \n(János 3,17)</item>
+        <item>Aki ellenben az igazsághoz szabja tetteit, a világosságra megy, hadd derüljön fény a tetteire, amelyeket az Istenben vitt végbe. \n(János 3,21)</item>
+        <item>Mert mindenki, aki gonoszat tesz, gyûlöli a világosságot, s nem megy a világosságra, nehogy kiderüljenek a tettei. \n(János 3,20)</item>
+        <item>A tolvaj csak azért jön, hogy lopjon, öljön és pusztítson. Én azért jöttem, hogy életük legyen és bõségben legyen. \n(János 10,10)</item>
+        <item>Amint engem szeret az Atya, úgy szeretlek én is titeket. Maradjatok meg szeretetemben. \n(János 15,9)</item>
+        <item>Ezeket azért mondom nektek, hogy az én örömöm legyen bennetek is, és teljes legyen az örömötök. \n(János 15,11)</item>
+        <item>Ezt a parancsot adom nektek: szeressétek egymást! \n(János 15,17)</item>
+        <item>Ha gyûlöl majd benneteket a világ, gondoljatok arra, hogy engem elõbb gyûlölt, mint titeket. \n(János 15,18)</item>
+        <item>Az az én parancsom, hogy szeressétek egymást, amint én szerettelek benneteket. \n(János 15,12)</item>
+        <item>Bizony, bizony, mondom nektek: Ti sírtok majd és jajgattok, a világ azonban örülni fog. Szomorkodtok, de szomorúságotok örömre változik. \n(János 16,20)</item>
+        <item>Azon a napon már nem kérdeztek tõlem semmit. Bizony, bizony mondom nektek: Bármit kértek az Atyától a nevemben, megadja nektek. \n(János 16,23)</item>
+        <item>Eddig nem kértetek semmit a nevemben. Kérjetek és kaptok, hogy örömötök teljes legyen. \n(János 16,24)</item>
+        <item>A világban üldözést szenvedtek, de bízzatok, mert legyõztem a világot. \n(János 16,33)</item>
+        <item>\"Higgy Jézus Krisztusban, és üdvözülsz te is, a tieid is!\" - válaszolták. \n(Apostolok 16,31)</item>
+        <item>Gyöngeségünkben segítségünkre siet a Lélek, mert még azt sem tudjuk, hogyan kell helyesen imádkoznunk. A Lélek azonban maga jár közben értünk, szavakba nem önthetõ sóhajtozásokkal. \n(Rómaiaknak 8,26)</item>
+        <item>Tudjuk azt is, hogy akik Istent szeretik, azoknak minden javukra válik, hiszen õ saját elhatározásából választotta ki õket. \n(Rómaiaknak 8,28)</item>
+        <item>Ha Isten velünk, ki ellenünk? \n(Rómaiaknak 8,31)</item>
+        <item>Szeressetek tettetés nélkül, irtózzatok a rossztól, ragaszkodjatok a jóhoz. \n(Rómaiaknak 12,9)</item>
+        <item>A testvéri szeretetben legyetek gyöngédek egymáshoz, a tiszteletadásban elõzzétek meg egymást. \n(Rómaiaknak 12,10)</item>
+        <item>A buzgóságban ne lankadjatok, legyetek tüzes lelkületûek: az Úrnak szolgáltok. \n(Rómaiaknak 12,11)</item>
+        <item>A reményben legyetek derûsek, a nyomorúságban béketûrõk, az imádságban állhatatosak. \n(Rómaiaknak 12,12)</item>
+        <item>Áldjátok üldözõiteket, áldjátok, s ne átkozzátok. \n(Rómaiaknak 12,14)</item>
+        <item>Azokkal, akik örülnek, örüljetek, s a sírókkal sírjatok. \n(Rómaiaknak 12,15)</item>
+        <item>Rosszért rosszat senkinek ne fizessetek. Törekedjetek arra, ami jó minden ember szemében. \n(Rómaiaknak 12,17)</item>
+        <item>Amennyire rajtatok áll, éljetek mindenkivel békességben. \n(Rómaiaknak 12,18)</item>
+        <item>Ne engedd, hogy legyõzzön a rossz, inkább te gyõzd le a rosszat jóval. \n(Rómaiaknak 12,21)</item>
+        <item>Ezért öltsétek fel az Isten fegyverzetét, hogy a gonosz napon ellenállhassatok, és mindent legyõzve megtarthassátok állásaitokat. \n(Efezusiaknak 6,13)</item>
+        <item>Ne legyetek értetlenek, hanem értsétek meg az Úr akaratát. \n(Efezusiaknak 5,17)</item>
+        <item>Legyetek derûsek. \n(I Tesszalonikaiaknak 5,16)</item>
+        <item>A hitbõl ismerjük meg, hogy a világot az Isten szava alkotta, vagyis a látható a láthatatlanból lett. \n(Zsidóknak 11,3)</item>
+        <item>A hit erejébõl omlottak le Jerikó falai, azután, hogy hét napon át körüljárták. \n(Zsidóknak 11,30)</item>
+        <item>A hit a remélt dolgok biztosítéka, a nem látható dolgok bizonyítéka. \n(Zsidóknak 11,1)</item>
+        <item>Ha valaki közületek bölcsességben szenved hiányt, kérje Istentõl, aki szívesen ad mindenkinek, anélkül, hogy a szemére vetné. \n(Jakab 1,5)</item>
+        <item>(…) s meg is kapja, csak hittel kérje, egy csöppet sem kételkedve. Mert aki kételkedik, hasonlít a tenger hullámaihoz, amelyeket felkorbácsol és ide-oda vet a szél. \n(Jakab 1,6)</item>
+        <item>Boldog az az ember, aki a kísértésben helytáll, mert miután kiállja a próbát, megkapja az élet koszorúját, amelyet az Úr azoknak ígért, akik õt szeretik. \n(Jakab 1,12)</item>
+        <item>Senki se mondja, aki kísértést szenved: \"Az Isten kísért\", mert az Istent nem lehet rosszra csábítani, és õ sem csábít rosszra senkit. \n(Jakab 1,13)</item>
+        <item>Minden jó adomány és minden tökéletes ajándék felülrõl van, a világosság Atyjától száll alá, akiben nincs változás, még árnyéka sem a változásnak. \n(Jakab 1,17)</item>
+        <item>Értsétek meg, kedves testvéreim: Legyen minden ember készen a hallgatásra, de késedelmes a szólásra, késedelmes a haragra. \n(Jakab 1,19)</item>
+        <item>Mert haragjában az ember nem azt teszi, ami az Isten elõtt igazságos. \n(Jakab 1,20)</item>
+        <item>Ezért hagyjatok fel minden tisztátalansággal és burjánzó gonoszsággal, fogadjátok tanulékony lélekkel a belétek oltott tanítást, ez képes megmenteni lelketeket. \n(Jakab 1,21)</item>
+        <item>A tanítást váltsátok tettekre, ne csak hallgassátok, mert különben magatokat csaljátok meg. \n(Jakab 1,22)</item>
+        <item>Ha valaki vallásosnak tartja magát, nyelvét azonban nem fékezi, hanem áltatja magát, annak vallásossága mit sem ér. \n(Jakab 1,26)</item>
+        <item>Természetesen, ha megtartjátok a királyi törvényt az Írás szerint: \"Szeresd embertársadat, mint saját magadat\", helyesen jártok el. \n(Jakab 2,8)</item>
+        <item>Testvéreim, mit használ, ha valaki azt állítja, hogy van hite, tettei azonban nincsenek? Üdvözítheti a hite? \n(Jakab 2,14)</item>
+        <item>Láthatod, hogy hite mûködött tetteiben és tettei tették teljessé a hitét. \n(Jakab 2,22)</item>
+        <item>Látjátok tehát, hogy az embert a tettek teszik igazzá, nem a hit egymagában. \n(Jakab 2,24)</item>
+        <item>Mert ahogy lélek nélkül halott a test, a hit is halott tettek nélkül. \n(Jakab 2,26)</item>
+        <item>Ugyanabból a szájból áldás és átok jön. Testvéreim, ennek nem volna szabad így lennie! \n(Jakab 3,10)</item>
+        <item>Az igazság gyümölcsét békében vetik el azok számára, akik békét teremtenek. \n(Jakab 3,18)</item>
+        <item>Kívántok valamit, és nincs meg. Öltök és irigykedtek, de nem tudjátok elérni. Harcoltok és háborúskodtok, de nem a tiétek, mert nem kéritek. \n(Jakab 4,2)</item>
+        <item>Kértek ugyan, de nem kapjátok meg, mert rossz szándékkal kéritek, azért, hogy bûnös vágyaitokban elpazaroljátok. \n(Jakab 4,3)</item>
+        <item>Annál nagyobb a kegyelem, amelyet ad, ezért mondja: \"Az Isten a kevélyeknek ellenáll, az alázatosaknak azonban kegyelmet ad\". \n(Jakab 4,6)</item>
+        <item>Alázkodjatok meg az Úr elõtt, és akkor megdicsõít benneteket. \n(Jakab 4,10)</item>
+        <item>Ne rágalmazzátok egymást, testvérek. Aki testvérét megrágalmazza vagy ítélkezik testvére fölött, az a törvényt rágalmazza és a törvény fölött ítélkezik. Ha a törvény fölött ítélkezel, a törvénynek ahelyett, hogy megtartanád, a bírája vagy. \n(Jakab 4,11)</item>
+        <item>Egy a törvényhozó és a bíró, aki megmenthet vagy elveszíthet. Ki vagy, hogy ítélkezel felebarátod fölött? \n(Jakab 4,12)</item>
+        <item>Aki tehát tudna jót tenni, de nem tesz, bûnt követ el. \n(Jakab 4,17)</item>
+        <item>Testvérek, ne panaszkodjatok egymásra, nehogy ítéletet vonjatok magatokra. Nézzétek, a bíró már az ajtóban van. \n(Jakab 5,9)</item>
+        <item>Testvérek, a szenvedés elviselésében és a kitartó türelemben vegyetek példát a prófétákról, akik az Úr nevében szóltak. \n(Jakab 5,10)</item>
+        <item>Szenved valaki közületek? Imádkozzék! Jókedve van? Énekeljen zsoltárt! \n(Jakab 5,13)</item>
+        <item>Valljátok meg tehát egymásnak bûneiteket, és imádkozzatok egymásért, hogy meggyógyuljatok. Igen hathatós az igaz ember buzgó könyörgése. \n(Jakab 5,16)</item>
+        <item>Szakítsatok hát minden gonoszsággal, minden álnoksággal, képmutatással, irigységgel és minden rágalmazással. \n(1 Péter 2,1)</item>
+        <item>Mint újszülött csecsemõk kívánjatok lelki, vizezetlen tejet, hogy rajta felnõjetek az üdvösségre, hisz tapasztaltátok, hogy milyen jó az Úr. \n(1 Péter 2,2–3)</item>
+        <item>Mert az az Isten akarata, hogy tetteitekkel némítsátok el az ostoba emberek tudatlanságát. \n(1 Péter 2,15)</item>
+        <item>Mert az az Isten akarata, hogy tetteitekkel némítsátok el az ostoba emberek tudatlanságát. \n(1 Péter 2,15)</item>
+        <item>Végül mindnyájan legyetek egyetértõk, együttérzõk, testvériesek, irgalmasok, alázatosak. \n(1 Péter 3,8)</item>
+        <item>Ne fizessetek a rosszért rosszal, se a szidalomért szidalommal. Mondjatok inkább áldást, mert arra kaptatok meghívást, hogy az áldás legyen az örökségetek. \n(1 Péter 3,9)</item>
+        <item>Mert aki az életnek örülni szeretne, és jó napokat látni, az óvja nyelvét a rossztól, ajkát a hamis szótól. \n(1 Péter 3,10)</item>
+        <item>Forduljon el a gonosztól, tegye a jót, keresse a békét, járjon utána. \n(1 Péter 3,11)</item>
+        <item>Mert az Úr szeme az igazakon, hallja imádságukat, s a tekintete a gonosztevõ ellen fordul. \n(1 Péter 3,12)</item>
+        <item>De még ha szenvedtek is az igazságosságért, boldogok vagytok. Ne féljetek fenyegetéseiktõl és ne engedjétek, hogy megzavarjanak benneteket! \n(1 Péter 3,14)</item>
+        <item>Alázkodjatok meg az Isten hatalmas keze alatt, hogy annak idején megdicsõítsen benneteket. \n(1 Péter 5,6)</item>
+        <item>Minden gondotokkal forduljatok hozzá, mert neki gondja van rátok. \n(1 Péter 5,7)</item>
+        <item>A szeretetben nincs félelem. A tökéletes szeretet kizárja a félelmet, mert a félelemnek köze van a büntetéshez. Aki tehát fél, abban nem tökéletes a szeretet. \n(1 János 4,18)</item>
+        <item>Aki azt állítja, hogy a világosságban él, de gyûlöli testvérét, az még mindig a sötétségben van. \n(1 János 2,9)</item>
+        <item>Az a bizalom, amellyel iránta vagyunk, azt jelenti, hogy bármit kérünk is akarata szerint, meghallgatja. \n(1 János 5,14)</item>
+        <item>Ha pedig tudjuk, hogy bármit kérünk, meghallgat bennünket, tudjuk azt is, hogy amit kértünk, azt már meg is kaptuk. \n(1 János 5,15)</item>
+        <item>Isten szólt: \"Legyen világosság\", és világos lett. \n(Teremtés 1,3)</item>
+        <item>Isten látta, hogy a világosság jó. Isten elválasztotta a világosságot a sötétségtõl. \n(Teremtés 1,4)</item>
+        <item>\"Nézd, én veled vagyok. Mindenütt oltalmazlak, ahová mégy, és visszavezetlek erre a földre. Nem hagylak el, amíg véghez nem viszem, amit megígértem neked.\" \n(Teremtés 28,15)</item>
+        <item>Mózes így válaszolt a népnek: "Ne féljetek, legyetek erõsek, és meglátjátok az Úr segítségét, amelyet ma nyújt nektek.\" \n(Kivonulás 14,13)</item>
+        <item>Az Úr harcol majd értetek, s nektek nem lesz semmi dolgotok. \n(Kivonulás 14,14)</item>
+        <item>Nézd, elõtted küldöm angyalomat, hogy õrizzen utaidon, és elvezessen arra a helyre, amelyet kijelöltem. \n(Kivonulás 23,20)</item>
+        <item>Senki sem lesz képes ellenállni neked egész életedben: veled leszek, ahogy Mózessel is vele voltam, nem hagylak el, nem szolgáltatlak ki. \n(Józsue 1,5)</item>
+        <item>Hát nem azt a parancsot adtam neked, hogy légy erõs és kitartó? Ne félj és ne aggódj tehát, mert az Úr, a te Istened veled lesz mindenütt, ahova csak mész. \n(Józsue 1,9)</item>
+        <item>Józsue így szólt a néphez: \"Szentelõdjetek meg holnapra, mert az Úr csodát tesz körötökben.\" \n(Józsue 3,5)</item>
+        <item>Így szólt: \"Mezítelenül jöttem ki anyám méhébõl, és ruhátlanul térek oda vissza. Az Úr adta, az Úr elvette, legyen áldott az Úr neve!\" \n(Jób 1,21)</item>
+        <item>Õ alkotja, ami nagy s kifürkészhetetlen, csodás tetteinek se szeri, se száma. \n(Jób 5,9)</item>
+        <item>Biztonságban leszel, mert lesz reménységed, biztos fedél alatt nyugodtan pihenhetsz. \n(Jób 11,18)</item>
+        <item>Kezében van minden élõlény párája, és éltetõ lelke az emberi testnek \n(Jób 12,10)</item>
+        <item>A kiáltásom szól mellettem Isten elõtt, míg színe elõtt hullnak a könnyeim. \n(Jób 16,20)</item>
+        <item>De az igaz mégis hû marad útjához, kinek keze tiszta, gyarapszik erõben. \n(Jób 17,9)</item>
+        <item>Légy újra jó hozzá és élj békességben, és megint boldogság lesz az osztályrészed. \n(Jób 22,21)</item>
+        <item>De hisz ismeri mind az útjaimat, és ha próbára tesz, aranynak minõsít. \n(Jób 23,10)</item>
+        <item>A szegényt megmenti nyomorában, nélkülözés közben kinyitja a szemét. \n(Jób 36,15)</item>
+        <item>Isten engedi, hogy lássunk csodás, nagy dolgokat, nagy tetteket mûvel, amiket nem értünk. \n(Jób 37,5)</item>
+        <item>Most már tudom, hogy akármit megtehetsz, nincs gondolat, amely neked lehetetlen. \n(Jób 42,2)</item>
+        <item>Az Úr az én pásztorom, nem szenvedek hiányt zöldellõ réteken legeltet. A nyugalom vizéhez terel és felüdíti lelkemet. \n(Zsoltárok 23,1–2)</item>
+        <item>Az Úr az én pásztorom, nem szenvedek hiányt zöldellõ réteken legeltet. A nyugalom vizéhez terel és felüdíti lelkemet. \n(Zsoltárok 23,1–2)</item>
+        <item>Ha sötét völgyben járok is, nem félek a bajtól, hisz te velem vagy. Botod, pásztorbotod biztonságot ad. \n(Zsoltárok 23,4)</item>
+        <item>Kimentesz a hálóból, amit elém vetnek, te vagy szabadulásom. \n(Zsoltárok 31,5)</item>
+        <item>Valóban te vagy a sziklám és váram, nevedért vezess és irányíts engem! \n(Zsoltárok 31,4)</item>
+        <item>Kezedbe ajánlom lelkemet, te megváltasz, Uram. \n(Zsoltárok 31,6)</item>
+        <item>Nem szolgáltattál ki ellenségem hatalmának, lábamat tágas helyre állítottad. \n(Zsoltárok 31,9)</item>
+        <item>De én benned bízom, Uram! Azt mondom: Te vagy Istenem! \n(Zsoltárok 31,15)</item>
+        <item>Az idõm a te kezedben van, ragadj ki ellenségeim és üldözõim hatalmából! \n(Zsoltárok 31,16)</item>
+        <item>Legyetek erõsek és bátor lelkûek, mindnyájan, akik az Úrban reménykedtek! \n(Zsoltárok 31,25)</item>
+        <item>Legyetek erõsek és bátor lelkûek, mindnyájan, akik az Úrban reménykedtek! \n(Zsoltárok 31,25)</item>
+        <item>Kerestem az Urat és õ meghallgatott, kimentett engem minden bajból. \n(Zsoltárok 34,5)</item>
+        <item>Kerestem az Urat és õ meghallgatott, kimentett engem minden bajból. \n(Zsoltárok 34,5)</item>
+        <item>Lám, egy szegény kiáltott s az Úr meghallgatta, minden szorongatásból kiszabadította. \n(Zsoltárok 34,7)</item>
+        <item>Az Úr angyala védõfalat emel, s körülveszi az igazat, hogy oltalmazza. \n(Zsoltárok 34,8)</item>
+        <item>Ízleljétek és lássátok, mily jóságos az Úr! Boldog az ember, ki hozzá menekül. \n(Zsoltárok 34,9)</item>
+        <item>Féljétek az Urat, ti szentjei, akik õt félik, nem szenvednek hiányt. \n(Zsoltárok 34,10)</item>
+        <item>Õrizd nyelvedet a gonoszságtól, s ajkadat az álnok beszédtõl! \n(Zsoltárok 34,14)</item>
+        <item>Hagyd el a rosszat és válaszd a jót, keresd a békét és járj a nyomában! \n(Zsoltárok 34,15)</item>
+        <item>Az Úr szeme az igazakra tekint, füle meghallja kiáltásukat. \n(Zsoltárok 34,16)</item>
+        <item>A megtört szívûekhez közel van az Úr, a bánatos lelkût meggyógyítja. \n(Zsoltárok 34,19)</item>
+        <item>Sokféle szenvedést ismer meg az igaz, de az Úr mindbõl kiszabadítja. \n(Zsoltárok 34,20)</item>
+        <item>Ne haragudj azokra, akik rosszat tesznek, ne irigyeld a gonosztevõket, mert mint a fû, hamar elhervadnak, és elszáradnak, mint a zöldellõ növény. \n(Zsoltárok 37,1–2)</item>
+        <item>Remélj az Úrban és tedd a jót, akkor megmaradsz földeden és biztonságban élsz. \n(Zsoltárok 37,3)</item>
+        <item>Az Úrban leld örömed, s õ betölti szíved vágyait. \n(Zsoltárok 37,4)</item>
+        <item>Az Úrban leld örömed, s õ betölti szíved vágyait. \n(Zsoltárok 37,4)</item>
+        <item>Ajánld utadat az Úrnak, remélj benne, s õ irányít majd. \n(Zsoltárok 37,5)</item>
+        <item>Becsületed felragyogtatja, mint a napot, igazságodat, mint a fényes nappalt. \n(Zsoltárok 37,6)</item>
+        <item>Nyugodj meg az Úrban és remélj benne! Ne haragudj arra, kinek siker kíséri útját, az emberre, aki gonoszságot mûvel. \n(Zsoltárok 37,7)</item>
+        <item>Hagyd el a haragot és ne méltatlankodj, föl ne gerjedj, nehogy te vétkezzél! \n(Zsoltárok 37,8)</item>
+        <item>A szelídek ellenben uralják a földet, és élvezik a béke teljességét. \n(Zsoltárok 37,11)</item>
+        <item>Az igazak életére gondja van az Úrnak, örökségük megmarad örökre. \n(Zsoltárok 37,18)</item>
+        <item>Az Úr biztosítja az ember lépteit, akinek útjában tetszését leli. \n(Zsoltárok 37,23)</item>
+        <item>Ha megbotlik is, de nem esik el, mert az Úr megfogja kezét. \n(Zsoltárok 37,24)</item>
+        <item>Ám az igazak birtokolják a földet, és ott laknak mindörökre. \n(Zsoltárok 37,29)</item>
+        <item>Az igaznak szája bölcsességet szól, nyelve azt hirdeti, ami helyes. \n(Zsoltárok 37,30)</item>
+        <item>Nézd az ártatlant, tekints az igazra, a békesség emberének új nemzedéke támad! \n(Zsoltárok 37,37)</item>
+        <item>Nem kell félned az éji kísértettõl, sem a nappal repülõ nyilaktól. \n(Zsoltárok 91,5)</item>
+        <item>S ha ezren esnek is el oldaladon, a jobbod felõl tízezren, téged nem találnak el. \n(Zsoltárok 91,7)</item>
+        <item>Így nem ér semmi baj, csapás nem közelít sátradhoz. \n(Zsoltárok 91,10)</item>
+        <item>Mert elküldi angyalait hozzád, hogy védelmezzenek minden utadon. \n(Zsoltárok 91,11)</item>
+        <item>A kezükön hordoznak majd téged, nehogy kõbe botoljék a lábad. \n(Zsoltárok 91,12)</item>
+        <item>Oroszlánok és kígyók között lépdelsz, oroszlánkölyköt és sárkányt tiporsz el. \n(Zsoltárok 91,13)</item>
+        <item>Ha hozzám fordul, meghallgatom, minden szükségben közel vagyok hozzá, megszabadítom és dicsõséget szerzek neki. \n(Zsoltárok 91,15)</item>
+        <item>Ha hozzám fordul, meghallgatom, minden szükségben közel vagyok hozzá, megszabadítom és dicsõséget szerzek neki. \n(Zsoltárok 91,15)</item>
+        <item>Akik könnyek között vetnek, örömmel aratnak majd. \n(Zsoltárok 126,05)</item>
+        <item>Hálát adok neked, mert meghallgattál, te lettél szabadítóm. \n(Zsoltárok 118,21)</item>
+        <item>A tisztával tisztán bánsz, a hamissal azonban hamis módra. \n(Zsoltárok 18,27)</item>
+        <item>De az Úr, az Igaz szétszaggatta a gonoszok kötelékeit. \n(Zsoltárok 129,04)</item>
+        <item>Ments meg ellenségeimtõl, Uram, hozzád menekültem. \n(Zsoltárok 143,09)</item>
+        <item>Adj enyhületet szívem gyötrelmének és szabadíts ki bajaimból! \n(Zsoltárok 25,17)</item>
+        <item>Lám, a gonoszok összeesnek, a földre buknak s többé már föl sem kelnek. \n(Zsoltárok 36,13)</item>
+        <item>A segítség az Úrtól jön, aki az eget és a földet teremtette. Õ nem engedi, hogy botladozzék lábad, nem alszik az, aki õriz téged. \n(Zsoltárok 121,2–3)</item>
+        <item>Az Úr a te oltalmazód, az Úr védelmez jobbod felõl. Nappal nem éget a nap, s éjjel nem árt neked a hold. \n(Zsoltárok 121,5–6)</item>
+        <item>Az Úr megóv minden bajtól, õ vigyáz életedre. Az Úr megõriz jártadban-keltedben, mostantól fogva mindörökké. \n(Zsoltárok 121,7–8)</item>
+        <item>A segítség az Úrtól jön, aki az eget és a földet teremtette. Õ nem engedi, hogy botladozzék lábad, nem alszik az, aki õriz téged. \n(Zsoltárok 121,2–3)</item>
+        <item>Az Úr a te oltalmazód, az Úr védelmez jobbod felõl. Nappal nem éget a nap, s éjjel nem árt neked a hold. \n(Zsoltárok 121,5–6)</item>
+        <item>Az Úr megóv minden bajtól, õ vigyáz életedre. Az Úr megõriz jártadban-keltedben, mostantól fogva mindörökké. \n(Zsoltárok 121,7–8)</item>
+        <item>Hallgass, fiam, atyád intelmére, s ne vedd semmibe anyád tanítását! \n(Példabeszédek 1,8)</item>
+        <item>Szíved minden bizalmát Istenbe vesd, saját értelmedre ne igen hagyatkozz. \n(Példabeszédek 3,5)</item>
+        <item>Minden utadon próbáld fölismerni, akkor egyenessé teszi ösvényedet. \n(Példabeszédek 3,6)</item>
+        <item>Ne tartsd magadat bölcsnek, inkább féld az Urat és kerüld a rosszat! \n(Példabeszédek 3,7)</item>
+        <item>Ne lépj a gonoszok ösvényére, és a gonosztevõk útján ne járj! \n(Példabeszédek 4,14)</item>
+        <item>Az igaz ember útja, mint a hajnal pirkadása, egyre világosabb, míg fényes nap nem lesz. \n(Példabeszédek 4,18)</item>
+        <item>Nagy gonddal õrizd a szívedet, mert hiszen belõle indul ki az élet. \n(Példabeszédek 4,23)</item>
+        <item>Tartsd távol magadtól a száj hamisságát, távolítsd el az ajkak álnokságát! \n(Példabeszédek 4,24)</item>
+        <item>Egyengess sima utat a lábadnak, legyenek biztosak mind az útjaid. \n(Példabeszédek 4,26)</item>
+        <item>Egyenest elõre nézzen a szemed, legyen egyenes a szemed pillantása. \n(Példabeszédek 4,25)</item>
+        <item>Se jobbra, se balra ne térj le az útról, és a gonosztól tartsd távol a lábad. \n(Példabeszédek 4,27)</item>
+        <item>Mindenkinek útját tisztán látja az Úr, szemmel tartja az ösvényeidet. \n(Példabeszédek 5,21)</item>
+        <item>Ahol sok a beszéd, nem marad el a bûn, okosan teszi, aki féken tartja az ajkát. \n(Példabeszédek 10,19)</item>
+        <item>Aki megkönyörül máson, az magával tesz jót, a saját húsába vág, aki irgalmatlan. \n(Példabeszédek 11,17)</item>
+        <item>Jobb egy tál fõzelék és szeretet hozzá, mint egy kövér ökör gyûlölettel. \n(Példabeszédek 15,17)</item>
+        <item>Bízd az Úrra, ami tennivalód akad, akkor a terveid valósággá válnak. \n(Példabeszédek 16,3)</item>
+        <item>Jobb az igazságos úton szerzett kevés, mint a nagy haszon becstelenség árán. \n(Példabeszédek 16,8)</item>
+        <item>Bölcsességet szerezni jobb, mint aranyat, okosságra szert tenni többet ér az ezüstnél. \n(Példabeszédek 16,16)</item>
+        <item>Összeomlás elõtt kevélység a hírnök, felfuvalkodottság jár a bukás elõtt. \n(Példabeszédek 16,18)</item>
+        <item>Aki szívében bölcs, azt okosnak hívják, a kellemes beszéd megtoldja a tudást. \n(Példabeszédek 16,21)</item>
+        <item>A szív megtervezi az embernek az útját, de a lépéseit az Úr irányítja. \n(Példabeszédek 16,9)</item>
+        <item>A barátságos beszéd méznek folyása, édes a léleknek, üdülés a testnek. \n(Példabeszédek 16,24)</item>
+        <item>A barát mindig szeretetrõl tesz tanúságot, de szorult helyzetben testvérnek bizonyul. \n(Példabeszédek 17,17)</item>
+        <item>A vidám szív jót tesz az egészségnek, a nyomott kedély emészti a testet. \n(Példabeszédek 17,22)</item>
+        <item>Az okosnak többet használ egyetlen intõ szó, mint akár száz ütés a balgára mérve. \n(Példabeszédek 17,10)</item>
+        <item>Rossz dolog kedvezni annak, aki bûnös, akinek igaza van, azt meg elítélni. \n(Példabeszédek 18,5)</item>
+        <item>Nagyra van az ember elméje a csõd elõtt, a dicsõséget alázat elõzi meg. \n(Példabeszédek 18,12)</item>
+        <item>A férfit türelmessé teszi okossága, de a legszebb benne, ha elnézi a hibákat. \n(Példabeszédek 19,11)</item>
+        <item>Ne mondd: \"Csak a rosszat fizetem vissza!\" Hagyatkozz az Úrra, õ majd kártalanít. \n(Példabeszédek 20,22)</item>
+        <item>Aki vigyáz a szájára meg a nyelvére, megmenti életét a szorongatásoktól. \n(Példabeszédek 21,23)</item>
+        <item>Ne a bûnösök miatt gerjedjen föl szíved, inkább minden nap az Úr félelmében! Akkor sokkal biztosabb a jövõd, nem szakad vége a reményednek. \n(Példabeszédek 23,17–18)</item>
+        <item>Nézzétek: Isten az üdvösségem! Bizalom tölt el, s nincs bennem félelem, mert az Úr az erõsségem, a dicsõítõ énekem, és az üdvösségem. \n(Izajás 12,2)</item>
+        <item>Az igazságosság békét terem, az igazságnak meg biztonság lesz a gyümölcse mindörökre. \n(Izajás 32,17)</item>
+        <item>De akik az Úrban bíznak, új erõre kapnak, szárnyra kelnek, mint a sasok. Futnak, de nem fáradnak ki, járnak-kelnek, de nem lankadnak el. \n(Izajás 40,31)</item>
+        <item>Ne félj, mert veled vagyok, ne csüggedj, mert én vagyok a te Istened! Megerõsítelek, megsegítelek, és felkarol gyõzedelmes jobbom. \n(Izajás 41,12)</item>
+        <item>Mert én, az Úr, a te Istened, én ragadtam meg jobbodat. Én szólok hozzád így: Ne félj! Én megsegítelek. \n(Izajás 41,15)</item>
+        <item>Halljátok, szigetek, és figyeljetek, távoli népek! Az Úr hívott meg, mielõtt még születtem; anyám méhétõl fogva a nevemen szólított. \n(Izajás 49,1)</item>
+        <item>Nézd, a tenyeremre rajzoltalak; falaid szemem elõtt vannak szüntelen. \n(Izajás 49,16)</item>
+        <item>Hiszen az én gondolataim nem a ti gondolataitok, és az én útjaim nem a ti útjaitok - mondja az Úr. \n(Izajás 55,8)</item>
+        <item>Kelj föl, ragyogj föl, mert elérkezett világosságod, és az Úr dicsõsége felragyogott fölötted! \n(Izajás 60,1)</item>
+        <item>Valóban, fül nem hallotta, és szem nem látta, hogy akadna isten rajtad kívül, aki ilyeneket vinne végbe azok javára, akik benne bíznak. \n(Izajás 64,3)</item>
+        <item>Még mielõtt szólítanának, már válaszolok; még be sem fejezik szavukat, már meghallgatom õket. \n(Izajás 65,24)</item>
+        <item>Izrael háza! Vajon nem tehetek én is úgy veletek, ahogy ez a fazekas tesz? - mondja az Úr. Igen, amilyen az agyag a fazekas kezében, olyanok vagytok ti is az én kezemben, Izrael háza! \n(Jeremiás 18,6)</item>
+        <item>Izrael háza! Vajon nem tehetek én is úgy veletek, ahogy ez a fazekas tesz? - mondja az Úr. Igen, amilyen az agyag a fazekas kezében, olyanok vagytok ti is az én kezemben, Izrael háza! \n(Jeremiás 18,6)</item>
+        <item>Hiszen tudom, milyen terveket gondoltam el felõletek - mondja az Úr; ezek a tervek a békére vonatkoznak, nem a pusztulásra, mert reménységgel teli jövõt szánok nektek. \n(Jeremiás 29,11)</item>
+        <item>Ha kerestek, megtaláltok; föltéve, hogy szívetek mélyébõl kerestek. \n(Jeremiás 29,13)</item>
+        <item>Újra fölépítlek, és te fölépülsz, Izrael szûzi leánya! Ismét fölékesíted magad dobjaiddal, és táncot járva vidáman vonulsz ki. \n(Jeremiás 31,4)</item>
+        <item>Gyászukat akkor örömre fordítom, megvigasztalom õket, s örömet szerzek nekik fájdalmuk után. \n(Jeremiás 31,13)</item>
+        <item>Ezt mondja az Úr: Ne jajgass tovább, és szemed ne hullasson több könnyet, mert van vigasztalás bánatodra. \n(Jeremiás 31,16)</item>
+        <item>Kiálts hozzám és meghallgatlak; nagy és megfoghatatlan titkokat akarok rád bízni, amelyekrõl még nem tudsz semmit. \n(Jeremiás 33,3)</item>
+        <item>Megment és megszabadít, jeleket és csodákat visz végbe az égen és a földön. Kiszabadította Dánielt az oroszlánok karmai közül. \n(Dániel 6,28)</item>
+        <item>Szólhatok az emberek vagy az angyalok nyelvén, ha szeretet nincs bennem, csak zengõ érc vagyok vagy pengõ cimbalom. \n(1 Korintusiaknak 13,1)</item>
+        <item>Lehet prófétáló tehetségem, ismerhetem az összes titkokat és mind a tudományokat, hitemmel elmozdíthatom a hegyeket, ha szeretet nincs bennem, mit sem érek. \n(1 Korintusiaknak 13,2)</item>
+        <item>Szétoszthatom mindenemet a nélkülözõk közt, odaadhatom a testemet is égõáldozatul, ha szeretet nincs bennem, mit sem használ nekem. \n(1 Korintusiaknak 13,3)</item>
+        <item>A szeretet türelmes, a szeretet jóságos, a szeretet nem féltékeny, nem kérkedik, nem is kevély. \n(1 Korintusiaknak 13,4)</item>
+        <item>S a szeretet nem szûnik meg soha. A prófétálás végetér, a nyelvek elhallgatnak, a tudomány elenyészik. \n(1 Korintusiaknak 13,8)</item>
+        <item>Amilyen bõven kijut nekünk Krisztus szenvedéseibõl, olyan bõven lesz részünk Krisztus révén a vigasztalásban is. \n(2 Korintusiaknak 1,5)</item>
+    </string-array>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d új értesítés</item>
+    <item quantity="other">%d új értesítés</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Fel"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Az összes megtekintése"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Válasszon alkalmazást"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"KI"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"BE"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Szóköz"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Megosztás a következő alkalmazással: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string name="app_name">Biblia Idézetek</string>
+    <string name="bottomsheet_action_expand_halfway">Kibontás félig</string>
+    <string name="character_counter_content_description">Begépelt karakterszám: %2$d/%1$d</string>
+    <string name="character_counter_overflowed_content_description">Maximális karakterszám túllépve: %2$d/%1$d</string>
+    <string name="clear_text_end_icon_content_description">Szöveg törlése</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra."</string>
+    <string name="desc_archive">Kedvencek</string>
+    <string name="desc_get_verse">Verset szerezni</string>
+    <string name="desc_remove_from_favorites">Eltávolítás</string>
+    <string name="desc_save_favorite">Mentés kedvencként</string>
+    <string name="desc_share">Ossza meg</string>
+    <string name="desc_sound_on">Hang be</string>
+    <string name="desc_turn_on_sound">Kapcsolja be a hangot</string>
+    <string name="error_icon_content_description">Hiba</string>
+    <string name="exposed_dropdown_menu_content_description">Legördülő menü megjelenítése</string>
+    <string name="favorites">Kedvenc</string>
+    <string name="icon_content_description">Párbeszédpanel ikonja</string>
+    <string name="item_view_role_description">Lap</string>
+    <string name="loading">Betöltés…</string>
+    <string name="material_clock_toggle_content_description">Válassza ki, hogy délelőtt vagy délután</string>
+    <string name="material_hour_selection">Óra kiválasztása</string>
+    <string name="material_hour_suffix">%1$s óra</string>
+    <string name="material_minute_selection">Perc kiválasztása</string>
+    <string name="material_minute_suffix">%1$s perc</string>
+    <string name="material_timepicker_am">de.</string>
+    <string name="material_timepicker_clock_mode_description">Időbevitelhez váltson óramódba.</string>
+    <string name="material_timepicker_hour">Óra</string>
+    <string name="material_timepicker_minute">Perc</string>
+    <string name="material_timepicker_pm">du.</string>
+    <string name="material_timepicker_select_time">Időpont kiválasztása</string>
+    <string name="material_timepicker_text_input_mode_description">Időbevitelhez váltson szövegbeviteli módba.</string>
+    <string name="mtrl_badge_numberless_content_description">Új értesítés</string>
+    <string name="mtrl_chip_close_icon_content_description">Eltávolítás (%1$s)</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Több mint %1$d új értesítés</string>
+    <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
+    <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
+    <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
+    <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Napok oszlopa: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Érvénytelen formátum.</string>
+    <string name="mtrl_picker_invalid_format_example">Példa: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Használja ezt: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Érvénytelen tartomány.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Ugrás ehhez az évhez: %1$s</string>
+    <string name="mtrl_picker_out_of_range">Tartományon kívül: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Kezdés dátuma – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Befejezés dátuma</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Válasszon dátumtartományt</string>
+    <string name="mtrl_picker_range_header_unselected">Kezdés dátuma – Befejezés dátuma</string>
+    <string name="mtrl_picker_save">Mentés</string>
+    <string name="mtrl_picker_text_input_date_hint">Dátum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Befejezés dátuma</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Kezdés dátuma</string>
+    <string name="mtrl_picker_text_input_day_abbr">N</string>
+    <string name="mtrl_picker_text_input_month_abbr">H</string>
+    <string name="mtrl_picker_text_input_year_abbr">É</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Váltás naptárbeviteli módra</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Koppintson a nap kiválasztásához</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Váltás szövegbeviteli módra</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Koppintson az év kiválasztásához</string>
+    <string msgid="4014704848104544569" name="offline_notification_text">"Koppintson a hirdetés megnyitásához"</string>
+    <string msgid="6989673690118446590" name="offline_notification_title">"Az offline mentett hirdetés megtekintése"</string>
+    <string msgid="6452552490969291315" name="offline_opt_in_confirm">"OK"</string>
+    <string msgid="2485091187023273083" name="offline_opt_in_confirmation">"Linket tartalmazó értesítést kap, amikor újra online lesz"</string>
+    <string msgid="1070677888032715836" name="offline_opt_in_decline">"Nem"</string>
+    <string msgid="5998527443747404848" name="offline_opt_in_message">"Értesítést küldünk, amelyben a hirdető webhelyére mutató link szerepel."</string>
+    <string msgid="4928666061183236333" name="offline_opt_in_title">"Megnyithatja a hirdetést akkor, amikor újra online lesz."</string>
+    <string name="password_toggle_content_description">Jelszó megjelenítése</string>
+    <string msgid="368094699078615544" name="s1">"Kép mentése"</string>
+    <string msgid="4550830452390689489" name="s2">"Engedélyezi a hirdetés számára a kép tárolását a Képgalériában?"</string>
+    <string msgid="2435407834265420668" name="s3">"Elfogadás"</string>
+    <string msgid="9167523597401839819" name="s4">"Elutasítás"</string>
+    <string msgid="1566682516266724847" name="s5">"Naptáresemény létrehozása"</string>
+    <string msgid="5996672174517137271" name="s6">"Engedélyezi a hirdetés számára naptáresemény létrehozását?"</string>
+    <string msgid="7163549807207034258" name="s7">"Teszthirdetés"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Keresés"</string>
+    <string name="shake_the_phone">Rázza meg a telefont</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_copied">Szöveg másolva.</string>
+</resources>

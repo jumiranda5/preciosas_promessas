@@ -1,4 +1,4 @@
-package com.jgm.preciosaspromessas;
+package com.alf.preciosaspromessas;
 
 import org.junit.Test;
 

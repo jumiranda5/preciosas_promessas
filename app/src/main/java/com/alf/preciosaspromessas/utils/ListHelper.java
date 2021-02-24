@@ -58,6 +58,7 @@ public class ListHelper extends SQLiteOpenHelper {
 
         if (cursor != null) cursor.moveToFirst();
 
+        assert cursor != null;
         int _id = Integer.parseInt(cursor.getString(0));
         String v = cursor.getString(1);
 
@@ -90,7 +91,7 @@ public class ListHelper extends SQLiteOpenHelper {
 
     // Getting all saved verses
     public List<Verse> getAllVerses() {
-        List<Verse> favList = new ArrayList<Verse>();
+        List<Verse> favList = new ArrayList<>();
         // Select All Query
         String selectQuery = "SELECT  * FROM " + TABLE_VERSES;
         SQLiteDatabase db = this.getWritableDatabase();
